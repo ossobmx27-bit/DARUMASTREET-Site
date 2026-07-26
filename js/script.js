@@ -1,59 +1,123 @@
-// ========================================
-// DARUMA STREET
-// Ver.0.1
-// ========================================
+// DARUMA STREET Ver 0.3
 
 window.addEventListener("load", () => {
 
-    const loading = document.getElementById("loading");
-    const bar = document.querySelector(".loading-bar span");
+  // ==========================
+  // Loading
+  // ==========================
 
-    // ローディングバー
-    bar.style.transition = "width 2s ease";
-    bar.style.width = "100%";
+  const loading = document.getElementById("loading");
 
-    // 2.2秒後にローディングを消す
+  if (loading) {
     setTimeout(() => {
+      loading.style.opacity = "0";
+      loading.style.transition = "opacity .6s ease";
 
-        loading.style.transition = "opacity .8s ease";
-        loading.style.opacity = "0";
+      setTimeout(() => {
+        loading.style.display = "none";
+      }, 600);
 
-        setTimeout(() => {
+    }, 2000);
+  }
 
-            loading.style.display = "none";
+  // ==========================
+  // Hero Slider
+  // ==========================
 
-        }, 800);
+  const slides = document.querySelectorAll(".slide");
+  const numbers = document.querySelectorAll(".hero-counter span");
 
-    }, 2200);
+  let current = 0;
 
-});
+  function changeSlide(index) {
 
+    slides.forEach(slide => {
+      slide.classList.remove("active");
+    });
 
-// ========================================
-// HERO SLIDER
-// ========================================
+    numbers.forEach(number => {
+      number.style.opacity = "0.4";
+    });
 
-const slides = document.querySelectorAll(".slide");
-const numbers = document.querySelectorAll(".hero-counter span");
-
-let current = 0;
-
-function changeSlide() {
-
-    slides[current].classList.remove("active");
-    numbers[current].classList.remove("current");
-
-    current++;
-
-    if (current >= slides.length) {
-
-        current = 0;
-
+    if (slides[index]) {
+      slides[index].classList.add("active");
     }
 
-    slides[current].classList.add("active");
-    numbers[current].classList.add("current");
+    if (numbers[index]) {
+      numbers[index].style.opacity = "1";
+    }
 
-}
+  }
 
-setInterval(changeSlide, 5000);
+  if (slides.length > 0) {
+
+    changeSlide(0);
+
+    setInterval(() => {
+
+      current++;
+
+      if (current >= slides.length) {
+        current = 0;
+      }
+
+      changeSlide(current);
+
+    }, 5000);
+
+  }
+
+  // ==========================
+  // Menu
+  // ==========================
+
+  const menu = document.getElementById("menu");
+  const menuButton = document.getElementById("menuButton");
+  const closeButton = document.getElementById("closeMenu");
+
+  if (menuButton) {
+
+    menuButton.addEventListener("click", () => {
+
+      menu.style.right = "0";
+
+    });
+
+  }
+
+  if (closeButton) {
+
+    closeButton.addEventListener("click", () => {
+
+      menu.style.right = "-100%";
+
+    });
+
+  }
+
+  // ==========================
+  // Search
+  // ==========================
+
+  const searchButton = document.getElementById("searchButton");
+  const searchOverlay = document.getElementById("searchOverlay");
+
+  if (searchButton) {
+
+    searchButton.addEventListener("click", () => {
+
+      if (searchOverlay.style.display === "block") {
+
+        searchOverlay.style.display = "none";
+
+      } else {
+
+        searchOverlay.style.display = "block";
+
+      }
+
+    });
+
+  }
+
+});
