@@ -1,146 +1,72 @@
 <!DOCTYPE html>
 <html lang="ja">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>DARUMA STREET</title>
-    <meta name="description"
-        content="DARUMA STREET Official Website | BMX Brand from Toyama, Japan.">
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/style.css">
-
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Noto+Sans+JP:wght@300;400;500&display=swap" rel="stylesheet">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DARUMA STREET</title>
+<meta name="description" content="DARUMA STREET Official Website">
+<link rel="stylesheet" href="css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Noto+Sans+JP:wght@300;400;500&display=swap" rel="stylesheet">
 </head>
-
 <body>
 
-    <!-- =========================
-         LOADING
-    ========================== -->
+<div id="loading">
+<img src="assets/logo/logo.svg" alt="DARUMA STREET">
+<div class="loading-bar"><span></span></div>
+</div>
 
-    <div id="loading">
+<header class="site-header">
+<a href="index.html" class="logo"><img src="assets/logo/logo.svg" alt="DARUMA STREET"></a>
+<div class="header-actions">
+<button id="searchButton" aria-label="Search">🔍</button>
+<button id="menuButton">MENU</button>
+</div>
+</header>
 
-        <div class="loading-logo">
+<nav id="menu">
+<button id="closeMenu">CLOSE</button>
+<ul>
+<li><a href="about.html">ABOUT</a></li>
+<li><a href="products.html">PRODUCTS</a></li>
+<li><a href="team.html">TEAM</a></li>
+<li><a href="dealers.html">DEALERS</a></li>
+<li><a href="media.html">MEDIA</a></li>
+<li><a href="news.html">NEWS</a></li>
+<li><a href="contact.html">CONTACT</a></li>
+</ul>
 
-            <!-- 後でSVGロゴに変更 -->
-            <img src="assets/logo/logo.svg" alt="DARUMA STREET">
+<div class="menu-social">
+<a href="https://www.instagram.com/daruma_street/" target="_blank">Instagram</a>
+<a href="https://www.youtube.com/channel/UChKPilzXF9qvHxwmIolRzbw" target="_blank">YouTube</a>
+</div>
+</nav>
 
-        </div>
+<div id="searchOverlay">
+<input type="search" placeholder="Search DARUMA STREET">
+</div>
 
-        <div class="loading-bar">
+<section id="hero">
+<div class="hero-slider">
+<div class="slide active"><img src="assets/images/hero01.jpg" alt=""></div>
+<div class="slide"><img src="assets/images/hero02.jpg" alt=""></div>
+<div class="slide"><img src="assets/images/hero03.jpg" alt=""></div>
+</div>
+<div class="hero-counter"><span>01</span><span>02</span><span>03</span></div>
+</section>
 
-            <span></span>
+<main>
+<section id="about-preview"><h2>ABOUT</h2><p>DARUMA STREET is a BMX street brand from Toyama, Japan.</p><a href="about.html">Read More</a></section>
+<section id="news-preview"><h2>NEW</h2><p>Latest updates will appear here.</p></section>
+<section id="team-preview"><h2>TEAM</h2><a href="team.html">View Riders</a></section>
+<section id="products-preview"><h2>PRODUCTS</h2><a href="products.html">View Products</a></section>
+<section id="dealers-preview"><h2>DEALERS</h2><a href="dealers.html">Find Dealers</a></section>
+<section id="contact-preview"><h2>CONTACT</h2><p>For inquiries, collaborations and wholesale, please contact us via Instagram DM.</p><a href="https://www.instagram.com/daruma_street/" target="_blank">Instagram DM</a></section>
+</main>
 
-        </div>
+<footer><p>© DARUMA STREET</p></footer>
 
-    </div>
-
-
-
-    <!-- =========================
-         HEADER
-    ========================== -->
-
-    <header>
-
-        <a href="/" class="logo">
-
-            <img src="assets/logo/logo.svg" alt="DARUMA STREET">
-
-        </a>
-
-        <button id="menuButton">
-
-            MENU
-
-        </button>
-
-    </header>
-
-
-
-    <!-- =========================
-         HERO
-    ========================== -->
-
-    <section id="hero">
-
-        <div class="hero-slider">
-
-            <div class="slide active">
-
-                <img src="assets/images/hero01.jpg" alt="DARUMA STREET">
-
-            </div>
-
-            <div class="slide">
-
-                <img src="assets/images/hero02.jpg" alt="DARUMA STREET">
-
-            </div>
-
-            <div class="slide">
-
-                <img src="assets/images/hero03.jpg" alt="DARUMA STREET">
-
-            </div>
-
-        </div>
-
-
-
-        <!-- スライド番号 -->
-
-        <div class="hero-counter">
-
-            <span class="current">01</span>
-
-            <span>02</span>
-
-            <span>03</span>
-
-        </div>
-
-    </section>
-
-
-
-    <!-- =========================
-         MENU
-    ========================== -->
-
-    <nav id="menu">
-
-        <ul>
-
-            <li><a href="#">ABOUT</a></li>
-
-            <li><a href="#">PRODUCTS</a></li>
-
-            <li><a href="#">TEAM</a></li>
-
-            <li><a href="#">NEWS</a></li>
-
-            <li><a href="#">DEALERS</a></li>
-
-            <li><a href="#">CONTACT</a></li>
-
-        </ul>
-
-    </nav>
-
-
-
-    <!-- JavaScript -->
-
-    <script src="js/script.js"></script>
-
+<script src="js/script.js"></script>
 </body>
-
 </html>

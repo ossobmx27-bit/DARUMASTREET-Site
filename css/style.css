@@ -1,204 +1,250 @@
-/* ========================================
-   DARUMA STREET
-   Ver.0.1
-======================================== */
+/* =========================
+   DARUMA STREET Ver0.2
+========================= */
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
 }
 
-html,
-body {
-    width: 100%;
-    height: 100%;
+html{
+    scroll-behavior:smooth;
 }
 
-body {
-    font-family: "Montserrat", "Noto Sans JP", sans-serif;
-    background: #ffffff;
-    color: #111;
-    overflow-x: hidden;
+body{
+    font-family:'Montserrat','Noto Sans JP',sans-serif;
+    background:#000;
+    color:#fff;
+    overflow-x:hidden;
 }
 
-/* ========================================
-   LOADING
-======================================== */
-
-#loading {
-    position: fixed;
-    inset: 0;
-    background: #000;
-    z-index: 9999;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+a{
+    color:inherit;
+    text-decoration:none;
 }
 
-.loading-logo img {
-
-    width: 220px;
-    max-width: 70vw;
-
+img{
+    display:block;
+    width:100%;
 }
 
-.loading-bar {
+ul{
+    list-style:none;
+}
 
-    width: 220px;
-    height: 2px;
+/* Loading */
 
-    background: rgba(255,255,255,.15);
+#loading{
+    position:fixed;
+    inset:0;
+    background:#000;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    z-index:9999;
+}
 
-    margin-top:40px;
+#loading img{
+    width:180px;
+    margin-bottom:40px;
+}
 
+.loading-bar{
+    width:180px;
+    height:2px;
+    background:#333;
     overflow:hidden;
-
 }
 
 .loading-bar span{
-
     display:block;
-
-    width:0;
-
+    width:0%;
     height:100%;
-
     background:#fff;
-
+    animation:loading 2s forwards;
 }
 
-/* ========================================
-   HEADER
-======================================== */
+@keyframes loading{
+    to{width:100%;}
+}
 
-header{
+/* Header */
 
+.site-header{
     position:fixed;
-
     top:0;
     left:0;
-
     width:100%;
-
-    padding:28px 36px;
-
     display:flex;
-
     justify-content:space-between;
-
     align-items:center;
-
+    padding:24px 40px;
     z-index:1000;
-
 }
 
 .logo img{
-
-    width:170px;
-
-    display:block;
-
+    width:120px;
 }
 
-#menuButton{
+.header-actions{
+    display:flex;
+    gap:20px;
+}
 
+.header-actions button{
     background:none;
-
     border:none;
-
     color:#fff;
-
-    font-size:14px;
-
-    font-family:"Montserrat";
-
-    letter-spacing:.2em;
-
     cursor:pointer;
-
+    font-size:14px;
+    letter-spacing:.15em;
 }
 
-/* ========================================
-   HERO
-======================================== */
+/* Hero */
 
 #hero{
-
     position:relative;
-
     width:100%;
-
-    height:100svh;
-
+    height:100vh;
     overflow:hidden;
-
 }
 
-.hero-slider{
-
-    position:absolute;
-
-    inset:0;
-
+.hero-slider,
+.slide{
+    width:100%;
+    height:100%;
 }
 
 .slide{
-
     position:absolute;
-
     inset:0;
-
     opacity:0;
-
-    transition:opacity 1s ease;
-
+    transition:opacity .8s;
 }
 
 .slide.active{
-
     opacity:1;
-
 }
 
 .slide img{
-
     width:100%;
-
     height:100%;
-
     object-fit:cover;
-
-    transform:scale(1);
-
 }
 
 .hero-counter{
-
     position:absolute;
-
-    right:36px;
-
-    bottom:36px;
-
+    right:40px;
+    bottom:40px;
     display:flex;
-
     flex-direction:column;
-
-    gap:10px;
-
-    color:#fff;
-
-    font-size:13px;
-
-    letter-spacing:.15em;
-
+    gap:6px;
+    font-size:12px;
+    letter-spacing:.2em;
 }
 
-.hero-counter .current{
+/* Sections */
 
-    font-weight:600;
+main section{
+    max-width:1100px;
+    margin:0 auto;
+    padding:120px 30px;
+}
+
+main h2{
+    font-size:42px;
+    margin-bottom:24px;
+    letter-spacing:.08em;
+}
+
+main p{
+    max-width:700px;
+    line-height:1.9;
+    color:#cfcfcf;
+}
+
+main a{
+    display:inline-block;
+    margin-top:30px;
+    border:1px solid #fff;
+    padding:14px 26px;
+    transition:.3s;
+}
+
+main a:hover{
+    background:#fff;
+    color:#000;
+}
+
+/* Menu */
+
+#menu{
+    position:fixed;
+    top:0;
+    right:-100%;
+    width:320px;
+    height:100vh;
+    background:#111;
+    padding:40px;
+    transition:.4s;
+    z-index:1200;
+}
+
+#menu ul{
+    margin-top:60px;
+}
+
+#menu li{
+    margin-bottom:22px;
+}
+
+.menu-social{
+    margin-top:50px;
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+}
+
+/* Search */
+
+#searchOverlay{
+    display:none;
+}
+
+/* Footer */
+
+footer{
+    border-top:1px solid #222;
+    padding:40px 20px;
+    text-align:center;
+    color:#888;
+}
+
+/* Mobile */
+
+@media (max-width:768px){
+
+.site-header{
+    padding:20px;
+}
+
+.logo img{
+    width:90px;
+}
+
+.hero-counter{
+    right:20px;
+    bottom:20px;
+}
+
+main h2{
+    font-size:30px;
+}
+
+main section{
+    padding:80px 20px;
+}
 
 }
