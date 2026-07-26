@@ -116,3 +116,45 @@
 }
 
 }
+/* ==========================
+   Accordion
+========================== */
+
+.accordion-item{
+    margin-bottom:40px;
+    border-bottom:1px solid #333;
+    padding-bottom:20px;
+}
+
+.accordion-header{
+    width:100%;
+    background:#000;
+    color:#fff;
+    border:none;
+    padding:18px 22px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    cursor:pointer;
+    font-size:22px;
+    letter-spacing:.08em;
+    transition:.25s;
+}
+
+.accordion-header:hover{
+    background:#111;
+}
+
+.accordion-icon{
+    font-size:28px;
+    font-weight:700;
+}
+
+.accordion-content{
+    display:none;
+    padding:35px 0 10px;
+}
+
+.accordion-item.active .accordion-content{
+    display:block;
+}
