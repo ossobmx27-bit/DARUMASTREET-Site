@@ -28,10 +28,24 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // 商品表示
-    document.getElementById("product-content").innerHTML = `
+  document.getElementById("product-content").innerHTML = `
+
+<div class="product-detail">
+
+    <div class="product-image">
+
+        <img src="${product.image}" alt="${product.name}">
+
+    </div>
+
+    <div class="product-info">
+
         <h1>${product.name}</h1>
 
-        <p>${product.price}</p>
-    `;
+        <p class="product-price">${product.price}</p>
 
-});
+    </div>
+
+</div>
+
+`;
