@@ -1,0 +1,29 @@
+.product-page{
+
+    max-width:1200px;
+
+    margin:140px auto 100px;
+
+    padding:0 24px;
+
+}
+
+.back-link{
+
+    display:inline-block;
+
+    margin-bottom:50px;
+
+    color:#fff;
+
+    text-decoration:none;
+
+    letter-spacing:.08em;
+
+}
+
+#product-content{
+
+    min-height:700px;
+
+}
