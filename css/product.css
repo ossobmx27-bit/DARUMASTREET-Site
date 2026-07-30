@@ -146,3 +146,23 @@
     font-size:14px;
 
 }
+
+.product-description{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:20px;
+
+    line-height:1.9;
+
+    color:#ddd;
+
+}
+
+.product-description p{
+
+    margin:0;
+
+}

@@ -72,6 +72,22 @@ document.addEventListener("DOMContentLoaded", () => {
 
     </div>
 
+    <div class="product-section">
+
+    <h2>DESCRIPTION</h2>
+
+    <div class="product-description">
+
+        <p>${detail.description.en}</p>
+
+        <br>
+
+        <p>${detail.description.ja}</p>
+
+    </div>
+
+</div>
+
 </div>
 
     `;
