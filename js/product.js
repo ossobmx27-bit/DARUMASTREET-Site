@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const id = params.get("id");
 
     let product = null;
+    let detail = null;
 
     // 全カテゴリーから検索
     products.forEach(category => {
@@ -12,7 +13,10 @@ document.addEventListener("DOMContentLoaded", () => {
         const found = category.items.find(item => item.id === id);
 
         if (found) {
+
             product = found;
+            detail = productDetails[id];
+
         }
 
     });
@@ -28,26 +32,38 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // 商品表示
-  document.getElementById("product-content").innerHTML = `
+    document.getElementById("product-content").innerHTML = `
 
-<div class="product-detail">
+        <div class="product-detail">
 
-    <div class="product-image">
+            <div class="product-image">
 
-        <img src="${product.image}" alt="${product.name}">
+                <img src="${product.image}" alt="${product.name}">
 
-    </div>
+            </div>
 
-    <div class="product-info">
+            <div class="product-info">
 
-        <h1>${product.name}</h1>
+                <h1>${product.name}</h1>
 
-        <p class="product-price">${product.price}</p>
+                <p class="product-price">${product.price}</p>
 
-     </div>
+                <div class="product-section">
 
-</div>
+                    <h2>COLOR</h2>
 
-`;
+                    <div class="product-colors">
+
+                        ${detail.colors.map(color => `<span>${color}</span>`).join("")}
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    `;
 
 });
