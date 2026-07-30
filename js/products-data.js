@@ -48,48 +48,81 @@ const products = [
 
   },
 
-  {
-
+ {
     category: "TEE",
 
     items: [
 
-      {
+        {
 
-        id: "logo-t-shirt",
+            id: "logo-t-shirt",
 
-        name: "Logo T-Shirt",
+            name: "Logo T-Shirt",
 
-        price: "¥4,400",
+            price: "¥4,400",
 
-        image: "assets/products/logo-t-shirt/main.jpg",
+            image: "assets/products/logo-t-shirt/main.webp",
 
-        details: "product.html?id=logo-t-shirt"
+            details: "product.html?id=logo-t-shirt"
 
-      }
+        },
+
+        {
+
+            id: "box-logo-t-shirt",
+
+            name: "Box Logo T-Shirt",
+
+            price: "¥4,400",
+
+            image: "assets/products/box-logo-t-shirt/main.webp",
+
+            details: "product.html?id=box-logo-t-shirt"
+
+        },
+
+        {
+
+            id: "long-sleeve-logo-t-shirt",
+
+            name: "Long Sleeve Logo T-Shirt",
+
+            price: "¥5,500",
+
+            image: "assets/products/long-sleeve-logo-t-shirt/main.webp",
+
+            details: "product.html?id=long-sleeve-logo-t-shirt"
+
+        },
+
+        {
+
+            id: "long-sleeve-box-logo-t-shirt",
+
+            name: "Long Sleeve Box Logo T-Shirt",
+
+            price: "¥5,500",
+
+            image: "assets/products/long-sleeve-box-logo-t-shirt/main.webp",
+
+            details: "product.html?id=long-sleeve-box-logo-t-shirt"
+
+        },
+
+        {
+
+            id: "jic-t-shirt",
+
+            name: "J.I.C T-Shirt",
+
+            price: "¥4,400",
+
+            image: "assets/products/jic-t-shirt/main.jpg",
+
+            details: "product.html?id=jic-t-shirt"
+
+        }
 
     ]
 
-  },
-
-  {
-
-    category: "CAP / SOCKS / ACCESSORY",
-
-    items: [
-
-    ]
-
-  },
-
-  {
-
-    category: "GOODS & DVD",
-
-    items: [
-
-    ]
-
-  }
-
-];
+},
