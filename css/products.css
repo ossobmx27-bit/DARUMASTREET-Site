@@ -1,0 +1,156 @@
+/* ==========================
+   PRODUCTS PAGE
+========================== */
+
+.products-page{
+    max-width:1200px;
+    margin:140px auto 100px;
+    padding:0 24px;
+}
+
+.products-page h1{
+    font-size:56px;
+    margin-bottom:20px;
+    letter-spacing:.08em;
+}
+
+.products-intro{
+    font-size:18px;
+    margin-bottom:10px;
+}
+
+.products-shipping{
+    margin-bottom:60px;
+    color:#888;
+}
+
+.products-shipping a{
+    color:#fff;
+    text-decoration:none;
+    border-bottom:1px solid #fff;
+}
+
+/* ==========================
+   Accordion
+========================== */
+
+.product-category{
+    border-bottom:1px solid #333;
+    margin-bottom:30px;
+}
+
+.product-category-header{
+    width:100%;
+    padding:20px;
+    background:#000;
+    color:#fff;
+    border:none;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    cursor:pointer;
+    font-size:22px;
+    letter-spacing:.08em;
+}
+
+.product-category-content{
+    display:none;
+    padding:40px 0;
+}
+
+.product-category.active .product-category-content{
+    display:block;
+}
+
+/* ==========================
+   Product Grid
+========================== */
+
+.product-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+    gap:40px;
+}
+
+.product-card img{
+    width:100%;
+    aspect-ratio:1/1;
+    object-fit:cover;
+    display:block;
+    margin-bottom:20px;
+}
+
+.product-card h3{
+    font-size:22px;
+    margin-bottom:10px;
+}
+
+.product-price{
+    margin-bottom:20px;
+}
+
+.product-buttons{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.product-buttons a{
+    text-decoration:none;
+    color:#fff;
+    border:1px solid #fff;
+    padding:12px;
+    text-align:center;
+    transition:.25s;
+}
+
+.product-buttons a:hover{
+    background:#fff;
+    color:#000;
+}
+
+/* ==========================
+   Footer
+========================== */
+
+.products-footer{
+    margin-top:100px;
+    text-align:center;
+}
+
+.products-footer h2{
+    margin-bottom:20px;
+}
+
+.products-footer a{
+    display:inline-block;
+    margin-top:25px;
+    color:#fff;
+    text-decoration:none;
+    border:1px solid #fff;
+    padding:14px 30px;
+}
+
+/* ==========================
+   Mobile
+========================== */
+
+@media(max-width:768px){
+
+.products-page{
+    margin-top:110px;
+}
+
+.products-page h1{
+    font-size:40px;
+}
+
+.product-category-header{
+    font-size:18px;
+}
+
+.product-grid{
+    grid-template-columns:1fr;
+}
+
+}
