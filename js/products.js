@@ -1,79 +1,39 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-    const container = document.getElementById("products-container");
+    // URLからid取得
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("id");
 
+    let product = null;
+
+    // 全カテゴリーから検索
     products.forEach(category => {
 
-        const section = document.createElement("div");
-        section.className = "product-category";
+        const found = category.items.find(item => item.id === id);
 
-        section.innerHTML = `
-            <button class="product-category-header">
-                <span>${category.category}</span>
-                <span class="accordion-icon">+</span>
-            </button>
+        if(found){
+            product = found;
+        }
 
-            <div class="product-category-content">
-                <div class="product-grid"></div>
-            </div>
+    });
+
+    // 商品が見つからなかった場合
+    if(!product){
+
+        document.getElementById("product-content").innerHTML = `
+            <h1>Product Not Found</h1>
         `;
 
-        const grid = section.querySelector(".product-grid");
+        return;
+    }
 
-        category.items.forEach(item => {
+    // 商品表示
+    document.getElementById("product-content").innerHTML = `
 
-            const card = document.createElement("div");
-            card.className = "product-card";
+        <h1>${product.name}</h1>
 
-card.innerHTML = `
-<a class="product-link" href="${item.details}">
+        <p>${product.price}</p>
 
-    <img src="${item.image}" alt="${item.name}">
-
-    <h3>${item.name}</h3>
-
-    <p class="product-price">${item.price}</p>
-
-</a>
-`;
-
-            grid.appendChild(card);
-
-        });
-
-        container.appendChild(section);
-
-    });
-
-    /* Accordion */
-
-    const headers = document.querySelectorAll(".product-category-header");
-
-    headers.forEach(header => {
-
-        header.addEventListener("click", () => {
-
-            const current = header.parentElement;
-
-            document.querySelectorAll(".product-category").forEach(item => {
-
-                if(item !== current){
-
-                    item.classList.remove("active");
-
-                    item.querySelector(".accordion-icon").textContent = "+";
-
-                }
-
-            });
-
-            current.classList.toggle("active");
-
-            current.querySelector(".accordion-icon").textContent =
-                current.classList.contains("active") ? "−" : "+";
-
-        });
-
-    });
+    `;
 
 });
