@@ -44,8 +44,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
         <p class="product-price">${product.price}</p>
 
-    </div>
+     </div>
 
 </div>
 
 `;
+
+});
