@@ -4,7 +4,7 @@ const productDetails = {
 
         colors: [
             "Black",
-            "Olive"
+            "White"
         ],
 
         sizes: [

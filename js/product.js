@@ -42,27 +42,37 @@ document.addEventListener("DOMContentLoaded", () => {
 
             </div>
 
-            <div class="product-info">
+        <div class="product-info">
 
-                <h1>${product.name}</h1>
+    <h1>${product.name}</h1>
 
-                <p class="product-price">${product.price}</p>
+    <p class="product-price">${product.price}</p>
 
-                <div class="product-section">
+    <div class="product-section">
 
-                    <h2>COLOR</h2>
+        <h2>COLOR</h2>
 
-                    <div class="product-colors">
+        <div class="product-colors">
 
-                        ${detail.colors.map(color => `<span>${color}</span>`).join("")}
-
-                    </div>
-
-                </div>
-
-            </div>
+            ${detail.colors.map(color => `<span>${color}</span>`).join("")}
 
         </div>
+
+    </div>
+
+    <div class="product-section">
+
+        <h2>SIZE</h2>
+
+        <div class="product-sizes">
+
+            ${detail.sizes.map(size => `<span>${size}</span>`).join("")}
+
+        </div>
+
+    </div>
+
+</div>
 
     `;
 
