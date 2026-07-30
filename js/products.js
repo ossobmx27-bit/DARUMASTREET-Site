@@ -25,29 +25,17 @@ document.addEventListener("DOMContentLoaded", () => {
             const card = document.createElement("div");
             card.className = "product-card";
 
-            card.innerHTML = `
-                <img src="${item.image}" alt="${item.name}">
+card.innerHTML = `
+<a class="product-link" href="${item.details}">
 
-                <h3>${item.name}</h3>
+    <img src="${item.image}" alt="${item.name}">
 
-                <p class="product-price">${item.price}</p>
+    <h3>${item.name}</h3>
 
-                <div class="product-buttons">
+    <p class="product-price">${item.price}</p>
 
-                    <a href="${item.details}">
-                        VIEW DETAILS →
-                    </a>
-
-                    <a href="https://store.motobunka.com/collections/daruma-street"
-                       target="_blank"
-                       rel="noopener noreferrer">
-
-                        BUY AT MOTO-BUNKA STORE →
-
-                    </a>
-
-                </div>
-            `;
+</a>
+`;
 
             grid.appendChild(card);
 

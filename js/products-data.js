@@ -6,18 +6,31 @@ const products = [
     items: [
 
       {
+    id: "grind-work-shirt",
 
-        id: "grind-work-shirt",
+    name: "Grind Work Shirt",
 
-        name: "Grind Work Shirt",
+    price: "¥8,980",
 
-        price: "¥8,980",
+    image: "assets/products/grind-work-shirt/main.jpg",
 
-        image: "assets/products/grind-work-shirt/main.jpg",
+    colors: [
+        "Black",
+        "Olive"
+    ],
 
-        details: "product.html?id=grind-work-shirt"
+    sizes: [
+        "M",
+        "L",
+        "XL"
+    ],
 
-      },
+    material: "100% Cotton",
+
+    description: "Replace with official product description.",
+
+    details: "product.html?id=grind-work-shirt"
+}
 
       {
 
