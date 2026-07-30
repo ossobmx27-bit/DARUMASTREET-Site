@@ -88,6 +88,30 @@ document.addEventListener("DOMContentLoaded", () => {
 
 </div>
 
+<div class="product-section">
+
+    <h2>WHERE TO BUY</h2>
+
+    <div class="product-buy">
+
+        <a href="https://store.motobunka.com/collections/daruma-street"
+           target="_blank"
+           rel="noopener noreferrer">
+
+            BUY AT MOTO-BUNKA STORE →
+
+        </a>
+
+        <a href="dealers.html">
+
+            FIND A DEALER →
+
+        </a>
+
+    </div>
+
+</div>
+
 </div>
 
     `;

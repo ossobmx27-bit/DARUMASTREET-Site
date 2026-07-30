@@ -166,3 +166,39 @@
     margin:0;
 
 }
+
+.product-buy{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:16px;
+
+}
+
+.product-buy a{
+
+    display:block;
+
+    border:1px solid #fff;
+
+    padding:16px 20px;
+
+    color:#fff;
+
+    text-decoration:none;
+
+    letter-spacing:.08em;
+
+    transition:.25s;
+
+}
+
+.product-buy a:hover{
+
+    background:#fff;
+
+    color:#000;
+
+}
