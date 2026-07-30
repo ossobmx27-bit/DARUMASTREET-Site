@@ -6,34 +6,19 @@ const products = [
     items: [
 
       {
-    id: "grind-work-shirt",
+        id: "grind-work-shirt",
 
-    name: "Grind Work Shirt",
+        name: "Grind Work Shirt",
 
-    price: "¥8,980",
+        price: "¥8,980",
 
-    image: "assets/products/grind-work-shirt/main.jpg",
+        image: "assets/products/grind-work-shirt/main.jpg",
 
-    colors: [
-        "Black",
-        "Olive"
-    ],
+        details: "product.html?id=grind-work-shirt"
 
-    sizes: [
-        "M",
-        "L",
-        "XL"
-    ],
-
-    material: "100% Cotton",
-
-    description: "Replace with official product description.",
-
-    details: "product.html?id=grind-work-shirt"
-}
+      },
 
       {
-
         id: "box-logo-sweat",
 
         name: "Box Logo Sweat",
@@ -47,7 +32,6 @@ const products = [
       },
 
       {
-
         id: "cube-logo-sweater",
 
         name: "Cube Logo Sweater",
@@ -83,6 +67,26 @@ const products = [
         details: "product.html?id=logo-t-shirt"
 
       }
+
+    ]
+
+  },
+
+  {
+
+    category: "CAP / SOCKS / ACCESSORY",
+
+    items: [
+
+    ]
+
+  },
+
+  {
+
+    category: "GOODS & DVD",
+
+    items: [
 
     ]
 
