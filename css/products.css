@@ -51,6 +51,16 @@
     cursor:pointer;
     font-size:22px;
     letter-spacing:.08em;
+    .product-category-header span:first-child{
+    flex:1;
+    display:block;
+    text-align:left;
+}
+
+.accordion-icon{
+    flex-shrink:0;
+    margin-left:20px;
+}
 }
 
 .product-category-content{
