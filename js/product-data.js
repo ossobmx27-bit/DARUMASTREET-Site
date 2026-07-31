@@ -111,15 +111,15 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
             },
 
             {
-                image: "assets/products/box-logo-sweat/Gray1.webp"
+                image: "assets/products/box-logo-sweat/Grey1.webp"
             },
 
             {
-                image: "assets/products/box-logo-sweat/Gray2.webp"
+                image: "assets/products/box-logo-sweat/Grey2.webp"
             },
 
             {
-                image: "assets/products/box-logo-sweat/Gray3.webp"
+                image: "assets/products/box-logo-sweat/Grey3.webp"
             },
 
             {
@@ -138,6 +138,92 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
 
         buy: "https://store.motobunka.com/collections/daruma-street"
 
-    }
+    },
+
+    "cube-logo-sweater": {
+
+    colors: [
+        "Red",
+        "Brown",
+        "Green"
+    ],
+
+    sizes: [
+        "S / M / L / XL / 2XL / 3XL"
+    ],
+
+    material: {
+        en: "50% Cotton / 50% Acrylic",
+        ja: "コットン 50％ / アクリル 50％"
+    },
+
+    description: {
+
+        en: `An original knit sweater featuring an all-over reinterpretation of the DARUMA STREET logo. The cotton and acrylic blend provides warmth, durability, breathability, and a soft feel, making it a versatile piece for everything from the coldest winter days to everyday wear throughout autumn and spring.`,
+
+        ja: `DARUMA STREETのロゴをアレンジしたデザインを全面に配置したオリジナルニットセーター。
+
+アクリルとコットンの混紡繊維をしっかりと編み込んだ生地は、耐久性・保温性に優れながらも通気性が良く、肌触りも良い仕上がりとなっております。
+
+真冬のアウターにはもちろん、秋から春まで大活躍の一着となっております。`
+
+    },
+
+    gallery: [
+
+        {
+            image: "assets/products/cube-logo-sweater/main.jpg"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Red1.webp"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Red2.webp"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Red3.webp"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Brown1.webp"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Brown2.webp"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Brown3.webp"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Green1.webp"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Green2.webp"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Detail1.jpg"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Detail2.jpg"
+        },
+
+        {
+            image: "assets/products/cube-logo-sweater/Detail3.jpg"
+        },
+
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
 
 };
