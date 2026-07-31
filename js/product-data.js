@@ -288,4 +288,60 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
 
 },
 
+"box-logo-t-shirt": {
+
+    colors: [
+        "Black",
+        "Navy"
+    ],
+
+    sizes: [
+        "S / M / L / XL / 2XL / 3XL"
+    ],
+
+    material: {
+        en: "100% Cotton",
+        ja: "綿 100％"
+    },
+
+    description: {
+
+        en: `A clean and timeless T-shirt featuring the signature "BOX LOGO" printed on the back. Designed with no front print, it offers a minimalist look while highlighting the bold graphic on the back.`,
+
+        ja: `DARUMA STREETの"BOX LOGO"をバックにプリントしたシンプルなデザインです。フロントにはプリントを入れず、バックグラフィックを際立たせた一着となっております。`
+
+    },
+
+    gallery: [
+
+        {
+            image: "assets/products/box-logo-t-shirt/main.webp"
+        },
+
+        {
+            image: "assets/products/box-logo-t-shirt/Black.webp"
+        },
+
+        {
+            image: "assets/products/box-logo-t-shirt/Navy.webp"
+        },
+
+        {
+            image: "assets/products/box-logo-t-shirt/Detail1.jpg"
+        },
+
+        {
+            image: "assets/products/box-logo-t-shirt/Detail2.jpg"
+        },
+
+        {
+            image: "assets/products/box-logo-t-shirt/Detail3.jpg"
+        },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
 };
