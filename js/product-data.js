@@ -689,7 +689,7 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
 
     gallery: [
 
-        { image: "assets/products/compact-lenz-cleaner-kit/main.jpg" },
+        { image: "assets/products/compact-lenz-cleaner-kit/main.webp" },
 
         { image: "assets/products/compact-lenz-cleaner-kit/Detail1.webp" },
         { image: "assets/products/compact-lenz-cleaner-kit/Detail2.webp" },
