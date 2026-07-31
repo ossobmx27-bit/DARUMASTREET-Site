@@ -30,17 +30,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
             <div class="article-header">
 
-                <p class="article-category">
+               <div class="article-meta">
 
-                    ${detail.category}
+    <p class="article-date">
 
-                </p>
+        ${detail.date}
 
-                <p class="article-date">
+    </p>
 
-                    ${detail.date}
+    <p class="article-category">
 
-                </p>
+        ${detail.category}
+
+    </p>
+
+</div>
 
                 <h1>
 

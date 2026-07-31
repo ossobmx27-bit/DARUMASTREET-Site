@@ -154,7 +154,7 @@
 
 .article-header h1{
 
-    font-size:38px;
+    font-size:52px;
 
 }
 
@@ -181,6 +181,42 @@
 .article-ja{
 
     margin-top:70px;
+
+}
+
+.article-meta{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    margin-bottom:24px;
+
+}
+
+.article-date{
+
+    font-size:14px;
+
+    color:#777;
+
+    margin:0;
+
+}
+
+.article-category{
+
+    font-size:12px;
+
+    letter-spacing:.15em;
+
+    color:#888;
+
+    text-transform:uppercase;
+
+    margin:0;
 
 }
 
