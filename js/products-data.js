@@ -87,7 +87,37 @@ const products = [
 
     category: "CAP / SOCKS / ACCESSORY",
 
-    items: []
+    items: [{
+    id: "knit-cap",
+    name: "Knit Cap",
+    price: "¥5,850",
+    image: "assets/products/knit-cap/main.webp",
+    details: "product.html?id=knit-cap"
+},
+
+{
+    id: "leather-belt",
+    name: "Leather Belt",
+    price: "¥8,900",
+    image: "assets/products/leather-belt/main.webp",
+    details: "product.html?id=leather-belt"
+},
+
+{
+    id: "logo-socks",
+    name: "Logo Socks",
+    price: "¥1,980",
+    image: "assets/products/logo-socks/main.webp",
+    details: "product.html?id=logo-socks"
+},
+
+{
+    id: "logo-tenugui",
+    name: "Logo Tenugui",
+    price: "¥1,300",
+    image: "assets/products/logo-tenugui/main.webp",
+    details: "product.html?id=logo-tenugui"
+}]
 
   },
 
