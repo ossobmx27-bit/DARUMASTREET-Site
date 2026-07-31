@@ -2,17 +2,17 @@ const news = [
 
     {
 
-        id: "yu-welcome-edit",
+        id: "welcome-to-daruma-street-news",
 
-        category: "VIDEO",
+        category: "NEWS",
 
-        date: "2026.07.23",
+        date: "2026.07.31",
 
-        title: "YU YOSHIDA JOINS ALIVE INDUSTRY",
+        title: "WELCOME TO DARUMA STREET NEWS",
 
-        image: "assets/news/yu-welcome-edit/main.jpg",
+        image: "assets/news/welcome-to-daruma-street-news/main.jpg",
 
-        article: "article.html?id=yu-welcome-edit"
+        article: "article.html?id=welcome-to-daruma-street-news"
 
     }
 
