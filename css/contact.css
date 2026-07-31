@@ -1,0 +1,76 @@
+.contact-page{
+
+    max-width:900px;
+
+    margin:140px auto;
+
+    padding:0 24px;
+
+    text-align:center;
+
+}
+
+.contact-page h1{
+
+    font-size:64px;
+
+    margin-bottom:80px;
+
+    letter-spacing:.08em;
+
+}
+
+.contact-intro,
+.contact-intro-ja{
+
+    max-width:620px;
+
+    margin:0 auto 40px;
+
+    line-height:2;
+
+    color:#ddd;
+
+}
+
+.instagram-button{
+
+    display:inline-block;
+
+    margin-top:40px;
+
+    padding:16px 40px;
+
+    border:1px solid #fff;
+
+    color:#fff;
+
+    text-decoration:none;
+
+    transition:.2s;
+
+}
+
+.instagram-button:hover{
+
+    background:#fff;
+
+    color:#000;
+
+}
+
+@media(max-width:768px){
+
+.contact-page{
+
+    margin:120px auto;
+
+}
+
+.contact-page h1{
+
+    font-size:42px;
+
+}
+
+}
