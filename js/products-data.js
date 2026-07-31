@@ -125,7 +125,53 @@ const products = [
 
     category: "GOODS & DVD",
 
-    items: []
+    items: [{
+    id: "car-air-freshner",
+    name: "Car Air Freshner",
+    price: "¥1,200",
+    image: "assets/products/car-air-freshner/main.jpg",
+    details: "product.html?id=car-air-freshner"
+},
+
+{
+    id: "compact-lenz-cleaner-kit",
+    name: "Compact Lenz Cleaner Kit",
+    price: "¥2,200",
+    image: "assets/products/compact-lenz-cleaner-kit/main.jpg",
+    details: "product.html?id=compact-lenz-cleaner-kit"
+},
+
+{
+    id: "daruma-street-bottle",
+    name: "DARUMA STREET Bottle",
+    price: "¥1,980",
+    image: "assets/products/daruma-street-bottle/main.jpg",
+    details: "product.html?id=daruma-street-bottle"
+},
+
+{
+    id: "daruma-street-dvd",
+    name: "DARUMA STREET DVD",
+    price: "¥1,500",
+    image: "assets/products/daruma-street-dvd/main.jpg",
+    details: "product.html?id=daruma-street-dvd"
+},
+
+{
+    id: "daruma-wax",
+    name: "DARUMA WAX",
+    price: "¥880",
+    image: "assets/products/daruma-wax/main.jpg",
+    details: "product.html?id=daruma-wax"
+},
+
+{
+    id: "logo-pin-badge",
+    name: "Logo Pin Badge",
+    price: "¥880",
+    image: "assets/products/logo-pin-badge/main.jpg",
+    details: "product.html?id=logo-pin-badge"
+}]
 
   }
 

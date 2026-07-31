@@ -627,4 +627,238 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
 
 },
 
+"car-air-freshner": {
+
+    colors: [
+        "Coconut"
+    ],
+
+    sizes: [
+        "100 × 70 mm"
+    ],
+
+    material: {
+        en: "Paper Air Freshener",
+        ja: "ペーパーエアフレッシュナー"
+    },
+
+    description: {
+
+        en: `A hanging air freshener featuring the DARUMA STREET logo. Infused with a creamy coconut fragrance, it's designed to freshen up your car, room, or workspace while adding a subtle street-inspired touch.`,
+
+        ja: `DARUMA STREETロゴをデザインしたエアフレッシュナーです。クリーミーなココナッツの香りが、車内や室内など様々な空間を心地よく包み込みます。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/car-air-freshner/main.webp" },
+
+        { image: "assets/products/car-air-freshner/Detail1.webp" },
+
+        { image: "assets/products/car-air-freshner/Detail2.jpg" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"compact-lenz-cleaner-kit": {
+
+    colors: [
+        "Only"
+    ],
+
+    sizes: [
+        "15 × 15 cm Cloth ×2"
+    ],
+
+    material: {
+        en: "Air Blower / Microfiber Cleaning Cloth",
+        ja: "エアーブロアー / マイクロファイバークロス"
+    },
+
+    description: {
+
+        en: `A compact lens cleaning kit including an air blower with a built-in brush and two 15 × 15 cm microfiber cleaning cloths. Packed in a zip pouch, it's perfect for removing dust and fingerprints from camera lenses, monitors and other delicate surfaces.`,
+
+        ja: `レンズやモニターに付着したチリなどを除去するブラシ付きエアーブロアーと、15 × 15cmのクリーニングクロス2枚をセットにしたレンズクリーナーキットです。ジップパック入りで、カメラレンズやモニターなどの日常的なメンテナンスに最適です。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/compact-lenz-cleaner-kit/main.jpg" },
+
+        { image: "assets/products/compact-lenz-cleaner-kit/Detail1.webp" },
+        { image: "assets/products/compact-lenz-cleaner-kit/Detail2.webp" },
+        { image: "assets/products/compact-lenz-cleaner-kit/Detail3.webp" },
+        { image: "assets/products/compact-lenz-cleaner-kit/Detail4.webp" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"daruma-street-bottle": {
+
+    colors: [
+        "Black",
+        "Clear",
+        "Red",
+        "Blue"
+    ],
+
+    sizes: [
+        "Approx. 90 × 210 mm / 1 L"
+    ],
+
+    material: {
+        en: "Body: Saturated Polyester Resin / Cap: Polypropylene / Loop: Polyethylene",
+        ja: "本体：飽和ポリエステル樹脂 / キャップ：ポリプロピレン / ループ：ポリエチレン"
+    },
+
+    description: {
+
+        en: `A lightweight and durable 1-liter water bottle designed for everyday use. The integrated carrying loop connects the bottle and cap for easy transport, while the wide temperature resistance makes it suitable for both hot and cold drinks throughout the year. Heat and cold resistant from -20°C to 100°C.`,
+
+        ja: `軽量で丈夫な素材を採用した、容量1Lのウォーターボトルです。本体とキャップを繋ぐループ付きで持ち運びやすく、夏場の熱中症対策はもちろん、オールシーズン快適に使用できます。耐熱耐冷温度は-20℃〜100℃です。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/daruma-street-bottle/main.webp" },
+
+        { image: "assets/products/daruma-street-bottle/Detail1.webp" },
+        { image: "assets/products/daruma-street-bottle/Detail2.webp" },
+        { image: "assets/products/daruma-street-bottle/Detail3.webp" },
+        { image: "assets/products/daruma-street-bottle/Detail4.webp" },
+
+        { image: "assets/products/daruma-street-bottle/Detail5.jpg" },
+        { image: "assets/products/daruma-street-bottle/Detail6.jpg" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"daruma-street-dvd": {
+
+    colors: [
+        "Standard Edition"
+    ],
+
+    sizes: [
+        "DVD + 20P Photo Book"
+    ],
+
+    material: {
+        en: "DVD / Full Color Photo Book",
+        ja: "DVD / フルカラーフォトブック"
+    },
+
+    description: {
+
+        en: `A full-length BMX film documenting nearly three years of riding across Toyama, Ishikawa, and locations throughout Japan. The package includes a 25-minute DVD alongside a 20-page full-color photo book capturing the spirit of DARUMA STREET.`,
+
+        ja: `DARUMA STREETの拠点となる富山・石川県をはじめ、日本各地のBMXライダー達を約3年間撮影し、一つの作品としてまとめたフルレングスDVDです。約25分の映像に加え、20ページのフルカラーフォトブックが付属します。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/daruma-street-dvd/main.jpg" },
+
+        { image: "assets/products/daruma-street-dvd/Detail1.jpg" },
+        { image: "assets/products/daruma-street-dvd/Detail2.jpg" },
+        { image: "assets/products/daruma-street-dvd/Detail3.jpg" },
+        { image: "assets/products/daruma-street-dvd/Detail4.jpg" },
+        { image: "assets/products/daruma-street-dvd/Detail5.jpg" },
+        { image: "assets/products/daruma-street-dvd/Detail6.jpg" },
+        { image: "assets/products/daruma-street-dvd/Detail7.jpg" },
+        { image: "assets/products/daruma-street-dvd/Detail8.jpg" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"daruma-wax": {
+
+    colors: [
+        "Black"
+    ],
+
+    sizes: [
+        "Approx. 9 × 5 × 4 cm"
+    ],
+
+    material: {
+        en: "Paraffin Wax",
+        ja: "パラフィン"
+    },
+
+    description: {
+
+        en: `A paraffin wax block embossed with the DARUMA logo. Designed with a balanced hardness for smooth application, it comes in a zip pouch for easy carrying and includes a sticker. Due to the manufacturing process, slight variations or minor chips may occur.`,
+
+        ja: `DARUMAロゴを刻印したパラフィンワックスです。柔らか過ぎず硬過ぎない絶妙な硬さで、扱いやすいサイズと形状に仕上げています。持ち運びしやすいジップ付きパッケージに収納され、ステッカーが付属します。製造上、若干のサイズ差や細かな欠けが生じる場合があります。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/daruma-wax/main.webp" },
+
+        { image: "assets/products/daruma-wax/Detail1.jpg" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"logo-pin-badge": {
+
+    colors: [
+        "Only"
+    ],
+
+    sizes: [
+        "13 × 30 mm"
+    ],
+
+    material: {
+        en: "Metal",
+        ja: "金属"
+    },
+
+    description: {
+
+        en: `The familiar DARUMA STREET diamond logo, recreated as a metal pin badge. A simple accessory perfect for jackets, bags, hats, or anywhere you want to add a subtle touch of the brand.`,
+
+        ja: `お馴染みのDARUMA STREET菱形ロゴをピンバッジに仕上げました。ジャケットやバッグ、キャップなど、さりげなくブランドを取り入れられるアクセサリーです。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/logo-pin-badge/main.webp" },
+
+        { image: "assets/products/logo-pin-badge/Detail1.webp" },
+
+        { image: "assets/products/logo-pin-badge/Detail2.jpg" },
+        { image: "assets/products/logo-pin-badge/Detail3.jpg" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
 };
