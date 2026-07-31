@@ -72,21 +72,38 @@
 
 @media(max-width:768px){
 
-.product-detail{
+    .product-detail{
 
-    grid-template-columns:1fr;
+        grid-template-columns:1fr;
 
-    gap:40px;
+        gap:40px;
+
+    }
+
+    .product-info h1{
+
+        font-size:34px;
+
+    }
+
+    .product-gallery{
+
+        gap:8px;
+
+        justify-content:center;
+
+    }
+
+    .gallery-thumb{
+
+        width:64px;
+
+        height:64px;
+
+    }
 
 }
 
-.product-info h1{
-
-    font-size:34px;
-
-}
-
-}
 .product-section{
 
     margin-top:50px;
@@ -210,6 +227,12 @@
 .gallery-thumb:hover{
 
     border-color:#fff;
+
+}
+
+.gallery-thumb.active{
+
+    border:2px solid #fff;
 
 }
 

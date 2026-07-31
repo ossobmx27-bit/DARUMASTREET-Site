@@ -42,6 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     id="main-product-image"
                     src="${detail.gallery[0].image}"
                     alt="${product.name}"
+                    loading="eager"
                 >
 
                 <div class="product-gallery">
@@ -52,7 +53,10 @@ document.addEventListener("DOMContentLoaded", () => {
                             class="gallery-thumb"
                             data-image="${item.image}">
 
-        <img src="${item.image}" alt="Product Thumbnail">
+                            <img
+                                src="${item.image}"
+                                alt="Product Thumbnail"
+                                loading="lazy">
 
                         </button>
 
@@ -72,11 +76,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
                     <h2>COLOR</h2>
 
-<p class="product-text">
+                    <p class="product-text">
 
-    ${detail.colors.join(" / ")}
+                        ${detail.colors.join(" / ")}
 
-</p>
+                    </p>
 
                 </div>
 
@@ -84,11 +88,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
                     <h2>SIZE</h2>
 
-                    <div class="product-sizes">
+                    <p class="product-text">
 
-                        ${detail.sizes.map(size => `<span>${size}</span>`).join("")}
+                        ${detail.sizes.join(" / ")}
 
-                    </div>
+                    </p>
 
                 </div>
 
@@ -140,12 +144,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // ギャラリー切替
     const mainImage = document.getElementById("main-product-image");
+    const thumbnails = document.querySelectorAll(".gallery-thumb");
 
-    document.querySelectorAll(".gallery-thumb").forEach(button => {
+    // 初期状態
+    thumbnails[0].classList.add("active");
+
+    thumbnails.forEach(button => {
 
         button.addEventListener("click", () => {
 
             mainImage.src = button.dataset.image;
+
+            thumbnails.forEach(item => item.classList.remove("active"));
+
+            button.classList.add("active");
 
         });
 
