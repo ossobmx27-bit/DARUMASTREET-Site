@@ -52,11 +52,11 @@ gallery: [
     },
 
 {
-        image: "assets/products/grind-work-shirt/Detail.webp"
+        image: "assets/products/grind-work-shirt/Detail.jpg"
     },
 
     {
-        image: "assets/products/grind-work-shirt/Riding.webp"
+        image: "assets/products/grind-work-shirt/Riding.jpg"
     },
 
 
