@@ -11,6 +11,11 @@ const productDetails = {
            "M / L / XL"
         ],
 
+material: {
+    en: "35% Cotton / 65% Polyester",
+    ja: "綿 35％、ポリエステル 65％"
+},
+
         description: {
     ja: `ベーシックなストライプワークシャツに、刺繍とオリジナルワッペンを組み合わせたデザイン。
 

@@ -98,6 +98,22 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 <div class="product-section">
 
+    <h2>MATERIAL</h2>
+
+    <div class="product-description">
+
+        <p>${detail.material.en}</p>
+
+        <br>
+
+        <p>${detail.material.ja}</p>
+
+    </div>
+
+</div>
+
+                <div class="product-section">
+
                     <h2>DESCRIPTION</h2>
 
                     <div class="product-description">
