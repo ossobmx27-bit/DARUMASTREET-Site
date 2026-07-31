@@ -469,4 +469,162 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
 
 },
 
+"knit-cap": {
+
+    colors: [
+        "Black",
+        "Grey",
+        "Orange"
+    ],
+
+    sizes: [
+        "Free"
+    ],
+
+    material: {
+        en: "100% Acrylic",
+        ja: "アクリル 100％"
+    },
+
+    description: {
+
+        en: `A classic knit cap featuring the DARUMA STREET logo embroidered on the cuff. Made from soft acrylic knit, it provides warmth and comfort while maintaining a clean, timeless look for everyday wear.`,
+
+        ja: `折り返し部分にDARUMA STREETロゴを刺繍で施したシンプルなニットキャップです。柔らかなアクリルニットを使用し、保温性と快適な被り心地を兼ね備えたデイリーユースに最適な一品となっております。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/knit-cap/main.webp" },
+
+        { image: "assets/products/knit-cap/Knit.webp" },
+
+
+        { image: "assets/products/knit-cap/Detail1.jpg" },
+        { image: "assets/products/knit-cap/Detail2.jpg" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"leather-belt": {
+
+    colors: [
+        "Light Brown"
+    ],
+
+    sizes: [
+        "One Size"
+    ],
+
+    material: {
+        en: "Genuine Leather",
+        ja: "本革"
+    },
+
+    description: {
+
+        en: `A genuine leather belt finished with an original DARUMA STREET buckle. Built for everyday use, it develops a unique character over time through natural aging.`,
+
+        ja: `オリジナルバックルを採用したDARUMA STREETのレザーベルトです。本革ならではの風合いを楽しみながら、経年変化とともに長く愛用できる一本となっております。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/leather-belt/main.webp" },
+
+        { image: "assets/products/leather-belt/Detail1.webp" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"logo-socks": {
+
+    colors: [
+        "Black",
+        "White",
+        "Red"
+    ],
+
+    sizes: [
+        "Free"
+    ],
+
+    material: {
+        en: "71% Cotton / 27% Polyester / 2% Spandex",
+        ja: "コットン 71％ / ポリエステル 27％ / スパンデックス 2％"
+    },
+
+    description: {
+
+        en: `Jacquard-knit socks featuring the DARUMA STREET diamond logo and brand name. Made from a soft cotton blend with excellent breathability and moisture absorption, plus ribbed support and cushioned pile knitting for a secure, comfortable fit.`,
+
+        ja: `肌触りが良く、吸水性・通気性に優れたコットン素材に、菱形ロゴとブランドネームをジャガード編みで施したソックスです。2箇所のリブと足裏のパイル織りにより、ズレを抑えながらクッション性のある快適な履き心地に仕上げています。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/logo-socks/main.webp" },
+
+        { image: "assets/products/logo-socks/Detail1.webp" },
+        { image: "assets/products/logo-socks/Detail2.jpg" },
+        { image: "assets/products/logo-socks/Detail3.jpg" },
+
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"logo-tenugui": {
+
+    colors: [
+        "White",
+        "Black",
+        "Yellow"
+    ],
+
+    sizes: [
+        "33.5 × 90 cm"
+    ],
+
+    material: {
+        en: "100% Cotton",
+        ja: "コットン 100％"
+    },
+
+    description: {
+
+        en: `A handmade tenugui dyed with natural plant-based pigments and printed with the DARUMA STREET logo across the entire fabric. Enjoy the unique texture and natural fading that develop over time. Due to the handmade production process, slight variations in size and color may occur.`,
+
+        ja: `天然の植物染料で染め上げ、DARUMA STREETロゴを全面にプリントしたハンドメイドの手ぬぐいです。天然染料ならではの風合いと経年による退色もお楽しみいただけます。ハンドメイド製品のため、サイズや色味には若干の個体差があります。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/logo-tenugui/main.webp" },
+
+        { image: "assets/products/logo-tenugui/Detail1.jpg" },
+        { image: "assets/products/logo-tenugui/Detail2.jpg" },
+
+        { image: "assets/products/logo-tenugui/Detail3.webp" },
+        { image: "assets/products/logo-tenugui/Detail4.webp" },
+        { image: "assets/products/logo-tenugui/Detail5.webp" }
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
 };
