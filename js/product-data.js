@@ -28,16 +28,37 @@ gallery: [
     },
 
     {
-        image: "assets/products/grind-work-shirt/back.jpg"
+        image: "assets/products/grind-work-shirt/Black1.webp"
     },
 
     {
-        image: "assets/products/grind-work-shirt/detail.jpg"
+        image: "assets/products/grind-work-shirt/Black2.webp"
     },
 
     {
-        image: "assets/products/grind-work-shirt/riding.jpg"
-    }
+        image: "assets/products/grind-work-shirt/Black3.webp"
+    },
+
+    {
+        image: "assets/products/grind-work-shirt/White1.webp"
+    },
+
+    {
+        image: "assets/products/grind-work-shirt/White2.webp"
+    },
+
+    {
+        image: "assets/products/grind-work-shirt/White3.webp"
+    },
+
+{
+        image: "assets/products/grind-work-shirt/Detail.webp"
+    },
+
+    {
+        image: "assets/products/grind-work-shirt/Riding.webp"
+    },
+
 
 ],
 
