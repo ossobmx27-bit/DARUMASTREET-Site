@@ -344,4 +344,130 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
 
 },
 
+"long-sleeve-logo-t-shirt": {
+
+    colors: [
+        "White",
+        "Black",
+        "Yellow"
+    ],
+
+    sizes: [
+        "XS / S / M / L / XL / 2XL"
+    ],
+
+    material: {
+        en: "100% Cotton",
+        ja: "綿 100％"
+    },
+
+    description: {
+
+        en: `A long sleeve T-shirt featuring the iconic DARUMA STREET diamond logo printed on the back. Designed with no front print, it offers a clean silhouette while emphasizing the signature back graphic.`,
+
+        ja: `DARUMA STREETを象徴する菱形ロゴをバックにプリントしたロングスリーブTシャツです。フロントにはプリントを入れず、バックグラフィックを際立たせたシンプルな一着となっております。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/long-sleeve-logo-t-shirt/main.webp" },
+
+        { image: "assets/products/long-sleeve-logo-t-shirt/Black.webp" },
+        { image: "assets/products/long-sleeve-logo-t-shirt/White1.webp" },
+
+        { image: "assets/products/long-sleeve-logo-t-shirt/Detail1.jpg" },
+        { image: "assets/products/long-sleeve-logo-t-shirt/Detail2.jpg" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"long-sleeve-box-logo-t-shirt": {
+
+    colors: [
+        "Black",
+        "Grey"
+    ],
+
+    sizes: [
+        "XS / S / M / L / XL / 2XL"
+    ],
+
+    material: {
+        en: "100% Cotton",
+        ja: "綿 100％"
+    },
+
+    description: {
+
+        en: `A long sleeve T-shirt featuring the signature "BOX LOGO" printed on the back. Designed with no front print, it delivers a clean look while showcasing the bold back graphic.`,
+
+        ja: `DARUMA STREETの"BOX LOGO"をバックにプリントしたロングスリーブTシャツです。フロントにはプリントを入れず、バックグラフィックを際立たせたシンプルな一着となっております。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/long-sleeve-box-logo-t-shirt/main.webp" },
+
+        { image: "assets/products/long-sleeve-box-logo-t-shirt/Black.webp" },
+        { image: "assets/products/long-sleeve-box-logo-t-shirt/Grey.webp" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"jic-t-shirt": {
+
+    colors: [
+        "Black",
+        "Dark Brown"
+    ],
+
+    sizes: [
+        "S / M / L / XL / 2XL / 3XL"
+    ],
+
+    material: {
+        en: "100% Cotton",
+        ja: "綿 100％"
+    },
+
+    description: {
+
+        en: `A graphic T-shirt inspired by the industrial cities of Japan. Featuring original artwork printed on both the front and back, it blends urban atmosphere with the identity of DARUMA STREET.`,
+
+        ja: `日本の工業都市をテーマに描かれたオリジナルグラフィックを、フロントとバックの両面にプリントしたTシャツです。DARUMA STREETらしいストリートの空気感を表現した一着となっております。`
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/jic-t-shirt/main.jpg" },
+
+        { image: "assets/products/jic-t-shirt/Black1.webp" },
+        { image: "assets/products/jic-t-shirt/Black2.webp" },
+
+        { image: "assets/products/jic-t-shirt/DarkBrown1.webp" },
+        { image: "assets/products/jic-t-shirt/DarkBrown2.webp" },
+
+        { image: "assets/products/jic-t-shirt/Detail1.jpg" },
+        { image: "assets/products/jic-t-shirt/Detail2.jpg" },
+
+        { image: "assets/products/jic-t-shirt/Detail3.jpg" },
+        { image: "assets/products/jic-t-shirt/Detail4.jpg" },
+
+         { image: "assets/products/jic-t-shirt/Detail5.jpg" },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
 };
