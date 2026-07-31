@@ -88,25 +88,27 @@ document.addEventListener("DOMContentLoaded", () => {
 
 </div>
 
-<div class="product-section">
+<div class="product-image">
 
-    <h2>WHERE TO BUY</h2>
+    <img
+        id="main-product-image"
+        src="${detail.gallery[0].image}"
+        alt="${product.name}"
+    >
 
-    <div class="product-buy">
+    <div class="product-gallery">
 
-        <a href="https://store.motobunka.com/collections/daruma-street"
-           target="_blank"
-           rel="noopener noreferrer">
+        ${detail.gallery.map(item => `
 
-            BUY AT MOTO-BUNKA STORE →
+            <button
+                class="gallery-thumb"
+                data-image="${item.image}">
 
-        </a>
+                ${item.label}
 
-        <a href="dealers.html">
+            </button>
 
-            FIND A DEALER →
-
-        </a>
+        `).join("")}
 
     </div>
 
@@ -114,6 +116,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
 </div>
 
+</div>
+
     `;
+    
+    const mainImage = document.getElementById("main-product-image");
+
+document.querySelectorAll(".gallery-thumb").forEach(button => {
+
+    button.addEventListener("click", () => {
+
+        mainImage.src = button.dataset.image;
+
+    });
+
+});
 
 });
