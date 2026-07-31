@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             class="gallery-thumb"
                             data-image="${item.image}">
 
-                            ${item.label}
+        <img src="${item.image}" alt="Product Thumbnail">
 
                         </button>
 

@@ -24,22 +24,18 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
 gallery: [
 
     {
-        label: "Front",
         image: "assets/products/grind-work-shirt/main.jpg"
     },
 
     {
-        label: "Back",
         image: "assets/products/grind-work-shirt/back.jpg"
     },
 
     {
-        label: "Detail",
         image: "assets/products/grind-work-shirt/detail.jpg"
     },
 
     {
-        label: "Riding",
         image: "assets/products/grind-work-shirt/riding.jpg"
     }
 
