@@ -349,7 +349,6 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
     colors: [
         "White",
         "Black",
-        "Yellow"
     ],
 
     sizes: [
@@ -374,7 +373,7 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
         { image: "assets/products/long-sleeve-logo-t-shirt/main.webp" },
 
         { image: "assets/products/long-sleeve-logo-t-shirt/Black.webp" },
-        { image: "assets/products/long-sleeve-logo-t-shirt/White1.webp" },
+        { image: "assets/products/long-sleeve-logo-t-shirt/White.webp" },
 
         { image: "assets/products/long-sleeve-logo-t-shirt/Detail1.jpg" },
         { image: "assets/products/long-sleeve-logo-t-shirt/Detail2.jpg" },
@@ -456,10 +455,10 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
         { image: "assets/products/jic-t-shirt/DarkBrown1.webp" },
         { image: "assets/products/jic-t-shirt/DarkBrown2.webp" },
 
-        { image: "assets/products/jic-t-shirt/Detail1.jpg" },
-        { image: "assets/products/jic-t-shirt/Detail2.jpg" },
+        { image: "assets/products/jic-t-shirt/Detail1.webp" },
+        { image: "assets/products/jic-t-shirt/Detail2.webp" },
 
-        { image: "assets/products/jic-t-shirt/Detail3.jpg" },
+        { image: "assets/products/jic-t-shirt/Detail3.webp" },
         { image: "assets/products/jic-t-shirt/Detail4.jpg" },
 
          { image: "assets/products/jic-t-shirt/Detail5.jpg" },
