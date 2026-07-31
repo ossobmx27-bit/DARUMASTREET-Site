@@ -129,7 +129,7 @@ const products = [
     id: "car-air-freshner",
     name: "Car Air Freshner",
     price: "¥1,200",
-    image: "assets/products/car-air-freshner/main.jpg",
+    image: "assets/products/car-air-freshner/main.webp",
     details: "product.html?id=car-air-freshner"
 },
 
@@ -137,7 +137,7 @@ const products = [
     id: "compact-lenz-cleaner-kit",
     name: "Compact Lenz Cleaner Kit",
     price: "¥2,200",
-    image: "assets/products/compact-lenz-cleaner-kit/main.jpg",
+    image: "assets/products/compact-lenz-cleaner-kit/main.webp",
     details: "product.html?id=compact-lenz-cleaner-kit"
 },
 
@@ -145,7 +145,7 @@ const products = [
     id: "daruma-street-bottle",
     name: "DARUMA STREET Bottle",
     price: "¥1,980",
-    image: "assets/products/daruma-street-bottle/main.jpg",
+    image: "assets/products/daruma-street-bottle/main.webp",
     details: "product.html?id=daruma-street-bottle"
 },
 
@@ -161,7 +161,7 @@ const products = [
     id: "daruma-wax",
     name: "DARUMA WAX",
     price: "¥880",
-    image: "assets/products/daruma-wax/main.jpg",
+    image: "assets/products/daruma-wax/main.webp",
     details: "product.html?id=daruma-wax"
 },
 
@@ -169,7 +169,7 @@ const products = [
     id: "logo-pin-badge",
     name: "Logo Pin Badge",
     price: "¥880",
-    image: "assets/products/logo-pin-badge/main.jpg",
+    image: "assets/products/logo-pin-badge/main.webp",
     details: "product.html?id=logo-pin-badge"
 }]
 
