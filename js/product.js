@@ -110,7 +110,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 <div class="product-section">
 
-                    <h2>WHERE TO BUY</h2>
+                    <h2>AVAILABLE AT</h2>
 
                     <div class="product-buy">
 
