@@ -22,9 +22,9 @@
 
     margin-bottom:80px;
 
-    font-size:14px;
+    font-size:13px;
 
-    letter-spacing:.08em;
+    letter-spacing:.12em;
 
     transition:.3s;
 
@@ -43,7 +43,7 @@
 
 .article-header{
 
-    margin-bottom:60px;
+    margin-bottom:40px;
 
 }
 
@@ -73,13 +73,15 @@
 
 .article-header h1{
 
-    font-size:60px;
+    font-size:48px;
 
-    line-height:1.2;
+    line-height:1.25;
 
     font-weight:600;
 
     letter-spacing:.03em;
+
+    max-width:850px;
 
 }
 
@@ -109,7 +111,7 @@
 
 .article-body{
 
-    max-width:760px;
+    max-width:720px;
 
 }
 
