@@ -226,4 +226,66 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
 
 },
 
+"logo-t-shirt": {
+
+    colors: [
+        "White",
+        "Black",
+        "Japan Black",
+        "Yellow"
+    ],
+
+    sizes: [
+        "S / M / L / XL / 2XL / 3XL"
+    ],
+
+    material: {
+        en: "100% Cotton",
+        ja: "綿 100％"
+    },
+
+    description: {
+
+        en: `A clean and timeless T-shirt featuring the iconic DARUMA STREET diamond logo printed on the back. Designed with no front print, it delivers a simple look that lets the signature graphic stand out.`,
+
+        ja: `DARUMA STREETを象徴する菱形ロゴをバックにプリントしたシンプルなデザインです。フロントにはプリントを入れず、バックグラフィックを際立たせた一着となっております。`
+
+    },
+
+    gallery: [
+
+        {
+            image: "assets/products/logo-t-shirt/main.webp"
+        },
+
+        {
+            image: "assets/products/logo-t-shirt/White1.webp"
+        },
+
+        {
+            image: "assets/products/logo-t-shirt/Black1.webp"
+        },
+
+        {
+            image: "assets/products/logo-t-shirt/JapanBlack1.webp"
+        },
+
+        {
+            image: "assets/products/logo-t-shirt/Yellow.webp"
+        },
+
+        {
+            image: "assets/products/logo-t-shirt/Detail1.jpg"
+        },
+
+        {
+            image: "assets/products/logo-t-shirt/Detail2.jpg"
+        },
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
 };
