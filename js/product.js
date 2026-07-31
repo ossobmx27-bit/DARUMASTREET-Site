@@ -38,98 +38,117 @@ document.addEventListener("DOMContentLoaded", () => {
 
             <div class="product-image">
 
-                <img src="${product.image}" alt="${product.name}">
+                <img
+                    id="main-product-image"
+                    src="${detail.gallery[0].image}"
+                    alt="${product.name}"
+                >
+
+                <div class="product-gallery">
+
+                    ${detail.gallery.map(item => `
+
+                        <button
+                            class="gallery-thumb"
+                            data-image="${item.image}">
+
+                            ${item.label}
+
+                        </button>
+
+                    `).join("")}
+
+                </div>
 
             </div>
 
-        <div class="product-info">
+            <div class="product-info">
 
-    <h1>${product.name}</h1>
+                <h1>${product.name}</h1>
 
-    <p class="product-price">${product.price}</p>
+                <p class="product-price">${product.price}</p>
 
-    <div class="product-section">
+                <div class="product-section">
 
-        <h2>COLOR</h2>
+                    <h2>COLOR</h2>
 
-        <div class="product-colors">
+<p class="product-text">
 
-            ${detail.colors.map(color => `<span>${color}</span>`).join("")}
+    ${detail.colors.join(" / ")}
+
+</p>
+
+                </div>
+
+                <div class="product-section">
+
+                    <h2>SIZE</h2>
+
+                    <div class="product-sizes">
+
+                        ${detail.sizes.map(size => `<span>${size}</span>`).join("")}
+
+                    </div>
+
+                </div>
+
+                <div class="product-section">
+
+                    <h2>DESCRIPTION</h2>
+
+                    <div class="product-description">
+
+                        <p>${detail.description.en}</p>
+
+                        <br>
+
+                        <p>${detail.description.ja}</p>
+
+                    </div>
+
+                </div>
+
+                <div class="product-section">
+
+                    <h2>WHERE TO BUY</h2>
+
+                    <div class="product-buy">
+
+                        <a href="https://store.motobunka.com/collections/daruma-street"
+                           target="_blank"
+                           rel="noopener noreferrer">
+
+                            BUY AT MOTO-BUNKA STORE →
+
+                        </a>
+
+                        <a href="dealers.html">
+
+                            FIND A DEALER →
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
 
         </div>
-
-    </div>
-
-    <div class="product-section">
-
-        <h2>SIZE</h2>
-
-        <div class="product-sizes">
-
-            ${detail.sizes.map(size => `<span>${size}</span>`).join("")}
-
-        </div>
-
-    </div>
-
-    <div class="product-section">
-
-    <h2>DESCRIPTION</h2>
-
-    <div class="product-description">
-
-        <p>${detail.description.en}</p>
-
-        <br>
-
-        <p>${detail.description.ja}</p>
-
-    </div>
-
-</div>
-
-<div class="product-image">
-
-    <img
-        id="main-product-image"
-        src="${detail.gallery[0].image}"
-        alt="${product.name}"
-    >
-
-    <div class="product-gallery">
-
-        ${detail.gallery.map(item => `
-
-            <button
-                class="gallery-thumb"
-                data-image="${item.image}">
-
-                ${item.label}
-
-            </button>
-
-        `).join("")}
-
-    </div>
-
-</div>
-
-</div>
-
-</div>
 
     `;
-    
+
+    // ギャラリー切替
     const mainImage = document.getElementById("main-product-image");
 
-document.querySelectorAll(".gallery-thumb").forEach(button => {
+    document.querySelectorAll(".gallery-thumb").forEach(button => {
 
-    button.addEventListener("click", () => {
+        button.addEventListener("click", () => {
 
-        mainImage.src = button.dataset.image;
+            mainImage.src = button.dataset.image;
+
+        });
 
     });
-
-});
 
 });
