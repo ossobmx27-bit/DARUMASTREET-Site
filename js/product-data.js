@@ -8,9 +8,7 @@ const productDetails = {
         ],
 
         sizes: [
-            "M",
-            "L",
-            "XL"
+           "M / L / XL"
         ],
 
         description: {
