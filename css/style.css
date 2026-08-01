@@ -331,4 +331,44 @@ main section{
     text-decoration:none;
     font-size:14px;
     letter-spacing:.12em;
+
+@media(max-width:768px){
+
+    .home-news{
+        margin:80px auto;
+        padding:0 20px;
+    }
+
+    .home-news-heading{
+        font-size:30px;
+        margin-bottom:24px;
+    }
+
+    .home-news-list{
+        grid-template-columns:repeat(2,1fr);
+        gap:16px;
+        margin-bottom:24px;
+    }
+
+    .home-news-category{
+        font-size:10px;
+        margin-bottom:6px;
+    }
+
+    .home-news-date{
+        font-size:10px;
+        margin-bottom:8px;
+    }
+
+    .home-news-title{
+        font-size:14px;
+        line-height:1.4;
+    }
+
+    .home-news-more a{
+        font-size:12px;
+    }
+
+}
+
 }

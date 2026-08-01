@@ -128,7 +128,12 @@ const homeNewsList = document.getElementById("home-news-list");
 
 if (homeNewsList && typeof news !== "undefined") {
 
-    news.slice(0, 3).forEach(item => {
+    const latestNews =
+    window.innerWidth <= 768
+        ? news.slice(0, 2)
+        : news.slice(0, 3);
+
+latestNews.forEach(item => {
 
         const card = document.createElement("a");
 
