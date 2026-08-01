@@ -120,4 +120,44 @@ window.addEventListener("load", () => {
 
   }
 
+  /* ==========================
+   HOME NEWS
+========================== */
+
+const homeNewsList = document.getElementById("home-news-list");
+
+if (homeNewsList && typeof news !== "undefined") {
+
+    news.slice(0, 3).forEach(item => {
+
+        const card = document.createElement("a");
+
+        card.className = "home-news-card";
+
+        card.href = `article.html?id=${item.id}`;
+
+        card.innerHTML = `
+            <div class="home-news-image">
+                <img src="${item.image}" alt="${item.title}" loading="lazy">
+            </div>
+
+            <div class="home-news-category">
+                ${item.category}
+            </div>
+
+            <div class="home-news-date">
+                ${item.date}
+            </div>
+
+            <h3 class="home-news-title">
+                ${item.title}
+            </h3>
+        `;
+
+        homeNewsList.appendChild(card);
+
+    });
+
+}
+
 });
