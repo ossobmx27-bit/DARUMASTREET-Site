@@ -19,16 +19,9 @@
     margin-bottom:10px;
 }
 
-.products-shipping{
-    margin-bottom:60px;
-    color:#888;
-}
 
-.products-shipping a{
-    color:#fff;
-    text-decoration:none;
-    border-bottom:1px solid #fff;
-}
+
+
 
 /* ==========================
    Accordion
@@ -134,23 +127,7 @@
    Footer
 ========================== */
 
-.products-footer{
-    margin-top:100px;
-    text-align:center;
-}
 
-.products-footer h2{
-    margin-bottom:20px;
-}
-
-.products-footer a{
-    display:inline-block;
-    margin-top:25px;
-    color:#fff;
-    text-decoration:none;
-    border:1px solid #fff;
-    padding:14px 30px;
-}
 
 /* ==========================
    Mobile
