@@ -81,7 +81,7 @@ function renderVideos(videos) {
 
             <div class="article-link-list">
 
-                ${links.slice(0, 2).map(link => `
+                ${links.slice(0, 3).map(link => `
                     <a
                         href="${link.url}"
                         target="_blank"

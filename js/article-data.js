@@ -124,9 +124,15 @@ Anarkeys
 
     links: [
         {
-            label: "Instagram",
+            label: "Osomatsu Instagram",
             url: "https://www.instagram.com/osomatsu_bmx/"
-        }
+        },
+
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
     ]
 
 },
@@ -200,9 +206,15 @@ PompSlowly
 
     links: [
         {
-            label: "Instagram",
+            label: "Yu Yoshida Instagram",
             url: "https://www.instagram.com/yu_yoshida_/"
-        }
+        },
+
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
     ]
 
 },
@@ -264,9 +276,15 @@ JYKK JAPAN
 
     links: [
         {
-            label: "Instagram",
+            label: "Rick Maruyama Instagram",
             url: "https://www.instagram.com/rick_bmx_toyama/"
-        }
+        },
+
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
     ]
 
 },
@@ -328,13 +346,19 @@ NICE KUSO SPOT
 
     links: [
         {
-            label: "Instagram",
+            label: "Kazuma Sato Instagram",
             url: "https://www.instagram.com/satokazuma_/"
         },
         {
-            label: "NICE KUSO SPOT",
+            label: "NICE KUSO SPOT Instagram",
             url: "https://www.instagram.com/nicekusospot/"
-        }
+        },
+
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
     ]
 
 },
@@ -396,9 +420,15 @@ BMXライダーとして活動する傍ら、フォトグラファーやフィ�
 
     links: [
         {
-            label: "Instagram",
+            label: "Natsuki Taniguchi Instagram",
             url: "https://www.instagram.com/_na2_/"
-        }
+        },
+
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
     ]
 
 },
