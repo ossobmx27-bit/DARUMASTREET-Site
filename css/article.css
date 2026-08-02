@@ -227,19 +227,19 @@
 ========================== */
 
 .article-videos{
-    margin-top:80px;
+    margin-top:40px;
 }
 
 .article-videos h2{
     font-size:20px;
-    margin-bottom:24px;
+    margin-bottom:16px;
     letter-spacing:.08em;
 }
 
 .video-wrap{
     width:100%;
     max-width:900px;
-    margin:0 0 40px;
+    margin:0 0 20px;
 }
 
 .video-wrap iframe{
@@ -271,12 +271,12 @@
 ========================== */
 
 .article-links{
-    margin-top:80px;
+    margin-top:40px;
 }
 
 .article-links h2{
     font-size:20px;
-    margin-bottom:24px;
+    margin-bottom:16px;
     letter-spacing:.08em;
 }
 
