@@ -165,4 +165,54 @@ latestNews.forEach(item => {
 
 }
 
+/* ==========================
+   HOME PRODUCTS
+========================== */
+
+const homeProductsList = document.getElementById("home-products-list");
+
+if (homeProductsList && typeof products !== "undefined") {
+
+    const featuredProducts = [];
+
+    products.forEach(category => {
+
+        category.items.forEach(item => {
+
+            if (item.featured) {
+                featuredProducts.push(item);
+            }
+
+        });
+
+    });
+
+    featuredProducts.slice(0, 3).forEach(item => {
+
+        const card = document.createElement("a");
+
+        card.className = "home-product-card";
+
+        card.href = item.details;
+
+        card.innerHTML = `
+            <div class="home-product-image">
+                <img src="${item.image}" alt="${item.name}" loading="lazy">
+            </div>
+
+            <h3 class="home-product-title">
+                ${item.name}
+            </h3>
+
+            <p class="home-product-price">
+                ${item.price}
+            </p>
+        `;
+
+        homeProductsList.appendChild(card);
+
+    });
+
+}
+
 });

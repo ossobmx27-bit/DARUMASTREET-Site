@@ -41,6 +41,7 @@ const products = [
 
       {
         id: "logo-t-shirt",
+        featured: true,
         name: "Logo T-Shirt",
         price: "¥4,400",
         image: "assets/products/logo-t-shirt/main.webp",
@@ -105,6 +106,7 @@ const products = [
 
 {
     id: "logo-socks",
+    featured: true,
     name: "Logo Socks",
     price: "¥1,980",
     image: "assets/products/logo-socks/main.webp",
@@ -151,6 +153,7 @@ const products = [
 
 {
     id: "daruma-street-dvd",
+    featured: true,
     name: "DARUMA STREET DVD",
     price: "¥1,500",
     image: "assets/products/daruma-street-dvd/main.jpg",
