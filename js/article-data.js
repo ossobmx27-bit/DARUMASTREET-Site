@@ -34,7 +34,7 @@ As the brand continues to grow, this archive will grow with it.`,
 
         videos:[
         "https://youtu.be/BPbSgf6omM8?si=QmFV0kjFnZIE2QLb",
-        "https://www.instagram.com/reel/..."
+        "https://youtu.be/aHEIQI4PoII?si=LH6gXMgvJbhRPdaC"
     ],
 
     links:[
