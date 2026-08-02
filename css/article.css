@@ -237,6 +237,7 @@
 }
 
 .video-wrap{
+    width:100%;
     max-width:900px;
     margin:0 0 40px;
 }

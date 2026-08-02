@@ -48,6 +48,33 @@ function renderVideos(videos) {
                 `;
             }
 
+            function renderLinks(links) {
+
+    if (!links || links.length === 0) return "";
+
+    return `
+        <section class="article-links">
+
+            <h2>RELATED LINKS</h2>
+
+            <div class="article-link-list">
+
+                ${links.slice(0, 2).map(link => `
+                    <a
+                        href="${link.url}"
+                        target="_blank"
+                        rel="noopener"
+                        class="article-link-button">
+                        ${link.label}
+                    </a>
+                `).join("")}
+
+            </div>
+
+        </section>
+    `;
+
+}
         
 
             // Instagram（後で埋め込み対応）
@@ -139,7 +166,9 @@ function renderVideos(videos) {
                 </div>
 
                 ${renderVideos(detail.videos)}
+                ${renderLinks(detail.links)}
 
+                
 
 
             </div>
