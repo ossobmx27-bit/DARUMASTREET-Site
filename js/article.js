@@ -18,81 +18,56 @@ document.addEventListener("DOMContentLoaded", () => {
 
     }
 
-    function renderVideos(videos) {
+function renderVideos(videos) {
 
     if (!videos || videos.length === 0) return "";
+
+    const videoHtml = videos
+        .slice(0, 2)
+        .map(url => {
+
+            // YouTube
+            if (url.includes("youtube.com") || url.includes("youtu.be")) {
+
+                const videoId = url.includes("youtu.be/")
+                    ? url.split("youtu.be/")[1].split("?")[0]
+                    : new URL(url).searchParams.get("v");
+
+                return `
+                    <div class="video-wrap">
+                        <iframe
+                            src="https://www.youtube.com/embed/${videoId}"
+                            title="YouTube video"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen>
+                        </iframe>
+                    </div>
+                `;
+            }
+
+            // Instagram（後で埋め込み対応）
+            return "";
+
+        })
+        .join("");
+
+    // 表示する動画が1本も無ければセクション自体を表示しない
+    if (!videoHtml.trim()) return "";
 
     return `
         <section class="article-videos">
 
             <h2>VIDEOS</h2>
 
-            ${videos.slice(0,2).map(url => {
-
-                if (url.includes("youtube.com") || url.includes("youtu.be")) {
-
-                    const id = url.includes("youtu.be/")
-                        ? url.split("youtu.be/")[1].split("?")[0]
-                        : new URL(url).searchParams.get("v");
-
-                    return `
-                        <div class="video-wrap">
-                            <iframe
-                                src="https://www.youtube.com/embed/${id}"
-                                frameborder="0"
-                                allowfullscreen>
-                            </iframe>
-                        </div>
-                    `;
-
-                }
-
-                return `
-                    <div class="video-link">
-                        <a href="${url}" target="_blank" rel="noopener">
-                            View on Instagram
-                        </a>
-                    </div>
-                `;
-
-            }).join("")}
+            ${videoHtml}
 
         </section>
     `;
 
-}
+}   
 
-function renderLinks(links) {
-
-    if (!links || links.length === 0) return "";
-
-    return `
-        <section class="article-links">
-
-            <h2>RELATED LINKS</h2>
-
-            <div class="article-link-list">
-
-                ${links.slice(0,2).map(link => `
-
-                    <a
-                        href="${link.url}"
-                        target="_blank"
-                        rel="noopener"
-                        class="article-link-button">
-
-                        ${link.label}
-
-                    </a>
-
-                `).join("")}
-
-            </div>
-
-        </section>
-    `;
-
-}
+                
 
     document.getElementById("article-content").innerHTML = `
 

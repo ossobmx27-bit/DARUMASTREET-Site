@@ -237,12 +237,14 @@
 }
 
 .video-wrap{
-    margin-bottom:30px;
+    max-width:900px;
+    margin:0 0 40px;
 }
 
 .video-wrap iframe{
+    display:block;
     width:100%;
-    aspect-ratio:16/9;
+    aspect-ratio:16 / 9;
     border:0;
 }
 
