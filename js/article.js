@@ -20,6 +20,34 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function renderVideos(videos) {
 
+    function renderLinks(links) {
+
+    if (!links || links.length === 0) return "";
+
+    return `
+        <section class="article-links">
+
+            <h2>RELATED LINKS</h2>
+
+            <div class="article-link-list">
+
+                ${links.slice(0, 2).map(link => `
+                    <a
+                        href="${link.url}"
+                        target="_blank"
+                        rel="noopener"
+                        class="article-link-button">
+                        ${link.label}
+                    </a>
+                `).join("")}
+
+            </div>
+
+        </section>
+    `;
+
+}
+
     if (!videos || videos.length === 0) return "";
 
     const videoHtml = videos
