@@ -332,6 +332,8 @@ main section{
     font-size:14px;
     letter-spacing:.12em;
 
+}
+
 @media(max-width:768px){
 
     .home-news{
