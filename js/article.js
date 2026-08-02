@@ -47,6 +47,28 @@ function renderVideos(videos) {
                     </div>
                 `;
             }
+        
+
+            // Instagram（後で埋め込み対応）
+            return "";
+
+        })
+        .join("");
+
+    // 表示する動画が1本も無ければセクション自体を表示しない
+    if (!videoHtml.trim()) return "";
+
+    return `
+        <section class="article-videos">
+
+            <h2>VIDEOS</h2>
+
+            ${videoHtml}
+
+        </section>
+    `;
+
+}   
 
             function renderLinks(links) {
 
@@ -75,28 +97,6 @@ function renderVideos(videos) {
     `;
 
 }
-        
-
-            // Instagram（後で埋め込み対応）
-            return "";
-
-        })
-        .join("");
-
-    // 表示する動画が1本も無ければセクション自体を表示しない
-    if (!videoHtml.trim()) return "";
-
-    return `
-        <section class="article-videos">
-
-            <h2>VIDEOS</h2>
-
-            ${videoHtml}
-
-        </section>
-    `;
-
-}   
 
                 
 
