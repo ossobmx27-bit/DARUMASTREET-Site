@@ -323,7 +323,7 @@ main section{
 }
 
 .home-news-more{
-    text-align:right;
+    text-align:left;
 }
 
 .home-news-more a{
@@ -347,7 +347,7 @@ main section{
     }
 
     .home-news-list{
-        grid-template-columns:repeat(1,1fr);
+        grid-template-columns:1fr;
         gap:16px;
         margin-bottom:24px;
     }
