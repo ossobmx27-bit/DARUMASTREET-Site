@@ -222,4 +222,77 @@
 
 }
 
+/* ==========================
+   VIDEOS
+========================== */
+
+.article-videos{
+    margin-top:80px;
+}
+
+.article-videos h2{
+    font-size:20px;
+    margin-bottom:24px;
+    letter-spacing:.08em;
+}
+
+.video-wrap{
+    margin-bottom:30px;
+}
+
+.video-wrap iframe{
+    width:100%;
+    aspect-ratio:16/9;
+    border:0;
+}
+
+.video-link{
+    margin-bottom:20px;
+}
+
+.video-link a{
+    display:inline-block;
+    border:1px solid #fff;
+    padding:12px 20px;
+    transition:.3s;
+}
+
+.video-link a:hover{
+    background:#fff;
+    color:#000;
+}
+
+
+/* ==========================
+   RELATED LINKS
+========================== */
+
+.article-links{
+    margin-top:80px;
+}
+
+.article-links h2{
+    font-size:20px;
+    margin-bottom:24px;
+    letter-spacing:.08em;
+}
+
+.article-link-list{
+    display:flex;
+    flex-wrap:wrap;
+    gap:16px;
+}
+
+.article-link-button{
+    display:inline-block;
+    border:1px solid #fff;
+    padding:12px 20px;
+    transition:.3s;
+}
+
+.article-link-button:hover{
+    background:#fff;
+    color:#000;
+}
+
 }

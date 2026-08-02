@@ -30,8 +30,24 @@ As the brand continues to grow, this archive will grow with it.`,
 
 ブランドが成長していくのとともに、この場所も少しずつ積み重ねていけたらと思います。`
 
-        }
+        },
 
-    }
+        videos:[
+        "https://youtu.be/BPbSgf6omM8?si=QmFV0kjFnZIE2QLb",
+        "https://www.instagram.com/reel/..."
+    ],
+
+    links:[
+        {
+            label:"Instagram",
+            url:"https://www.instagram.com/daruma_street/"
+        },
+        {
+            label:"YouTube",
+            url:"https://www.youtube.com/@DARUMASTREET/featured"
+        }
+    ]
+
+}
 
 };
