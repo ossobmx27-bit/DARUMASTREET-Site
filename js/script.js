@@ -191,16 +191,16 @@ if (homeProductsList && typeof products !== "undefined") {
 
         const card = document.createElement("a");
 
-        card.className = "home-news-card";
+        card.className = "home-product-card";
 
         card.href = item.details;
 
         card.innerHTML = `
-            <div class="home-news-image">
+            <div class="home-product-image">
                 <img src="${item.image}" alt="${item.name}" loading="lazy">
             </div>
 
-            <h3 class="home-news-title">
+            <h3 class="home-product-title">
                 ${item.name}
             </h3>
 
