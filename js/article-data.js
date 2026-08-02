@@ -48,6 +48,87 @@ As the brand continues to grow, this archive will grow with it.`,
         }
     ]
 
-}
+},
+
+"osomatsu-rider-introduction": {
+
+    category: "PROFILE",
+
+    date: "2026.08.02",
+
+    title: "RIDER INTRODUCTION | OSOMATSU",
+
+    hero: "assets/riders/osomatsu.jpg",
+
+    content: {
+
+        en: `PROFILE
+
+[ NAME ]
+KAZUEI OIMATSU
+
+[ BIRTHPLACE ]
+Manila, Philippines
+
+[ BASE ]
+Toyama, Japan
+
+[ SPONSORS ]
+DARUMA STREET
+ANIMAL BIKES
+ALIVE INDUSTRY
+MOTO-BUNKA STORE
+ACTLIKEYOUKNOW
+TOOLATE SPORTS
+TATASKATEPARK
+PompSlowly
+Anarkeys
+
+[ ABOUT ]
+Aggressive street riding has always been at the core of his BMX style.
+
+While continuing to ride as an active BMX rider, he also works as the filmer, editor, creative director and the boss behind DARUMA STREET.`,
+
+        ja: `PROFILE
+
+[ 名前 ]
+老松 一瑛
+KAZUEI OIMATSU
+
+[ 出身 ]
+マニラ
+
+[ 活動拠点 ]
+富山県
+
+[ スポンサー ]
+DARUMA STREET
+ANIMAL BIKES
+ALIVE INDUSTRY
+MOTO-BUNKA STORE
+ACTLIKEYOUKNOW
+TOOLATE SPORTS
+TATASKATEPARK
+PompSlowly
+Anarkeys
+
+[ 紹介文 ]
+ゴリゴリのストリートライディングを軸に自身も現役BMXライダーとして活動し続ける一方で、DARUMA STREETのフィルマー、エディター、ディレクション、運営も担う、ブランドのボス。`
+
+    },
+
+    videos: [
+        "https://www.youtube.com/watch?v=WrgEmrNW3Gw",
+        "https://www.youtube.com/watch?v=02C8B4FA6uI"
+    ],
+
+    links: [
+        {
+            label: "Instagram",
+            url: "https://www.instagram.com/osomatsu_bmx/"
+        }
+    ]
+
+},
 
 };
