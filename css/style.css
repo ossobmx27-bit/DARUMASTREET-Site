@@ -450,3 +450,21 @@ main section{
 
     
 }
+
+/* ==========================
+   HOME BANNER
+========================== */
+
+.home-banner{
+
+    display:block;
+
+    width:100%;
+
+    aspect-ratio:3 / 1;
+
+    object-fit:cover;
+
+    margin:24px 0;
+
+}

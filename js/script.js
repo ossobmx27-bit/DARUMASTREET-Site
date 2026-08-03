@@ -102,24 +102,6 @@ window.addEventListener("load", () => {
   const searchButton = document.getElementById("searchButton");
   const searchOverlay = document.getElementById("searchOverlay");
 
-  if (searchButton) {
-
-    searchButton.addEventListener("click", () => {
-
-      if (searchOverlay.style.display === "block") {
-
-        searchOverlay.style.display = "none";
-
-      } else {
-
-        searchOverlay.style.display = "block";
-
-      }
-
-    });
-
-  }
-
   /* ==========================
    HOME NEWS
 ========================== */
