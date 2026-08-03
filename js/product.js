@@ -138,7 +138,7 @@ document.addEventListener("DOMContentLoaded", () => {
                            target="_blank"
                            rel="noopener noreferrer">
 
-                            BUY AT MOTO-BUNKA STORE →
+                            WORLDWIDE SHIPPING →
 
                         </a>
 
