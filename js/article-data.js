@@ -161,13 +161,13 @@ Toyama, Japan
 Toyama, Japan
 
 [ SPONSORS ]
-DARUMA STREET
-CellaDoors
-MOTO-BUNKA STORE
-ALIVE INDUSTRY
-Bern
-TOOLATE SPORTS
-TATASKATEPARK
+DARUMA STREET / 
+CellaDoors / 
+MOTO-BUNKA STORE / 
+ALIVE INDUSTRY / 
+Bern / 
+TOOLATE SPORTS / 
+TATASKATEPARK / 
 PompSlowly
 
 Aggressive riding skills combined with unique spot selection have become his signature style, creating a one-of-a-kind vision through BMX street riding.`,
@@ -184,13 +184,13 @@ Aggressive riding skills combined with unique spot selection have become his sig
 富山県
 
 [ スポンサー ]
-DARUMA STREET
-CellaDoors
-MOTO-BUNKA STORE
-ALIVE INDUSTRY
-Bern
-TOOLATE SPORTS
-TATASKATEPARK
+DARUMA STREET / 
+CellaDoors / 
+MOTO-BUNKA STORE / 
+ALIVE INDUSTRY / 
+Bern / 
+TOOLATE SPORTS / 
+TATASKATEPARK / 
 PompSlowly
 
 [ ABOUT ]
@@ -243,7 +243,7 @@ Toyama, Japan
 Tokyo, Japan
 
 [ SPONSORS ]
-DARUMA STREET
+DARUMA STREET / 
 JYKK JAPAN
 
 Friendly and approachable, Rick is known for covering everything from technical riding to heavy street moves. He is also one of the team's most reliable riders when it comes to filming clips on tours.`,
@@ -260,7 +260,7 @@ Friendly and approachable, Rick is known for covering everything from technical 
 東京都
 
 [ スポンサー ]
-DARUMA STREET
+DARUMA STREET / 
 JYKK JAPAN
 
 [ ABOUT ]
@@ -313,7 +313,7 @@ Ishikawa, Japan
 Ishikawa, Japan
 
 [ SPONSORS ]
-DARUMA STREET
+DARUMA STREET / 
 NICE KUSO SPOT
 
 A true street rider with a solid, no-nonsense style. As the founder of NICE KUSO SPOT, he continues to support and grow the local BMX scene in Ishikawa.`,
@@ -330,7 +330,7 @@ A true street rider with a solid, no-nonsense style. As the founder of NICE KUSO
 石川県
 
 [ スポンサー ]
-DARUMA STREET
+DARUMA STREET / 
 NICE KUSO SPOT
 
 [ ABOUT ]
@@ -387,7 +387,7 @@ Toyama, Japan
 Tokyo, Japan
 
 [ SPONSORS ]
-DARUMA STREET
+DARUMA STREET / 
 CE.MESS
 
 Alongside riding BMX, Natsuki is active as both a photographer and filmmaker. As the team's manager-like figure, he supports DARUMA STREET both on and off the bike.`,
@@ -404,7 +404,7 @@ Alongside riding BMX, Natsuki is active as both a photographer and filmmaker. As
 東京都
 
 [ スポンサー ]
-DARUMA STREET
+DARUMA STREET / 
 CE.MESS
 
 [ ABOUT ]
