@@ -74,15 +74,9 @@ Manila, Philippines
 Toyama, Japan
 
 [ SPONSORS ]
-DARUMA STREET / 
-ANIMAL BIKES / 
-ALIVE INDUSTRY / 
-MOTO-BUNKA STORE / 
-ACTLIKEYOUKNOW / 
-TOOLATE SPORTS / 
-TATASKATEPARK / 
-PompSlowly / 
-Anarkeys
+DARUMA STREET / ANIMAL BIKES / ALIVE INDUSTRY / 
+MOTO-BUNKA STORE / ACTLIKEYOUKNOW / TOOLATE SPORTS / 
+TATASKATEPARK / PompSlowly / Anarkeys
 
 [ ABOUT ]
 Aggressive street riding has always been at the core of his BMX style.
@@ -102,15 +96,10 @@ KAZUEI OIMATSU
 富山県
 
 [ スポンサー ]
-DARUMA STREET / 
-ANIMAL BIKES / 
-ALIVE INDUSTRY / 
-MOTO-BUNKA STORE / 
-ACTLIKEYOUKNOW / 
-TOOLATE SPORTS / 
-TATASKATEPARK / 
-PompSlowly / 
-Anarkeys
+DARUMA STREET / ANIMAL BIKES / ALIVE INDUSTRY / 
+MOTO-BUNKA STORE / ACTLIKEYOUKNOW / TOOLATE SPORTS / 
+TATASKATEPARK / PompSlowly / Anarkeys
+
 
 [ 紹介文 ]
 ゴリゴリのストリートライディングを軸に自身も現役BMXライダーとして活動し続ける一方で、DARUMA STREETのフィルマー、エディター、ディレクション、運営も担う、ブランドのボス。`
@@ -161,14 +150,9 @@ Toyama, Japan
 Toyama, Japan
 
 [ SPONSORS ]
-DARUMA STREET / 
-CellaDoors / 
-MOTO-BUNKA STORE / 
-ALIVE INDUSTRY / 
-Bern / 
-TOOLATE SPORTS / 
-TATASKATEPARK / 
-PompSlowly
+DARUMA STREET / CellaDoors / MOTO-BUNKA STORE / 
+ALIVE INDUSTRY / Bern / TOOLATE SPORTS / 
+TATASKATEPARK / PompSlowly
 
 Aggressive riding skills combined with unique spot selection have become his signature style, creating a one-of-a-kind vision through BMX street riding.`,
 
@@ -184,14 +168,9 @@ Aggressive riding skills combined with unique spot selection have become his sig
 富山県
 
 [ スポンサー ]
-DARUMA STREET / 
-CellaDoors / 
-MOTO-BUNKA STORE / 
-ALIVE INDUSTRY / 
-Bern / 
-TOOLATE SPORTS / 
-TATASKATEPARK / 
-PompSlowly
+DARUMA STREET / CellaDoors / MOTO-BUNKA STORE / 
+ALIVE INDUSTRY / Bern / TOOLATE SPORTS / 
+TATASKATEPARK / PompSlowly
 
 [ ABOUT ]
 
@@ -243,8 +222,7 @@ Toyama, Japan
 Tokyo, Japan
 
 [ SPONSORS ]
-DARUMA STREET / 
-JYKK JAPAN
+DARUMA STREET / JYKK JAPAN
 
 Friendly and approachable, Rick is known for covering everything from technical riding to heavy street moves. He is also one of the team's most reliable riders when it comes to filming clips on tours.`,
 
@@ -260,8 +238,7 @@ Friendly and approachable, Rick is known for covering everything from technical 
 東京都
 
 [ スポンサー ]
-DARUMA STREET / 
-JYKK JAPAN
+DARUMA STREET / JYKK JAPAN
 
 [ ABOUT ]
 
@@ -313,8 +290,7 @@ Ishikawa, Japan
 Ishikawa, Japan
 
 [ SPONSORS ]
-DARUMA STREET / 
-NICE KUSO SPOT
+DARUMA STREET / NICE KUSO SPOT
 
 A true street rider with a solid, no-nonsense style. As the founder of NICE KUSO SPOT, he continues to support and grow the local BMX scene in Ishikawa.`,
 
@@ -330,8 +306,7 @@ A true street rider with a solid, no-nonsense style. As the founder of NICE KUSO
 石川県
 
 [ スポンサー ]
-DARUMA STREET / 
-NICE KUSO SPOT
+DARUMA STREET / NICE KUSO SPOT
 
 [ ABOUT ]
 
@@ -387,8 +362,7 @@ Toyama, Japan
 Tokyo, Japan
 
 [ SPONSORS ]
-DARUMA STREET / 
-CE.MESS
+DARUMA STREET / CE.MESS
 
 Alongside riding BMX, Natsuki is active as both a photographer and filmmaker. As the team's manager-like figure, he supports DARUMA STREET both on and off the bike.`,
 
@@ -404,8 +378,7 @@ Alongside riding BMX, Natsuki is active as both a photographer and filmmaker. As
 東京都
 
 [ スポンサー ]
-DARUMA STREET / 
-CE.MESS
+DARUMA STREET / CE.MESS
 
 [ ABOUT ]
 
@@ -461,15 +434,9 @@ Q. Please introduce yourself.
 A. I'm YU YOSHIDA.
 
 Q. Who are your sponsors?
-A.
-DARUMA STREET /
-CellaDoors /
-MOTO-BUNKA STORE /
-ALIVE INDUSTRY /
-Bern /
-TOOLATE SPORTS /
-TATA SKATEPARK /
-PompSlowly
+A.DARUMA STREET / CellaDoors / MOTO-BUNKA STORE / 
+ALIVE INDUSTRY / Bern / TOOLATE SPORTS / 
+TATASKATEPARK / PompSlowly
 
 Q. What was your impression of ALIVE INDUSTRY before joining?
 A. I thought it was a really cool brand.
@@ -517,15 +484,9 @@ Q. 自己紹介お願いします。
 A. 吉田侑生です。
 
 Q. スポンサーは？
-A.
-DARUMA STREET /
-CellaDoors /
-MOTO-BUNKA STORE /
-ALIVE INDUSTRY /
-Bern /
-TOOLATE SPORTS /
-TATA SKATEPARK /
-PompSlowly
+A.DARUMA STREET / CellaDoors / MOTO-BUNKA STORE / 
+ALIVE INDUSTRY / Bern / TOOLATE SPORTS / 
+TATASKATEPARK / PompSlowly
 
 Q. 加入する前のALIVE INDUSTRYに対する印象は？
 A. めちゃくちゃかっこいいブランドっていう印象でした。
