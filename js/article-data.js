@@ -433,4 +433,145 @@ BMXライダーとして活動する傍ら、フォトグラファーやフィ�
 
 },
 
+"yu-yoshida-welcome-to-alive-industry": {
+
+    category: "INTERVIEW",
+
+    date: "2026.07.17",
+
+    title: "YU YOSHIDA-WELCOME TO ALIVE INDUSTRY",
+
+    hero: "assets/alive-wtt-yu-yoshida/main.jpg",
+
+    content: {
+
+        en: `[ INTERVIEW ]
+
+YU YOSHIDA - WELCOME TO ALIVE INDUSTRY
+
+Looking back on the story behind the filming.
+
+YU YOSHIDA recently joined ALIVE INDUSTRY, one of Japan's leading BMX frame and parts brands.
+
+To celebrate his addition to the team, ALIVE INDUSTRY released the WELCOME EDIT. In this interview, YU looks back on the filming process and talks about how he felt at the time.
+
+[ Q&A ]
+
+Q. Please introduce yourself.
+A. I'm YU YOSHIDA.
+
+Q. Who are your sponsors?
+A.
+DARUMA STREET /
+CellaDoors /
+MOTO-BUNKA STORE /
+ALIVE INDUSTRY /
+Bern /
+TOOLATE SPORTS /
+TATA SKATEPARK /
+PompSlowly
+
+Q. What was your impression of ALIVE INDUSTRY before joining?
+A. I thought it was a really cool brand.
+
+Q. Has that impression changed since joining the team?
+A. No, it hasn't.
+
+Q. How long did it take to finish filming the clips for your video part?
+A. Including the time when I was riding an 18-inch, it took about a year in total.
+
+Q. Did you only film in your hometown of Toyama?
+A. No. I also joined ALIVE INDUSTRY's tours and filmed in various places, including Osaka and Nagoya.
+
+Q. When you were joining ALIVE INDUSTRY's tours, you hadn't officially joined the team yet, right? What were you thinking and feeling while touring and filming?
+A. I was hoping that someday I could tour together with the team as an ALIVE rider.
+
+Q. How did you feel when you officially joined the team?
+A. I was just really happy to join a brand that I had been watching in videos for so long.
+
+Q. What was the most memorable experience from the tours?
+A. Sleeping together on the floor at the places we stayed during the Nagoya and Osaka tours.
+
+Q. Which clip from this video part means the most to you? And why?
+A. The very first clip at the bank spot.
+I had sprained myself before the Osaka tour, and I filmed that clip while I was still dealing with the injury, so it really stuck with me.
+
+Q. Was there a trick or spot that was particularly difficult during filming?
+A. The clip where I did a switch feeble 180 to backwards feeble into the bank took quite a while to make. That was probably the hardest one.
+
+Q. Any final words?
+A. I'll keep working hard to become an even cooler rider.`,
+
+        ja: `[ INTERVIEW ]
+
+YU YOSHIDA - WELCOME TO ALIVE INDUSTRY
+
+その撮影エピソードを振り返る。
+
+日本が誇るBMXフレーム＆パーツブランド、ALIVE INDUSTRYに加入したYU YOSHIDA。
+チーム加入に合わせて公開されたWELCOME EDITの撮影エピソードや、当時の心境をQ&A形式で振り返る。
+
+[ Q&A ]
+
+Q. 自己紹介お願いします。
+A. 吉田侑生です。
+
+Q. スポンサーは？
+A.
+DARUMA STREET /
+CellaDoors /
+MOTO-BUNKA STORE /
+ALIVE INDUSTRY /
+Bern /
+TOOLATE SPORTS /
+TATA SKATEPARK /
+PompSlowly
+
+Q. 加入する前のALIVE INDUSTRYに対する印象は？
+A. めちゃくちゃかっこいいブランドっていう印象でした。
+
+Q. チームに加入して、その印象って何か変わった？
+A. 変わってないです。
+
+Q. ビデオパートのクリップは、どれぐらいの期間で撮り終えた？
+A. 18インチのころも合わせると、大体一年くらいです。
+
+Q. 撮影した場所は、地元の富山県だけ？
+A. 富山県以外にもALIVEのツアーにも同行して、大阪、名古屋とかいろんなところで撮りました。
+
+Q. ALIVE INDUSTRYのツアーに同行している時は、まだ正式加入は決まってなかったよね？
+どんな気持ちでツアーを過ごしたり、撮影してた？
+A. いつかALIVEのライダーとして一緒にツアーしたいなっていう気持ちでした。
+
+Q. 正式にチーム加入が決まった時は、どんな気持ちだった？
+A. 今までずっと映像で見てきたブランドに入れて嬉しいっていう感情しかなかったです。
+
+Q. ツアーで特に印象に残っている出来事や思い出は？
+A. 名古屋や大阪ツアーの宿で、みんなで雑魚寝したことです。
+
+Q. 今回のビデオパートで、思い入れのあるクリップは？理由もあればぜひ。
+A. 一番最初のバンクスポットでのクリップです。
+大阪ツアー前に捻挫をして、その状態で撮ったクリップなので、いろいろと印象に残っています。
+
+Q. 撮影中、一番苦労したトリックやスポットはあった？
+A. スイッチフィーブルからの掛け替えでバンクインするクリップがメイクまでに割と時間がかかって、一番苦労しました。
+
+Q. 最後に何か一言。
+A. もっとかっこいいライダーになれるように頑張ります。`
+
+    },
+
+    videos: [
+        "https://youtu.be/vfrn9b3SW5k?si=kyPoAz7xKBgV9Lh_"
+    ],
+
+    links: [
+        {
+            label: "Yu Yoshida Instagram",
+            url: "https://www.instagram.com/yu_yoshida_/"
+        }
+    ]
+
+},
+
 };

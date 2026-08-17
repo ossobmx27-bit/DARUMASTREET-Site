@@ -1,6 +1,20 @@
 const news = [
 
-   {
+       {
+        id: "yu-yoshida-welcome-to-alive-industry",
+
+        category: "INTERVIEW",
+
+        date: "2026.07.17",
+
+        title: "YU YOSHIDA-WELCOME TO ALIVE INDUSTRY",
+
+        image: "assets/alive-wtt-yu-yoshida/main.jpg",
+
+        article: "article.html?id=yu-yoshida-welcome-to-alive-industry"
+    },
+
+    {
 
         id: "natsuki-taniguchi-rider-introduction",
 
