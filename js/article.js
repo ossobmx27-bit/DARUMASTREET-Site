@@ -150,18 +150,18 @@ function renderVideos(videos) {
                 <div class="article-en">
 
                     ${detail.content.en
-                        .split("\n\n")
-                        .map(text => `<p>${text}</p>`)
-                        .join("")}
+    .split("\n\n")
+    .map(text => `<p>${text.replace(/\n/g, "<br>")}</p>`)
+    .join("")}
 
                 </div>
 
                 <div class="article-ja">
 
                     ${detail.content.ja
-                        .split("\n\n")
-                        .map(text => `<p>${text}</p>`)
-                        .join("")}
+    .split("\n\n")
+    .map(text => `<p>${text.replace(/\n/g, "<br>")}</p>`)
+    .join("")}
 
                 </div>
 

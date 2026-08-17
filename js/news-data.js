@@ -1,6 +1,6 @@
 const news = [
 
-       {
+    {
         id: "yu-yoshida-welcome-to-alive-industry",
 
         category: "INTERVIEW",
@@ -9,7 +9,7 @@ const news = [
 
         title: "YU YOSHIDA-WELCOME TO ALIVE INDUSTRY",
 
-        image: "assets/alive-wtt-yu-yoshida/main.jpg",
+        image: "assets/news/alive-wtt-yu-yoshida/main.jpg",
 
         article: "article.html?id=yu-yoshida-welcome-to-alive-industry"
     },

@@ -441,7 +441,7 @@ BMXライダーとして活動する傍ら、フォトグラファーやフィ�
 
     title: "YU YOSHIDA-WELCOME TO ALIVE INDUSTRY",
 
-    hero: "assets/alive-wtt-yu-yoshida/main.jpg",
+    hero: "assets/news/alive-wtt-yu-yoshida/main.jpg",
 
     content: {
 
