@@ -410,7 +410,7 @@ BMXライダーとして活動する傍ら、フォトグラファーやフィ�
 
     category: "INTERVIEW",
 
-    date: "2026.07.17",
+    date: "2026.08.17",
 
     title: "YU YOSHIDA-WELCOME TO ALIVE INDUSTRY",
 
