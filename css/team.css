@@ -159,7 +159,18 @@
     display:block;
 }
 
-.rider .article-link{
-    display:block;
+.rider-introduction{
+
+    clear:both;
+
+    margin-top:10px;
+
+}
+
+.rider-introduction .article-link{
+
+    display:inline-block;
+
     width:fit-content;
+
 }
