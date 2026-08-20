@@ -1,0 +1,5 @@
+/news-data.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/products-data.js
+  Cache-Control: public, max-age=0, must-revalidate
