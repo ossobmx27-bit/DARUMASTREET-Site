@@ -170,3 +170,17 @@
     margin-top:10px;
 
 }
+
+.accordion-content .article-link{
+
+    display:block !important;
+
+    width:fit-content;
+
+    margin-top:10px;
+
+    clear:both;
+
+    float:none !important;
+
+}
