@@ -530,7 +530,12 @@ A. もっとかっこいいライダーになれるように頑張ります。`
         {
             label: "Yu Yoshida Instagram",
             url: "https://www.instagram.com/yu_yoshida_/"
-        }
+        },
+
+        {
+            label: "Alive Industry Instagram",
+            url: "https://www.instagram.com/aliveindustry/"
+        },
     ]
 
 },
