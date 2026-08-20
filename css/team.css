@@ -158,3 +158,8 @@
 .accordion-item.active .accordion-content{
     display:block;
 }
+
+.rider .article-link{
+    display:block;
+    width:fit-content;
+}
