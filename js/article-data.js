@@ -619,7 +619,7 @@ MBFF初開催となった2023年。
 
 MBFF 2024 "YU YOSHIDA"編へ続く。。。
 
-MBFFの詳細は、<a href="https://motobunka.com/mb-film-festival-2026/" target="_blank" rel="noopener" class="article-text-link">こちら</a>からご確認ください。
+今年も11月に開催されるMBFFの詳細は、<a href="https://motobunka.com/mb-film-festival-2026/" target="_blank" rel="noopener" class="article-text-link">こちら</a>からご確認ください。
 
 [VIDEO HIGHLIGHT]
 
