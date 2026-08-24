@@ -18,6 +18,17 @@ document.addEventListener("DOMContentLoaded", () => {
 
     }
 
+    function formatArticleText(text) {
+
+    return text
+        .replace(
+            /\[\[([^\]|]+)\|([^\]]+)\]\]/g,
+            '<a href="$2" target="_blank" rel="noopener">$1</a>'
+        )
+        .replace(/\n/g, "<br>");
+
+}
+
 function renderVideos(videos) {
 
     
@@ -186,18 +197,18 @@ function renderGallery(gallery) {
 
                 <div class="article-en">
 
-                    ${detail.content.en
+                   ${detail.content.en
     .split("\n\n")
-    .map(text => `<p>${text.replace(/\n/g, "<br>")}</p>`)
+    .map(text => `<p>${formatArticleText(text)}</p>`)
     .join("")}
 
                 </div>
 
                 <div class="article-ja">
 
-                    ${detail.content.ja
+　　　　　　　　　　　${detail.content.ja
     .split("\n\n")
-    .map(text => `<p>${text.replace(/\n/g, "<br>")}</p>`)
+    .map(text => `<p>${formatArticleText(text)}</p>`)
     .join("")}
 
                 </div>
