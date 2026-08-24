@@ -372,3 +372,18 @@
 }
 
 }
+
+/* ==========================
+   TEXT LINK
+========================== */
+
+.article-text-link{
+    color:#5aa9ff;
+    text-decoration:underline;
+    text-underline-offset:4px;
+    transition:.3s;
+}
+
+.article-text-link:hover{
+    opacity:.6;
+}

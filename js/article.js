@@ -245,3 +245,4 @@ function changeGalleryImage(image, button) {
     button.classList.add("active");
 
 }
+
