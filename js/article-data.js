@@ -559,44 +559,33 @@ Looking Back at DARUMA STREET's Past Works.
 MBFF 2023 | by OSOMATSU
 
 What is the MOTO-BUNKA FILM FESTIVAL, also known as MBFF?
-
 MBFF is a BMX film festival organized by MOTO-BUNKA, a Japanese BMX media outlet.
-
 BMX video productions are submitted from Japan and abroad and reviewed by a panel of judges.
-
 The top-selected films are screened at a movie theater in Tokyo, making MBFF a large-scale BMX video competition.
-
 It is also a platform for showcasing the appeal of BMX culture through riding, video production, and creative expression.
-
 In this article, we look back at DARUMA STREET's video productions that placed in the top rankings at MBFF for two consecutive years, revisiting the production and filming process at the time.
 
 [ MBFF 2023 ]
 
 2023 marked the first edition of MBFF.
-
 BMX video productions were invited from across Japan, with the judging handled by legendary BMX riders from Japan and abroad. The top 10 entries were screened at a movie theater in Tokyo, creating a large-scale and innovative format.
-
 As soon as the event was announced, DARUMA STREET began producing a video for MBFF 2023.
-
 The concept was to focus on local street riders from Toyama and Ishikawa.
-
 A total of 11 riders, including "RICK" and "YU", who were still in elementary and junior high school at the time, were filmed. We searched for various spots mainly in Toyama and Ishikawa, as well as locations outside the prefectures, traveling to each spot while producing the video.
-
 After submitting the video, the day of MBFF arrived.
-
 The results were announced at the movie theater on the same day, together with the screening of the submitted films.
-
 We were watching the other entries, not even knowing whether our own video would actually be shown.
-
 Then, during the third screening, the words "DARUMA STREET" appeared on the screen.
-
 Before feeling excited, we were simply relieved.
-
 The result was 7th place, but being able to watch a selection of great BMX videos in a movie theater, and seeing our own video projected onto a huge screen, felt like a dream.
-
 MBFF 2024 "YU YOSHIDA" edition continues...
 
 For more information about MBFF, please check <a href="https://motobunka.com/mb-film-festival-2026/" target="_blank" rel="noopener" class="article-text-link">here</a>.
+
+[ VIDEO HIGHLIGHT ]
+
+Among all the clips in this video, each rider's individual style really stands out. The most memorable clip for me is the final clip of KAZUMA SATO doing a feeble.
+The ledge was much longer and rougher than it looked, and after just a few attempts to make the trick, about a quarter of his steel peg had been worn away.
 `,
     ja: `
 [ DARUMA STREET ARCHIVE ]
@@ -629,6 +618,12 @@ MBFF初開催となった2023年。
 MBFF 2024 "YU YOSHIDA"編へ続く。。。
 
 MBFFの詳細は、<a href="https://motobunka.com/mb-film-festival-2026/" target="_blank" rel="noopener" class="article-text-link">こちら</a>からご確認ください。
+
+[VIDEO HIGHLIGHT]
+
+今作中、ライダーそれぞれの特色が際立つ中で、１番印象的なクリップはラストの”KAZUMA SATO”のフィーブル。
+レッジは見た目以上に長く荒いレッジで、メイクまでの数本のトライだけで、鉄ペグの4分の１が削れて無くなってしまうほどでした。
+
 `
 },
 
