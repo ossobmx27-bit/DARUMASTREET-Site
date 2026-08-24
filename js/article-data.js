@@ -548,7 +548,7 @@ A. もっとかっこいいライダーになれるように頑張ります。`
 
     title: "📼DARUMA STREETの過去作を振り返る。MBFF2023編 | by OSOMATSU",
 
-    hero: "assets/news/daruma-street-mbff-2023/main.jpg",
+    hero: "assets/news/mbff-2023/main.jpg",
 
     content: {
     en: `
@@ -630,16 +630,16 @@ MBFF 2024 "YU YOSHIDA"編へ続く。。。
 
 
     gallery: [
-        "assets/news/daruma-street-mbff-2023/photo1.jpg",
-        "assets/news/daruma-street-mbff-2023/photo2.jpg",
-        "assets/news/daruma-street-mbff-2023/photo3.jpg",
-        "assets/news/daruma-street-mbff-2023/photo4.jpg",
-        "assets/news/daruma-street-mbff-2023/photo5.jpg",
-        "assets/news/daruma-street-mbff-2023/photo6.jpg",
-        "assets/news/daruma-street-mbff-2023/photo7.jpg",
-        "assets/news/daruma-street-mbff-2023/photo8.jpg",
-        "assets/news/daruma-street-mbff-2023/photo9.jpg",
-        "assets/news/daruma-street-mbff-2023/photo10.jpg",
+        "assets/news/mbff-2023/photo1.jpg",
+        "assets/news/mbff-2023/photo2.jpg",
+        "assets/news/mbff-2023/photo3.jpg",
+        "assets/news/mbff-2023/photo4.jpg",
+        "assets/news/mbff-2023/photo5.jpg",
+        "assets/news/mbff-2023/photo6.jpg",
+        "assets/news/mbff-2023/photo7.jpg",
+        "assets/news/mbff-2023/photo8.jpg",
+        "assets/news/mbff-2023/photo9.jpg",
+        "assets/news/mbff-2023/photo10.jpg",
     ],
 
     videos: [
