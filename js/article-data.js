@@ -596,7 +596,7 @@ The result was 7th place, but being able to watch a selection of great BMX video
 
 MBFF 2024 "YU YOSHIDA" edition continues...
 
-For more information about MBFF, please check <a href="https://www.instagram.com/mb_film_festival/" target="_blank" rel="noopener" class="article-text-link">here</a>.
+For more information about MBFF, please check <a href="https://motobunka.com/mb-film-festival-2026/" target="_blank" rel="noopener" class="article-text-link">here</a>.
 `,
     ja: `
 [ DARUMA STREET ARCHIVE ]
@@ -628,7 +628,7 @@ MBFF初開催となった2023年。
 
 MBFF 2024 "YU YOSHIDA"編へ続く。。。
 
-MBFFの詳細は、<a href="https://www.instagram.com/mb_film_festival/" target="_blank" rel="noopener" class="article-text-link">こちら</a>からご確認ください。
+MBFFの詳細は、<a href="https://motobunka.com/mb-film-festival-2026/" target="_blank" rel="noopener" class="article-text-link">こちら</a>からご確認ください。
 `
 },
 
