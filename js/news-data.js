@@ -1,5 +1,19 @@
 const news = [
 
+{
+    id: "daruma-street-mbff-2023",
+
+    category: "NEWS",
+
+    date: "2026.08.26",
+
+    title: "📼DARUMA STREETの過去作を振り返る。MBFF2023編 | by OSOMATSU",
+
+    image: "assets/news/daruma-street-mbff-2023/main.jpg",
+
+    article: "article.html?id=daruma-street-mbff-2023"
+},
+
     {
         id: "yu-yoshida-welcome-to-alive-industry",
 
