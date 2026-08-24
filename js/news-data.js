@@ -5,7 +5,7 @@ const news = [
 
     category: "NEWS",
 
-    date: "2026.08.26",
+    date: "2026.08.24",
 
     title: "📼DARUMA STREETの過去作を振り返る。MBFF2023編 | by OSOMATSU",
 
