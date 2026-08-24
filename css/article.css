@@ -275,6 +275,26 @@
 
 }
 
+.article-gallery{
+    margin-top:60px;
+    margin-bottom:60px;
+}
+
+.article-gallery h2{
+    font-size:18px;
+    margin-bottom:16px;
+}
+
+.gallery-thumbnails{
+    gap:8px;
+}
+
+.gallery-thumb{
+    flex:0 0 70px;
+    width:70px;
+    height:70px;
+}
+
 /* ==========================
    VIDEOS
 ========================== */

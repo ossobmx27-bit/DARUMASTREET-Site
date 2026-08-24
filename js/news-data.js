@@ -9,7 +9,7 @@ const news = [
 
     title: "📼DARUMA STREETの過去作を振り返る。MBFF2023編 | by OSOMATSU",
 
-    image: "assets/news/daruma-street-mbff-2023/main.jpg",
+    image: "assets/news/mbff-2023/main.jpg",
 
     article: "article.html?id=daruma-street-mbff-2023"
 },
