@@ -87,3 +87,50 @@
 }
 
 }
+
+/* ==========================
+   ARTICLE PHOTO GALLERY
+========================== */
+
+.article-gallery {
+    margin-top: 80px;
+}
+
+.article-gallery h2 {
+    margin-bottom: 24px;
+}
+
+.gallery-main {
+    width: 100%;
+}
+
+.gallery-main img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.gallery-thumbnails {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.gallery-thumb {
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+    opacity: 0.6;
+}
+
+.gallery-thumb.active {
+    opacity: 1;
+}
+
+.gallery-thumb img {
+    display: block;
+    width: 100%;
+    height: auto;
+}

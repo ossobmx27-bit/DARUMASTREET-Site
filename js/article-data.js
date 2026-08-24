@@ -540,4 +540,159 @@ A. もっとかっこいいライダーになれるように頑張ります。`
 
 },
 
+"daruma-street-mbff-2023": {
+
+    category: "NEWS",
+
+    date: "2026.08.24",
+
+    title: "📼DARUMA STREETの過去作を振り返る。MBFF2023編 | by OSOMATSU",
+
+    hero: "assets/news/daruma-street-mbff-2023/main.jpg",
+
+    content: {
+
+        en: `[ DARUMA STREET ARCHIVE ]
+
+Looking Back at DARUMA STREET's Past Works.
+
+MBFF 2023 Edition | by OSOMATSU
+
+What is the "MOTO-BUNKA FILM FESTIVAL" (MBFF)?
+
+The MOTO-BUNKA FILM FESTIVAL, commonly known as MBFF, is a BMX film festival organized by the Japanese BMX media outlet MOTO-BUNKA.
+
+BMX video productions are submitted from Japan and overseas, and the entries are judged to select the top films.
+
+The top-selected films are screened at a movie theater in Tokyo, making MBFF a large-scale BMX video contest.
+
+It is also a place to showcase the appeal of BMX culture through riding and video production.
+
+In this article, we look back on the production and filming process of DARUMA STREET's video works, which placed among the top entries at MBFF for two consecutive years.
+
+[ MBFF 2023 ]
+
+2023 marked the first edition of MBFF.
+
+BMX video productions were submitted from across Japan, with legendary BMX riders from Japan and overseas serving as judges. The top 10 entries were then screened at a movie theater in Tokyo, creating a large-scale and innovative format.
+
+As soon as the event was announced, DARUMA STREET began producing a video for MBFF 2023.
+
+The concept was to focus on local street riders from Toyama and Ishikawa.
+
+A total of 11 riders, including "RICK" and "YU," who were still in elementary and junior high school at the time, were filmed for the project.
+
+We searched for spots throughout Toyama and Ishikawa, as well as various locations outside the prefectures, traveling to each spot while working on the video.
+
+After submitting the film, the day of MBFF finally arrived.
+
+The results were announced at the movie theater on the day of the event, alongside the screening of the films.
+
+Not knowing whether our own film would even be shown, we sat through the event with a nervous feeling.
+
+When our submitted video was finally screened at the movie theater, we were first and foremost relieved.
+
+We finished in 7th place, but being able to watch a selection of great BMX videos in a movie theater, and seeing our own video on a huge screen, felt like a dream.
+
+[ VIDEO HIGHLIGHT ]
+
+Among the many clips in the film, each rider's individual style stands out, but the most memorable clip for me is the final feeble by "KAZUMA SATO."
+
+The ledge was much longer and rougher than it looked, and after only a few attempts, he had worn away about a quarter of his steel peg.
+
+To be continued in MBFF 2024 "YU YOSHIDA" edition...
+
+This year's MBFF will be held on November 22 at Ikebukuro HUMAX Cinemas.
+
+Entries are open until September 30. For details on how to enter and other information, please check the MBFF 2026 entry information [こちら].`,
+
+        ja: `[ DARUMA STREET ARCHIVE ]
+
+DARUMA STREETの過去作を振り返る。
+
+MBFF2023編 | by OSOMATSU
+
+『MOTO-BUNKA FILM FESTIVAL』（通称：MBFF）とは？
+
+日本のBMXメディア『MOTO-BUNKA』が主催する、BMXの映像祭典。
+
+国内外からBMXの映像作品を募り、応募作品を審査。
+
+上位に選出された作品が東京の映画館で上映される、大規模なBMXムービーコンテストです。
+
+また、作品を通してライディングや映像表現、BMXカルチャーの魅力を発信する場でもあります。
+
+この記事では、2年連続でMBFFの上位入賞を果たしたDARUMA STREETの映像作品を紹介しながら、当時の制作、撮影の模様を振り返ります。
+
+[ MBFF 2023 ]
+
+MBFF初開催となった2023年。
+
+国内からBMX映像作品を募り、その審査を国内外のレジェンドBMXライダー達が務め、上位入賞10作品が東京の映画館で上映されるという、大規模かつ斬新なフォーマット。
+
+情報公開とともに、DARUMA STREETもMBFF 2023への応募に向けて映像制作を開始しました。
+
+ビデオコンセプトは、富山県・石川県のローカルストリートライダー達にフォーカスした作品。
+
+当時まだ小中学生だった"RICK"と"YU"も加わった総勢11名のライダーを撮影し、富山・石川を中心に、県外の様々なスポットを洗い出し、足を運びながら映像を制作しました。
+
+応募も終え、MBFFの開催日。
+
+結果発表は当日の映画館で映像の上映と同時に発表される方式。
+
+そもそも自分達の作品が流れるのかも分からないドキドキの中で、応募した映像は映画館で上映され、まずは安堵しました。
+
+結果は7位でしたが、選りすぐりの映像を映画館で見れて、自分たちの映像作品も特大のスクリーンで上映されている時間は夢のような時間でした。
+
+[ VIDEO HIGHLIGHT ]
+
+今作中、ライダーそれぞれの特色が際立つ中で、1番印象的なクリップはラストの"KAZUMA SATO"のフィーブル。
+
+レッジは見た目以上に長く荒いレッジで、メイクまでの数本のトライだけで、鉄ペグの4分の1が削れて無くなってしまうほどでした。
+
+MBFF 2024 "YU YOSHIDA"編へ続く。。。
+
+今年も11月22日に池袋HUMAXシネマズにて開催するMBFF。
+
+エントリーの締め切りは9月30日まで、エントリー方法などの詳細は
+[こちら] から。`
+
+    },
+
+    gallery: [
+        "assets/news/daruma-street-mbff-2023/photo1.jpg",
+        "assets/news/daruma-street-mbff-2023/photo2.jpg",
+        "assets/news/daruma-street-mbff-2023/photo3.jpg",
+        "assets/news/daruma-street-mbff-2023/photo4.jpg",
+        "assets/news/daruma-street-mbff-2023/photo5.jpg",
+        "assets/news/daruma-street-mbff-2023/photo6.jpg",
+        "assets/news/daruma-street-mbff-2023/photo7.jpg",
+        "assets/news/daruma-street-mbff-2023/photo8.jpg",
+        "assets/news/daruma-street-mbff-2023/photo9.jpg",
+        "assets/news/daruma-street-mbff-2023/photo10.jpg",
+    ],
+
+    videos: [
+        "https://www.youtube.com/watch?v=BPbSgf6omM8&list=PLDY036-0r4kYtXm97ngj1Dhafe17g8UeO&index=1"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
+        {
+            label: "MOTO-BUNKA Instagram",
+            url: "https://www.instagram.com/motobunka/"
+        },
+
+        {
+            label: "MBFF Instagram",
+            url: "https://www.instagram.com/mb_film_festival/"
+        }
+    ]
+
+},
+
 };

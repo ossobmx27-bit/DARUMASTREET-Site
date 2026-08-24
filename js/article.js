@@ -69,7 +69,44 @@ function renderVideos(videos) {
     `;
 
 }   
+function renderGallery(gallery) {
 
+    if (!gallery || gallery.length === 0) return "";
+
+    const mainImage = gallery[0];
+
+    const thumbnails = gallery
+        .map((image, index) => `
+            <button
+                type="button"
+                class="gallery-thumb ${index === 0 ? "active" : ""}"
+                onclick="changeGalleryImage('${image}', this)">
+                <img
+                    src="${image}"
+                    alt="Gallery image ${index + 1}">
+            </button>
+        `)
+        .join("");
+
+    return `
+        <section class="article-gallery">
+
+            <h2>PHOTOS</h2>
+
+            <div class="gallery-main">
+                <img
+                    id="article-gallery-main"
+                    src="${mainImage}"
+                    alt="Gallery image">
+            </div>
+
+            <div class="gallery-thumbnails">
+                ${thumbnails}
+            </div>
+
+        </section>
+    `;
+}
             function renderLinks(links) {
 
     if (!links || links.length === 0) return "";
@@ -165,8 +202,9 @@ function renderVideos(videos) {
 
                 </div>
 
-                ${renderVideos(detail.videos)}
-                ${renderLinks(detail.links)}
+${renderGallery(detail.gallery)}
+${renderVideos(detail.videos)}
+${renderLinks(detail.links)}
 
                 
 
@@ -178,3 +216,21 @@ function renderVideos(videos) {
     `;
 
 });
+
+function changeGalleryImage(image, button) {
+
+    const mainImage = document.getElementById("article-gallery-main");
+
+    if (!mainImage) return;
+
+    mainImage.src = image;
+
+    document
+        .querySelectorAll(".gallery-thumb")
+        .forEach(thumb => {
+            thumb.classList.remove("active");
+        });
+
+    button.classList.add("active");
+
+}
