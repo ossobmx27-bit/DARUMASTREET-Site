@@ -667,4 +667,115 @@ MBFF 2024 "YU YOSHIDA"編へ続く。。。
 
 },
 
+"daruma-street-mbff-2024": {
+
+    category: "NEWS",
+
+    date: "2026.08.28",
+
+    title: "📼DARUMA STREETの過去作を振り返る。MBFF2024編 | by OSOMATSU",
+
+    hero: "assets/news/mbff-2024/main.jpg",
+
+    content: {
+    en: `
+[ DARUMA STREET ARCHIVE ]
+
+Looking Back at DARUMA STREET's Past Works.
+
+MBFF 2024 | by OSOMATSU
+
+In this article, I look back on the making and filming of DARUMA STREET's video that placed in the top ranks of MBFF for two consecutive years.
+[MBFF 2024]
+2024 marked the second edition of MBFF.
+That year, the scale of the event expanded, with entries opening up from Japan to the entire Asian region.
+This change in the scale of MBFF was one of the reasons DARUMA STREET decided to create another video and enter the event that year.
+The concept for this video was a solo part focused on YU YOSHIDA, who was already starting to make a name for himself at the time.
+I had a feeling that YU's energy and skill would make it possible to build the part smoothly.
+However, when we started filming, we were faced with a major problem. Due to the Noto Peninsula Earthquake that occurred that year, spots across Toyama and Ishikawa Prefectures were left in devastating condition.
+With the situation as it was, I felt that relying too heavily on local spots would make it difficult to complete the part. So, more than the previous year, we searched for spots in various regions and traveled to film at them.
+Of all the places we visited on these trips, Gunma is the one that stands out the most in my memory.
+It was right in the middle of a brutally hot summer, so we would jump into rivers whenever we got the chance, and we even had a barbecue in a hut so filled with smoke that it felt like a fire drill.
+The day of MBFF 2024 finally arrived.
+The films that followed, each filled with so much passion for BMX, were all incredible.
+There were videos from countries and local scenes I had never known about before, and as I watched them, taking in everything and thinking about what I was seeing, I suddenly realized there were only a few films left before the festival was over.
+I remember thinking, “Wait, there are only about three films left… I guess we didn't make it this time…”
+Then, our title appeared on the screen.
+We finished in 7th place, just like the previous year. But seeing YU walk up on stage and feeling the reactions of BMX riders from all over the world in real time made me truly glad that we had made this video and entered MBFF.
+
+`,
+    ja: `
+[ DARUMA STREET ARCHIVE ]
+
+DARUMA STREETの過去作を振り返る。
+
+MBFF2024編 | by OSOMATSU
+
+この記事では、2年連続でMBFFの上位入賞を果たしたDARUMA STREETの映像作品を紹介しながら、当時の制作、撮影の模様を振り返ります。
+
+[MBFF 2024]
+MBFF２度目の開催となった2024年。
+この年からMBFFのイベント規模は拡大し、エントリー可能な範囲が日本国内からアジア全域へと広がりました。
+こうしたイベント規模の変化もきっかけで、DARUMA STREETはこの年もMBFFに参加するべく映像制作を始めました。
+
+今作のビデオコンセプトは、この時から頭角を現していた『ヨシダ ユウ』に焦点を当てたソロパートでした。
+
+『ユウ』のバイタリティーやスキルなら、パート作りを円滑に進められる感触はあったのですが、
+撮影を開始するにあたって直面したのは、この年に起きた能登半島地震の影響で、富山県・石川県のスポットが壊滅状態だったことです。
+この現状でローカルスポットばかりに頼りすぎると、パートの完成は難しいと思い、昨年以上に様々な地域のスポットを洗い出し、足を運びました。
+この時のツアーで、一番思い出に残っているのは群馬県ですね。
+真夏の猛暑ってこともあって、ことあるごとにみんなで川に入ったり、火災訓練ぐらい煙が充満する小屋でバーベキューしたり。
+
+MBFF 2024開催当日。
+次々と上映されるBMXへの熱意溢れる映像作品はとても素晴らしいものばかりでした。
+自分が知らなかった国やローカルの映像もあり、色々考えながら見入っていると、気づけば残り数本で映画祭も終わりとなっており、
+『あれ？もう残り３本ぐらいで終わるけど、、今回はダメだったか、、、』と思ってたところ、スクリーンに応募した作品タイトルが登場。
+結果は昨年同様7位でしたが、『ユウ』が壇上に上がっている様子や、様々な国のBMXライダー達の反応をリアルタイムで感じることができ、この映像を作ってMBFFに応募して、心から良かったなと思えました。
+
+
+今年も11月に開催されるMBFFの詳細は、<a href="https://motobunka.com/mb-film-festival-2026/" target="_blank" rel="noopener" class="article-text-link">こちら</a>からご確認ください。
+
+`
+},
+
+
+    gallery: [
+        "assets/news/mbff-2024/photo1.jpg",
+        "assets/news/mbff-2024/photo2.jpg",
+        "assets/news/mbff-2024/photo3.jpg",
+        "assets/news/mbff-2024/photo4.jpg",
+        "assets/news/mbff-2024/photo5.jpg",
+        "assets/news/mbff-2024/photo6.jpg",
+        "assets/news/mbff-2024/photo7.jpg",
+        "assets/news/mbff-2024/photo8.jpg",
+        "assets/news/mbff-2024/photo9.jpg",
+        "assets/news/mbff-2024/photo10.jpg",
+        "assets/news/mbff-2024/photo11.jpg",
+        "assets/news/mbff-2024/photo12.jpg",
+    ],
+
+    videos: [
+        "https://www.youtube.com/watch?v=BPbSgf6omM8&list=PLDY036-0r4kYtXm97ngj1Dhafe17g8UeO&index=1"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
+        {
+            label: "MOTO-BUNKA Instagram",
+            url: "https://www.instagram.com/motobunka/"
+        },
+
+        {
+            label: "MBFF Instagram",
+            url: "https://www.instagram.com/mb_film_festival/"
+        }
+    ]
+
+
+},
+
 };

@@ -1,6 +1,20 @@
 const news = [
 
 {
+    id: "daruma-street-mbff-2024",
+
+    category: "NEWS",
+
+    date: "2026.08.28",
+
+    title: "📼DARUMA STREETの過去作を振り返る。MBFF2024編 | by OSOMATSU",
+
+    image: "assets/news/mbff-2024/main.jpg",
+
+    article: "article.html?id=daruma-street-mbff-2024"
+},
+
+{
     id: "daruma-street-mbff-2023",
 
     category: "NEWS",
