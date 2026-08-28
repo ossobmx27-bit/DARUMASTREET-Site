@@ -755,7 +755,7 @@ MBFF 2024開催当日。
     ],
 
     videos: [
-        "https://www.youtube.com/watch?v=BPbSgf6omM8&list=PLDY036-0r4kYtXm97ngj1Dhafe17g8UeO&index=1"
+        "https://youtu.be/FSZEAOTpwfE?si=GiZ-WzK5unQv9jfs"
     ],
 
     links: [
