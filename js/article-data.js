@@ -823,7 +823,7 @@ DARUMA STREET — 10 YEARS.
 
        {
             label: "DARUMA STREET YouTube",
-            url: "https://www.youtube.com/c/DARUMASTREET"
+            url: "https://www.youtube.com/channel/UChKPilzXF9qvHxwmIolRzbw"
         },
 
     ]
