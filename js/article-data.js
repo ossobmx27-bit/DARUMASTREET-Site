@@ -812,7 +812,7 @@ DARUMA STREET — 10 YEARS.
 },
 
     videos: [
-        "https://youtube.com/shorts/OYh6nC63ng0?si=2JVjBBMwodh5Ggrr"
+        "https://youtube.com/embed/OYh6nC63ng0?si=2JVjBBMwodh5Ggrr"
     ],
 
     links: [
