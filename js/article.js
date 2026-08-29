@@ -42,9 +42,14 @@ function renderVideos(videos) {
             // YouTube
             if (url.includes("youtube.com") || url.includes("youtu.be")) {
 
-                const videoId = url.includes("youtu.be/")
-                    ? url.split("youtu.be/")[1].split("?")[0]
-                    : new URL(url).searchParams.get("v");
+const videoId =
+    url.includes("youtu.be/")
+        ? url.split("youtu.be/")[1].split("?")[0]
+        : url.includes("/shorts/")
+            ? url.split("/shorts/")[1].split("?")[0]
+            : url.includes("/embed/")
+                ? url.split("/embed/")[1].split("?")[0]
+                : new URL(url).searchParams.get("v");
 
                 return `
                     <div class="video-wrap">

@@ -821,6 +821,11 @@ DARUMA STREET — 10 YEARS.
             url: "https://www.instagram.com/daruma_street/"
         },
 
+       {
+            label: "DARUMA STREET YouTube",
+            url: "https://www.youtube.com/c/DARUMASTREET"
+        },
+
     ]
 
 
