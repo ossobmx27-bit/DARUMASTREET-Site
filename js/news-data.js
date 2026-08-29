@@ -1,6 +1,20 @@
 const news = [
 
 {
+    id: "daruma-street-then-2016",
+
+    category: "NEWS",
+
+    date: "2026.08.28",
+
+    title: "THEN. 2016~",
+
+    image: "assets/news/then/main.jpg",
+
+    article: "article.html?id=daruma-street-then"
+},
+
+{
     id: "daruma-street-mbff-2024",
 
     category: "NEWS",

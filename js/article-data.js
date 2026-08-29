@@ -778,4 +778,52 @@ MBFF 2024開催当日。
 
 },
 
+"daruma-street-then-2016": {
+
+    category: "NEWS",
+
+    date: "2026.08.29",
+
+    title: "THEN. 2016~",
+
+    hero: "assets/news/then/main.jpg",
+
+    content: {
+    en: `
+[ NEW SHORT VIDEO ]
+THEN. 2016~
+10 years of fragments.
+DARUMA STREET started in Toyama in 2016.
+Just riding where we wanted to ride,
+the way we wanted to ride.
+10 years later, nothing has changed.
+DARUMA STREET — 10 YEARS.
+
+`,
+    ja: `
+[ NEW SHORT VIDEO ]
+THEN. 2016~
+10 years of fragments.
+2016年、富山から始まったDARUMA STREET。
+ただ、自分たちが乗りたい場所で、乗りたいように乗っていた。
+10年経った今も、やることは変わらない。
+DARUMA STREET — 10 YEARS.
+`
+},
+
+    videos: [
+        "https://youtube.com/shorts/OYh6nC63ng0"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
+    ]
+
+
+},
+
 };
