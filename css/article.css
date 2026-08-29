@@ -338,6 +338,15 @@
     color:#000;
 }
 
+.video-wrap.video-vertical {
+    max-width:400px;
+    margin:0 auto 20px;
+}
+
+.video-wrap.video-vertical iframe {
+    aspect-ratio:9 / 16;
+}
+
 
 /* ==========================
    RELATED LINKS

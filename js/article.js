@@ -51,17 +51,17 @@ const videoId =
                 ? url.split("/embed/")[1].split("?")[0]
                 : new URL(url).searchParams.get("v");
 
-                return `
-                    <div class="video-wrap">
-                        <iframe
-                            src="https://www.youtube.com/embed/${videoId}"
-                            title="YouTube video"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            allowfullscreen>
-                        </iframe>
-                    </div>
-                `;
+        return `
+    <div class="video-wrap ${url.includes("/shorts/") ? "video-vertical" : ""}">
+        <iframe
+            src="https://www.youtube.com/embed/${videoId}"
+            title="YouTube video"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+        </iframe>
+    </div>
+`;
             }
         
 
