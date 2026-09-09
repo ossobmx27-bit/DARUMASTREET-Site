@@ -870,14 +870,14 @@ Valve Caps: MOTOBUNKA and Domestic duck🐥
 Pegs: DARUMA STREET Bullet Peg💥❤️‍🔥
 
 Q. What are your favorite parts, and why?
-<Animal 4.A.M. Handlebars>
+< Animal 4.A.M. Handlebars >
 These were the first BMX parts I ever bought.
 I’ve been a fan of Animal Bikes since back then, partly because of Osomatsu’s influence.
 They’ve got a nice amount of rust on them now, and I really like how they look. 🫶
-<Animal Bikes GLH Tires>
+< Animal Bikes GLH Tires >
 I tend to get a lot of rim strikes with the way I ride, but the GLHs never seem to flat and always support my riding.
 That’s why I love them. 👊
-<DARUMA STREET Bullet Peg>
+< DARUMA STREET Bullet Peg >
 The DARUMA pegs are a little longer, which gives me a sense of security, and I think they make tricks like tinking easier too.
 I also love the slightly higher-pitched sound they make when I tink.
 I grind some pretty rough spots, but they never crack or dent, even after taking a beating. They’re seriously the best. 💪
@@ -890,15 +890,15 @@ And steel pegs! Nothing beats steel pegs!`,
 [ Q＆A インタビュー ]
 Q. 気に入っているパーツは？その理由も合わせて(何個でもOK)
 A.
-<Animal 4.A.M.handlebar>
+< Animal 4.A.M. Handlebars >
 初めて買ったBMXパーツがこのハンドルバーでした。当時からオソマツくんの影響でAnimal Bikesが好きでした。
 今はいい感じに錆びてて気に入ってます🫶
 
-<Animal bikes GLH tires>
+< Animal Bikes GLH Tires >
 乗り方的によくリム打ちするのですが、
 GLHは全くパンクせずライディングを支えてくれるので、大好きです👊
 
-<DARUMA STREET Bullet peg>
+< DARUMA STREET Bullet peg >
 ダルマペグはちょっと長くて安心感があって、チンクとかもしやすいと思います。
 チンクした時に鳴る、ちょっと高めな音がまた良いです！
 結構ガリガリのとこもグラインドするんですけど、全く割れたり凹んだりしないので、最高最強です。💪
