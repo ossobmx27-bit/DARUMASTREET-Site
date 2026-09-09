@@ -846,8 +846,8 @@ DARUMA STREET — 10 YEARS.
     content: {
     en: `
 [ RICK MARUYAMA BIKE CHECK ]
-Rider:Rick Maruyama
-Sponsor:DARUMA STREET / JYKK JAPAN
+Rider : Rick Maruyama
+Sponsor : DARUMA STREET / JYKK JAPAN
 
 Frame:BSD Safari Frame 21🍊🦒
 Fork: Eclat
