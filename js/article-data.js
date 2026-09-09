@@ -887,23 +887,23 @@ I like this setup because it makes it easier to get the front end down when doin
 Steel pegs are the only way!`,
 
     ja: `
-[ RICK MARUYAMA BIKE CHECK ]
-Q1番気に入っているパーツは、その理由も合わせて
-〈Animal 4.A.M.handlebar 〉
+[ Q＆A インタビュー ]
+Q.気に入っているパーツは？その理由も合わせて
+A.Animal 4.A.M.handlebar
 初めて買ったBMXパーツがこのハンドルバーでした。当時からオソマツくんの影響でAnimal Bikesが好きでした。
 今はいい感じに錆びてて気に入ってます🫶
 
-〈Animal bikes GLH tires〉
+A.Animal bikes GLH tires
 乗り方的によくリム打ちするのですが、
 GLHは全くパンクせずライディングを支えてくれるので大好きです👊
 
-〈DARUMA STREET Bullet peg〉
+A.DARUMA STREET Bullet peg
 ダルマペグはちょっと長くて安心感があって、チンクとかもしやすいと思います。
 チンクした時になるちょっと高めな音がまた良いです！
 結構ガリガリのとこもグラインドするんですけだ全く割れたり凹んだりしないので最高最強です。💪
 
-Qこだわりのセッティング、とその理由は？
-トップチューブ長めでハンドル低め！
+Q.こだわりのセッティング、とその理由は？
+A.トップチューブ長めでハンドル低め！
 理由は、360した時にフロントが差しやすくて気に入ってます！
 鉄ベクしか勝たん！`
 },
