@@ -845,8 +845,8 @@ DARUMA STREET — 10 YEARS.
 
     content: {
     en: `
-[ RICK MARUYAMA BIKE CHECK ]
-Rider : Rick Maruyama
+[ BIKE CHECK ]
+Rider : RICK MARUYAMA
 Sponsor : DARUMA STREET / JYKK JAPAN
 Photographer : NATSUKI TANIGUCHI
 
