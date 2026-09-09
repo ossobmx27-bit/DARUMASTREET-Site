@@ -1,6 +1,20 @@
 const news = [
 
 {
+    id: "rick-maruyama-bike-check",
+
+    category: "NEWS",
+
+    date: "2026.09.09",
+
+    title: "RICK MARUYAMA BIKE CHECK",
+
+    image: "assets/news/rick-bike-check/main.jpg",
+
+    article: "article.html?id=rick-maruyama-bike-check"
+},
+
+{
     id: "daruma-street-then-2016",
 
     category: "NEWS",

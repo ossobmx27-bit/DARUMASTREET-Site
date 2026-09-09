@@ -833,4 +833,113 @@ DARUMA STREET — 10 YEARS.
 
 },
 
+"rick-maruyama-bike-check": {
+
+    category: "NEWS",
+
+    date: "2026.09.09",
+
+    title: "RICK MARUYAMA BIKE CHECK",
+
+    hero: "assets/news/rick-bike-check/main.jpg",
+
+    content: {
+    en: `
+[ RICK MARUYAMA BIKE CHECK ]
+Rider:Rick Maruyama
+Sponsor:DARUMA STREET / JYKK JAPAN
+
+Frame:BSD Safari Frame 21🍊🦒
+Fork: Eclat
+Bars:Animal bikes 4.A.M🫶
+Grips:Eclat
+Stem: Taraleba Shut It, Goo Stem 48mm💝
+Headset: Bayked
+Pedals:Eclat Juggernaut
+Cranks: The Shadow Conspiracy
+Sprocket: Flybikes Tractor Guard Sprocket
+Bottom Bracket:Rant
+Chain:Eclat
+Seat:BSD Mondo Logo
+Seat Post: BSD Blitzed
+Tires: Animal GLH 2.3 ❤️
+Rims:Eclat
+Hubs:Eclat
+Tubes: Unknown
+Valve Caps: MOTOBUNKA and Domestic duck🐥
+Pegs: DARUMA STREET Bullet Peg💥❤️‍🔥
+
+Q. What are your favorite parts, and why?
+〈Animal 4.A.M. Handlebars〉
+These were the first BMX parts I ever bought.
+I’ve been a fan of Animal Bikes since back then, partly because of Osomatsu’s influence.
+They’ve got a nice amount of rust on them now, and I really like how they look. 🫶
+〈Animal Bikes GLH Tires〉
+I tend to get a lot of rim strikes with the way I ride, but the GLHs never seem to flat and always support my riding.
+That’s why I love them. 👊
+〈DARUMA STREET Bullet Peg〉
+The DARUMA pegs are a little longer, which gives me a sense of security, and I think they make tricks like tinking easier too.
+I also love the slightly higher-pitched sound they make when I tink.
+I grind some pretty rough spots, but they never crack or dent, even after taking a beating. They’re seriously the best. 💪
+Q. What are you particular about when it comes to your setup, and why?
+A longer top tube and lower bars!
+I like this setup because it makes it easier to get the front end down when doing 360s.
+Steel pegs are the only way!`,
+
+    ja: `
+[ RICK MARUYAMA BIKE CHECK ]
+Q1番気に入っているパーツは、その理由も合わせて
+〈Animal 4.A.M.handlebar 〉
+初めて買ったBMXパーツがこのハンドルバーでした。当時からオソマツくんの影響でAnimal Bikesが好きでした。
+今はいい感じに錆びてて気に入ってます🫶
+
+〈Animal bikes GLH tires〉
+乗り方的によくリム打ちするのですが、
+GLHは全くパンクせずライディングを支えてくれるので大好きです👊
+
+〈DARUMA STREET Bullet peg〉
+ダルマペグはちょっと長くて安心感があって、チンクとかもしやすいと思います。
+チンクした時になるちょっと高めな音がまた良いです！
+結構ガリガリのとこもグラインドするんですけだ全く割れたり凹んだりしないので最高最強です。💪
+
+Qこだわりのセッティング、とその理由は？
+トップチューブ長めでハンドル低め！
+理由は、360した時にフロントが差しやすくて気に入ってます！
+鉄ベクしか勝たん！`
+},
+
+
+    gallery: [
+        "assets/news/rick-bike-check/photo1.jpg",
+        "assets/news/rick-bike-check/photo2.jpg",
+        "assets/news/rick-bike-check/photo3.jpg",
+        "assets/news/rick-bike-check/photo4.jpg",
+        "assets/news/rick-bike-check/photo5.jpg",
+        "assets/news/rick-bike-check/photo6.jpg",
+        "assets/news/rick-bike-check/photo7.jpg",
+        "assets/news/rick-bike-check/photo8.jpg",
+        "assets/news/rick-bike-check/photo9.jpg",
+    ],
+
+    videos: [
+        "https://youtu.be/ciQ8en2O1do?si=oQxllgnrtQkstxmI"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
+        {
+            label: "RICK MARUYAMA Instagram",
+            url: "https://www.instagram.com/rick_bmx_toyama/"
+        }
+
+    ]
+
+
+},
+
+
 };
