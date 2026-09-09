@@ -884,7 +884,7 @@ I grind some pretty rough spots, but they never crack or dent, even after taking
 Q. What are you particular about when it comes to your setup, and why?
 A. longer top tube and lower bars!
 I like this setup because it makes it easier to get the front end down when doing 360s.
-Steel pegs are the only way!`,
+And steel pegs! Nothing beats steel pegs!`,
 
     ja: `
 [ Q＆A インタビュー ]
@@ -895,17 +895,17 @@ A. Animal 4.A.M.handlebar
 
 A. Animal bikes GLH tires
 乗り方的によくリム打ちするのですが、
-GLHは全くパンクせずライディングを支えてくれるので大好きです👊
+GLHは全くパンクせずライディングを支えてくれるので、大好きです👊
 
 A. DARUMA STREET Bullet peg
 ダルマペグはちょっと長くて安心感があって、チンクとかもしやすいと思います。
-チンクした時になるちょっと高めな音がまた良いです！
-結構ガリガリのとこもグラインドするんですけど、全く割れたり凹んだりしないので最高最強です。💪
+チンクした時に鳴る、ちょっと高めな音がまた良いです！
+結構ガリガリのとこもグラインドするんですけど、全く割れたり凹んだりしないので、最高最強です。💪
 
 Q. こだわりのセッティング、とその理由は？
-A. トップチューブ長めでハンドル低め！
+A. トップチューブ長めで、ハンドル低め！
 理由は、360した時にフロントが差しやすくて気に入ってます！
-鉄ベクしか勝たん！`
+それと鉄ペグ！鉄ベクしか勝たん！`
 },
 
 
