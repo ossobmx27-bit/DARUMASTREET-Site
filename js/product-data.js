@@ -861,4 +861,236 @@ Made for riders who live for grinds and love riding pegs, this piece is built to
 
 },
 
+"bullet-peg": {
+
+    colors: [
+        "Black"
+    ],
+
+    sizes: [
+        "Length: 4.75inch / 120mm",
+        "Diameter: 37mm",
+        "Axle Size: 14mm",
+        "Weight: 210g",
+    ],
+
+    material: {
+        en: "4130 Chromoly Steel",
+        ja: "4130 クロモリ"
+    },
+
+    description: {
+
+        en: `A limited edition chromoly peg made to commemorate DARUMA STREET's 10th anniversary.
+The peg body is forged from 4130 Chromoly.
+It is then heat-treated to achieve a balance of strength and toughness.
+The 120mm length provides a stable platform for grinding.
+The body features a tapered design with a 1.5mm center thickness and 2mm thickness at the ends.
+The reinforced ends help withstand concentrated friction and wear, while keeping the weight to approximately 210g per peg.
+Developed and refined through three years of riding tests by DARUMA STREET riders.`,
+
+        ja: `DARUMA STREET 10周年を記念して製作された限定モデルのクロモリペグ。
+本体は4130クロモリを鍛造で成形。さらに焼入れ処理を施し、強度と靱性を両立した仕様。
+長さは安定したグラインドを実現できる120mm。
+肉厚は中央1.5mm、エンド部2mmのテーパー設計。摩擦が集中する端部を強化しながら、重量は1本約210gに抑えています。
+DARUMA STREETライダーによる3年間にわたるライディングテストを経て完成。`,
+
+},
+
+    gallery: [
+
+        { image: "assets/products/bullet-peg/main.jpg" },
+
+        { image: "assets/products/bullet-peg/Detail1.jpg" },
+
+        { image: "assets/products/bullet-peg/Detail2.jpg" },
+        { image: "assets/products/bullet-peg/Detail3.jpg" },
+        { image: "assets/products/bullet-peg/Detail4.jpg" },
+        { image: "assets/products/bullet-peg/Detail5.jpg" },
+        { image: "assets/products/bullet-peg/Detail6.jpg" },
+        { image: "assets/products/bullet-peg/Detail7.jpg" },
+        { image: "assets/products/bullet-peg/Detail8.jpg" },
+        { image: "assets/products/bullet-peg/Detail9.jpg" }
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"cube-Logo-Pin-Badge": {
+
+    colors: [
+        "Only"
+    ],
+
+    sizes: [
+        "W35 x H40 x T3.8(mm)"
+    ],
+
+    material: {
+        en: "Metal",
+        ja: "金属"
+    },
+
+    description: {
+
+        en: `The DARUMA STREET “CUBE LOGO” is now available as a substantial, heavyweight pin badge.
+The back of the package features a QR code that takes you to past works created by DARUMA STREET.`,
+
+        ja: `DARUMA STREETの”CUBE LOGO”が重厚感のあるピンバッヂとなって登場。
+パッケージ背面にはDARUMA STREETが手がけた過去作品へ飛べるQRコード付き。`,
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/cube-logo-pin-badge/main.jpg" },
+
+        { image: "assets/products/cube-logo-pin-badge/Detail1.jpg" },
+
+        { image: "assets/products/cube-logo-pin-badge/Detail2.jpg" },
+        { image: "assets/products/cube-logo-pin-badge/Detail3.jpg" },
+        { image: "assets/products/cube-logo-pin-badge/Detail4.jpg" },
+        { image: "assets/products/cube-logo-pin-badge/Detail5.jpg" }
+
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+
+"mukade-cap": {
+
+    colors: [
+        "Black / Blue"
+    ],
+
+    sizes: [
+        "Free"
+    ],
+
+    material: {
+        en: "Cotton 100%",
+        ja: "コットン１００％"
+    },
+
+    description: {
+
+        en: `The “MUKADE CAP,” originally released in the early days of DARUMA STREET, has been updated for the 10th anniversary.
+The iconic centipede motif remains, now combined with a traditional Japanese wave pattern originally used on one of DARUMA STREET’s early T-shirts.
+A piece that embodies the history and evolution of DARUMA STREET.
+Design: HONOKA SHINDO`,
+
+        ja: `ブランド初期にリリースした”MUKADE CAP”をベースに、10周年仕様へアップデート。象徴的なムカデのモチーフはそのままに、初期Tシャツで使用していた和柄の波模様をミックス。
+DARUMA STREETの歩みを体現した一作。
+デザイン：HONOKA SHINDO`,
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/mukade-cap/main.jpg" },
+
+        { image: "assets/products/mukade-cap/Detail1.jpg" },
+
+        { image: "assets/products/mukade-cap/Detail2.jpg" },
+        { image: "assets/products/mukade-cap/Detail3.jpg" },
+        { image: "assets/products/mukade-cap/Detail4.jpg" },
+        { image: "assets/products/mukade-cap/Detail5.jpg" },
+        { image: "assets/products/mukade-cap/Detail6.jpg" },
+        { image: "assets/products/mukade-cap/Detail7.jpg" },
+        { image: "assets/products/mukade-cap/Detail8.jpg" },
+        { image: "assets/products/mukade-cap/Detail9.jpg" },
+        { image: "assets/products/mukade-cap/Detail10.jpg"}
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"wappen-pack": {
+
+    colors: [
+        "Only"
+    ],
+
+    sizes: [
+        "Logo Black & Red : W 4cm",
+        "Name Logo : W 8cm",
+        "Box Logo : W 6cm",
+    ],
+
+    material: {
+        en: "Polyester 100%",
+        ja: "ポリエステル 100％"
+    },
+
+    description: {
+
+        en: `A patch pack featuring four designs from DARUMA STREET’s history.
+The back features a heat-activated adhesive that allows the patches to be attached with an iron.
+`,
+
+        ja: `DARUMA STREET の歴代デザイン4種類を収めたワッペンパック。
+裏面はアイロンで接着可能な仕様（熱接着）となっております。`,
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/wappen-pack/main.jpg" },
+
+        { image: "assets/products/wappen-pack/Detail1.jpg" },
+
+        { image: "assets/products/wappen-pack/Detail2.jpg" },
+        { image: "assets/products/wappen-pack/Detail3.jpg" },
+        { image: "assets/products/wappen-pack/Detail4.jpg" },
+        { image: "assets/products/wappen-pack/Detail5.jpg" },
+        { image: "assets/products/wappen-pack/Detail6.jpg" }
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
+"sticker-pack": {
+
+    colors: [
+        "Only"
+    ],
+
+    sizes: [
+        "Only"
+    ],
+
+    material: {
+        en: "",
+        ja: ""
+    },
+
+    description: {
+
+        en: `A sticker pack featuring 18 designs, from DARUMA STREET’s classic logos to original artwork.`,
+
+        ja: `DARUMA STREET の定番ロゴからオリジナルデザインまで、
+全１８種類のステッカーを収録したステッカーパックです。`,
+
+    },
+
+    gallery: [
+
+        { image: "assets/products/sticker-pack/main.jpg" },
+
+        { image: "assets/products/sticker-pack/Detail1.jpg" },
+
+        { image: "assets/products/sticker-pack/Detail2.jpg" },
+        { image: "assets/products/sticker-pack/Detail3.jpg" }
+    ],
+
+    buy: "https://store.motobunka.com/collections/daruma-street"
+
+},
+
 };

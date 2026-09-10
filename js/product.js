@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                     <p class="product-text">
 
-                        ${detail.sizes.join(" / ")}
+                        ${detail.sizes.join("<br>")}
 
                     </p>
 

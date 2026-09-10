@@ -88,7 +88,17 @@ const products = [
 
     category: "CAP / SOCKS / ACCESSORY",
 
-    items: [{
+    items: [
+{
+    id: "mukade-cap",
+    name: "Mukade Cap",
+    price: "¥6,600",
+    published: false,
+    image: "assets/products/mukade-cap/main.jpg",
+    details: "product.html?id=mukade-cap"
+},
+
+{
     id: "knit-cap",
     name: "Knit Cap",
     price: "¥5,850",
@@ -119,7 +129,9 @@ const products = [
     price: "¥1,300",
     image: "assets/products/logo-tenugui/main.webp",
     details: "product.html?id=logo-tenugui"
-}]
+}
+
+]
 
   },
 
@@ -127,7 +139,35 @@ const products = [
 
     category: "GOODS & DVD",
 
-    items: [{
+    items: [
+{
+    id: "cube-logo-pin-badge",
+    name: "Cube Logo Pin Badge",
+    price: "¥1,800",
+    published: false,
+    image: "assets/products/cube-logo-pin-badge/main.jpg",
+    details: "product.html?id=cube-logo-pin-badge"
+},
+
+{
+    id: "wappen-pack",
+    name: "Wappen Pack",
+    price: "¥2,800",
+    published: false,
+    image: "assets/products/wappen-pack/main.jpg",
+    details: "product.html?id=wappen-pack"
+},
+
+{
+    id: "sticker-pack",
+    name: "Sticker Pack",
+    price: "¥1,850",
+    published: false,
+    image: "assets/products/sticker-pack/main.jpg",
+    details: "product.html?id=sticker-pack"
+},
+
+{
     id: "car-air-freshner",
     name: "Car Air Freshner",
     price: "¥1,200",
@@ -176,6 +216,24 @@ const products = [
     details: "product.html?id=logo-pin-badge"
 }]
 
-  }
+  },
+
+  {
+    category: "PARTS",
+     published: false,
+
+    items: [
+
+      {
+        id: "bullet-peg",
+        name: "Bullet Peg",
+        price: "¥3,980",
+        image: "assets/products/bullet-peg/main.jpg",
+        details: "product.html?id=bullet-peg"
+      }
+
+    ]
+
+  },
 
 ];

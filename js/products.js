@@ -2,48 +2,52 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const container = document.getElementById("products-container");
 
-    products.forEach(category => {
+    products
+        .filter(category => category.published !== false)
+        .forEach(category => {
 
-        const section = document.createElement("div");
-        section.className = "product-category";
+            const section = document.createElement("div");
+            section.className = "product-category";
 
-        section.innerHTML = `
-            <button class="product-category-header">
-                <span>${category.category}</span>
-                <span class="accordion-icon">+</span>
-            </button>
+            section.innerHTML = `
+                <button class="product-category-header">
+                    <span>${category.category}</span>
+                    <span class="accordion-icon">+</span>
+                </button>
 
-            <div class="product-category-content">
-                <div class="product-grid"></div>
-            </div>
-        `;
-
-        const grid = section.querySelector(".product-grid");
-
-        category.items.forEach(item => {
-
-            const card = document.createElement("div");
-            card.className = "product-card";
-
-            card.innerHTML = `
-                <a class="product-link" href="${item.details}">
-
-                    <img src="${item.image}" alt="${item.name}">
-
-                    <h3>${item.name}</h3>
-
-                    <p class="product-price">${item.price}</p>
-
-                </a>
+                <div class="product-category-content">
+                    <div class="product-grid"></div>
+                </div>
             `;
 
-            grid.appendChild(card);
+            const grid = section.querySelector(".product-grid");
+
+            category.items
+                .filter(item => item.published !== false)
+                .forEach(item => {
+
+                    const card = document.createElement("div");
+                    card.className = "product-card";
+
+                    card.innerHTML = `
+                        <a class="product-link" href="${item.details}">
+
+                            <img src="${item.image}" alt="${item.name}">
+
+                            <h3>${item.name}</h3>
+
+                            <p class="product-price">${item.price}</p>
+
+                        </a>
+                    `;
+
+                    grid.appendChild(card);
+
+                });
+
+            container.appendChild(section);
 
         });
-
-        container.appendChild(section);
-
-    });
 
     /* Accordion */
 
