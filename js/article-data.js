@@ -1029,14 +1029,14 @@ BMXという乗り物である以上プラスチック製品は壊れやすい�
 
 
     gallery: [
-        "assets/news/natsuki-taniguchi/photo1.jpg",
-        "assets/news/natsuki-taniguchi/photo2.jpg",
-        "assets/news/natsuki-taniguchi/photo3.jpg",
-        "assets/news/natsuki-taniguchi/photo4.jpg",
-        "assets/news/natsuki-taniguchi/photo5.jpg",
-        "assets/news/natsuki-taniguchi/photo6.jpg",
-        "assets/news/natsuki-taniguchi/photo7.jpg",
-        "assets/news/natsuki-taniguchi/photo8.jpg",
+        "assets/news/natsuki-taniguchi-bike-check/photo1.jpg",
+        "assets/news/natsuki-taniguchi-bike-check/photo2.jpg",
+        "assets/news/natsuki-taniguchi-bike-check/photo3.jpg",
+        "assets/news/natsuki-taniguchi-bike-check/photo4.jpg",
+        "assets/news/natsuki-taniguchi-bike-check/photo5.jpg",
+        "assets/news/natsuki-taniguchi-bike-check/photo6.jpg",
+        "assets/news/natsuki-taniguchi-bike-check/photo7.jpg",
+        "assets/news/natsuki-taniguchi-bike-check/photo8.jpg",
     ],
 
     videos: [

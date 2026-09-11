@@ -9,7 +9,7 @@ const news = [
 
     title: "NATSUKI TANIGUCHI BIKE CHECK",
 
-    image: "assets/news/natsuki-taniguchi/main.jpg",
+    image: "assets/news/natsuki-taniguchi-bike-check/main.jpg",
 
     article: "article.html?id=natsuki-taniguchi-bike-check"
 },
