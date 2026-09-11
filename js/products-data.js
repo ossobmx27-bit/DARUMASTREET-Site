@@ -220,7 +220,6 @@ const products = [
 
   {
     category: "PARTS",
-     published: false,
 
     items: [
 
@@ -228,6 +227,7 @@ const products = [
         id: "bullet-peg",
         name: "Bullet Peg",
         price: "¥3,980",
+        published: false,
         image: "assets/products/bullet-peg/main.jpg",
         details: "product.html?id=bullet-peg"
       }

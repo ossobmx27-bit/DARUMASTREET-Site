@@ -943,5 +943,121 @@ A. トップチューブ長めで、ハンドル低め！
 
 },
 
+"natsuki-taniguchi-bike-check": {
+
+    category: "NEWS",
+
+    date: "2026.09.11",
+
+    title: "NATSUKI TANIGUCHI BIKE CHECK",
+
+    hero: "assets/news/natsuki-taniguchi/main.jpg",
+
+    content: {
+    en: `
+[ BIKE CHECK ]
+Rider : NATSUKI TANIGUCHI
+Sponsor : DARUMA STREET / CE.MESS
+Photographer : NATSUKI TANIGUCHI
+
+Frame: Skavenger El Blanco Loco 21”
+Fork: ALIVE INDUSTRY Survive Fork
+Bars: Animal Bikes Bob Bar 7.8”
+Bar Ends: WETHEPEOPLE Patrol Barends
+Grips: Animal Bikes Edwin V2 Grips
+Stem: ALIVE INDUSTRY PANTHER STEM 48.75mm
+Headset: Animal Bikes
+Pedals: Animal Bikes Hamilton Metal Pedal
+Cranks: Animal Bikes AKINBO Cranks 175mm
+Sprocket: Animal Bikes OG Sprocket 28T
+Bottom Bracket: Animal Bikes
+Chain: Éclat Stroke Halflink Chain
+Seat: Animal Bikes Cush Seat
+Seat Post: Animal Bikes Wedge Post
+Tires: Animal Bikes GLH Tires 2.1”
+Rims: Odyssey Hazard Lite Rim
+Front Hub: Animal Bikes Javelin Hub
+Rear Hub: Profile Racing BMX Mini Cassette Hub
+Hub Guards: Animal Bikes Howard Signature Drive Guard
+Tubes: Butyl Tube
+Valve Caps: None
+Pegs: DARUMA STREET Bullet Peg
+
+Q. What is your favorite part, and why?
+A.
+〈Animal Bikes Bob Bar 7.8”〉
+These are handlebars I’ve been using for a long time.
+The width and height feel the most natural for me, and the old DARUMA sticker I put on them years ago has really started to look good over time.
+〈Animal Bikes Hamilton Metal Pedal〉
+They have plenty of pins for great grip, and they’re extremely durable when it comes to grinding.
+I’ve been using these pedals ever since I started riding pegless.
+
+Q. What are you particular about when it comes to your setup, and why?
+A. First and foremost, durability.
+Since I ride in the streets and go on tours to different parts of Japan, durability is always the first thing I look for when choosing parts.
+BMX is a machine where plastic parts can easily break, so I use metal parts for my pegs, pedals, and bar ends. I also run a cog guard because I don’t want to deal with a broken chain.
+Your bike is the foundation of everything you do on it, whether it’s clips or just riding.
+The steel pegs DARUMA STREET is currently developing have been repeatedly tested by the team to create an extremely durable peg, so you can focus on riding with confidence, anytime and anywhere.
+By making the peg slightly longer and adding a taper inside, we were able to give it a better sound and create a peg that provides a more stable grind.
+Of course, I have plenty of other preferences when it comes to my setup besides durability, but there are too many to write about here, so I’ll leave it at that for now.
+`,
+
+    ja: `
+[ Q＆A インタビュー ]
+Q.一番気に入っているパーツは、その理由もあわせて。
+
+A.
+<Animal Bikes Bob Bar 7.8”>
+なんだかんだ長く使ってるハンドルバー。
+幅も高さも体に一番馴染むし、昔に貼ったDARUMAのステッカーがいい味出してる。
+
+<Animal Bikes Hamilton Metal Pedal> 
+ピンの数か多くてグリップするし、グラインド耐性も抜群。
+ペグレスの時からずっと使ってるペダルです。
+
+Q.こだわりのセッティングと、その理由は？
+A. 第一に頑丈であること
+・街中でライディングしたり、他県へツアーに行ったりする関係上、パーツはまず頑丈さで選びます。
+BMXという乗り物である以上プラスチック製品は壊れやすいから、ペグとペダル、バーエンドはすべて金属製にするとか、チェーンが切れるのが嫌だからコグガードをつけるとか。
+自転車あってのクリップだったりライディングなので。
+
+今DARUMA STREETで作ってる鉄ペグは、メンバーでテストを繰り返して製作した超頑丈なペグなので、いつでもどこでも安心してライディングに専念できます。
+ペグの全長を少し長くして内部にテーパーをかけることによって、音もよくなり安定したグラインドをできるペグに仕上がりました。
+
+頑丈以外のセッティングに対するこだわりも勿論あるのですが、ありすぎて書ききれないのでひとまずここで。`
+},
+
+
+    gallery: [
+        "assets/news/natsuki-taniguchi/photo1.jpg",
+        "assets/news/natsuki-taniguchi/photo2.jpg",
+        "assets/news/natsuki-taniguchi/photo3.jpg",
+        "assets/news/natsuki-taniguchi/photo4.jpg",
+        "assets/news/natsuki-taniguchi/photo5.jpg",
+        "assets/news/natsuki-taniguchi/photo6.jpg",
+        "assets/news/natsuki-taniguchi/photo7.jpg",
+        "assets/news/natsuki-taniguchi/photo8.jpg",
+    ],
+
+    videos: [
+        "https://www.youtube.com/watch?v=Fv5i_dCfdHA"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
+        {
+            label: "NATSUKI TANIGUCHI Instagram",
+            url: "https://www.instagram.com/_na2_/"
+        }
+
+    ]
+
+
+},
+
 
 };

@@ -1,6 +1,20 @@
 const news = [
 
 {
+    id: "natsuki-taniguchi-bike-check",
+
+    category: "NEWS",
+
+    date: "2026.09.09",
+
+    title: "NATSUKI TANIGUCHI BIKE CHECK",
+
+    image: "assets/news/natsuki-taniguchi/main.jpg",
+
+    article: "article.html?id=natsuki-taniguchi-bike-check"
+},
+
+{
     id: "rick-maruyama-bike-check",
 
     category: "NEWS",
