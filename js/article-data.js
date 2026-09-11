@@ -951,7 +951,7 @@ A. トップチューブ長めで、ハンドル低め！
 
     title: "NATSUKI TANIGUCHI BIKE CHECK",
 
-    hero: "assets/news/natsuki-taniguchi/main.jpg",
+    hero: "assets/news/natsuki-taniguchi-bike-check/main.jpg",
 
     content: {
     en: `
@@ -985,10 +985,10 @@ Pegs: DARUMA STREET Bullet Peg
 
 Q. What is your favorite part, and why?
 A.
-〈Animal Bikes Bob Bar 7.8”〉
+〈 Animal Bikes Bob Bar 7.8” 〉
 These are handlebars I’ve been using for a long time.
 The width and height feel the most natural for me, and the old DARUMA sticker I put on them years ago has really started to look good over time.
-〈Animal Bikes Hamilton Metal Pedal〉
+〈 Animal Bikes Hamilton Metal Pedal 〉
 They have plenty of pins for great grip, and they’re extremely durable when it comes to grinding.
 I’ve been using these pedals ever since I started riding pegless.
 
@@ -1007,11 +1007,11 @@ Of course, I have plenty of other preferences when it comes to my setup besides 
 Q.一番気に入っているパーツは、その理由もあわせて。
 
 A.
-<Animal Bikes Bob Bar 7.8”>
+< Animal Bikes Bob Bar 7.8” >
 なんだかんだ長く使ってるハンドルバー。
 幅も高さも体に一番馴染むし、昔に貼ったDARUMAのステッカーがいい味出してる。
 
-<Animal Bikes Hamilton Metal Pedal> 
+< Animal Bikes Hamilton Metal Pedal > 
 ピンの数か多くてグリップするし、グラインド耐性も抜群。
 ペグレスの時からずっと使ってるペダルです。
 
