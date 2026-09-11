@@ -5,7 +5,7 @@ const news = [
 
     category: "NEWS",
 
-    date: "2026.09.09",
+    date: "2026.09.11",
 
     title: "NATSUKI TANIGUCHI BIKE CHECK",
 
