@@ -36,7 +36,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
                             <h3>${item.name}</h3>
 
-                            <p class="product-price">${item.price}</p>
+                           <p class="product-price">
+    ${item.price}
+    ${item.release ? `　RELEASE ${item.release}` : ""}
+</p>
 
                         </a>
                     `;

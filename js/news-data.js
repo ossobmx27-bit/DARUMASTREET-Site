@@ -1,6 +1,20 @@
 const news = [
 
 {
+    id: "yu-yoshida-bike-check",
+
+    category: "NEWS",
+
+    date: "2026.09.16",
+
+    title: "YU YOSHIDA BIKE CHECK",
+
+    image: "assets/news/yu-bike-check/main.jpg",
+
+    article: "article.html?id=yu-yoshida-bike-check"
+},
+
+{
     id: "natsuki-taniguchi-bike-check",
 
     category: "NEWS",

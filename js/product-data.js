@@ -887,13 +887,21 @@ It is then heat-treated to achieve a balance of strength and toughness.
 The 120mm length provides a stable platform for grinding.
 The body features a tapered design with a 1.5mm center thickness and 2mm thickness at the ends.
 The reinforced ends help withstand concentrated friction and wear, while keeping the weight to approximately 210g per peg.
-Developed and refined through three years of riding tests by DARUMA STREET riders.`,
+Developed and refined through three years of riding tests by DARUMA STREET riders.
+*Pre-orders for this product are available through DARUMA STREET dealers across Japan.
+For dealer information, please visit FIND A DEALER →.
+Customers outside Japan can purchase through WORLDWIDE SHIPPING → below.
+Pre-order deadline: October 19, 2026 (Monday)`,
 
         ja: `DARUMA STREET 10周年を記念して製作された限定モデルのクロモリペグ。
 本体は4130クロモリを鍛造で成形。さらに焼入れ処理を施し、強度と靱性を両立した仕様。
 長さは安定したグラインドを実現できる120mm。
 肉厚は中央1.5mm、エンド部2mmのテーパー設計。摩擦が集中する端部を強化しながら、重量は1本約210gに抑えています。
-DARUMA STREETライダーによる3年間にわたるライディングテストを経て完成。`,
+DARUMA STREETライダーによる3年間にわたるライディングテストを経て完成。
+※本商品のご予約は全国のDARUMA STREET取扱店にて承っております。
+取扱店舗の情報はFIND A DEALER → よりご確認ください。
+海外のお客様は、下記のWORLDWIDE SHIPPING → よりご購入いただけます。
+予約締切日：2026年10月19日（月）まで`,
 
 },
 
@@ -936,10 +944,18 @@ DARUMA STREETライダーによる3年間にわたるライディングテスト
     description: {
 
         en: `The DARUMA STREET “CUBE LOGO” is now available as a substantial, heavyweight pin badge.
-The back of the package features a QR code that takes you to past works created by DARUMA STREET.`,
+The back of the package features a QR code that takes you to past works created by DARUMA STREET.
+*Pre-orders for this product are available through DARUMA STREET dealers across Japan.
+For dealer information, please visit FIND A DEALER →.
+Customers outside Japan can purchase through WORLDWIDE SHIPPING → below.
+Pre-order deadline: October 19, 2026 (Monday)`,
 
         ja: `DARUMA STREETの”CUBE LOGO”が重厚感のあるピンバッヂとなって登場。
-パッケージ背面にはDARUMA STREETが手がけた過去作品へ飛べるQRコード付き。`,
+パッケージ背面にはDARUMA STREETが手がけた過去作品へ飛べるQRコード付き。
+※本商品のご予約は全国のDARUMA STREET取扱店にて承っております。
+取扱店舗の情報はFIND A DEALER → よりご確認ください。
+海外のお客様は、下記のWORLDWIDE SHIPPING → よりご購入いただけます。
+予約締切日：2026年10月19日（月）まで`,
 
     },
 
@@ -981,11 +997,19 @@ The back of the package features a QR code that takes you to past works created 
         en: `The “MUKADE CAP,” originally released in the early days of DARUMA STREET, has been updated for the 10th anniversary.
 The iconic centipede motif remains, now combined with a traditional Japanese wave pattern originally used on one of DARUMA STREET’s early T-shirts.
 A piece that embodies the history and evolution of DARUMA STREET.
-Design: HONOKA SHINDO`,
+Design: HONOKA SHINDO
+*Pre-orders for this product are available through DARUMA STREET dealers across Japan.
+For dealer information, please visit FIND A DEALER →.
+Customers outside Japan can purchase through WORLDWIDE SHIPPING → below.
+Pre-order deadline: October 19, 2026 (Monday)`,
 
         ja: `ブランド初期にリリースした”MUKADE CAP”をベースに、10周年仕様へアップデート。象徴的なムカデのモチーフはそのままに、初期Tシャツで使用していた和柄の波模様をミックス。
 DARUMA STREETの歩みを体現した一作。
-デザイン：HONOKA SHINDO`,
+デザイン：HONOKA SHINDO
+※本商品のご予約は全国のDARUMA STREET取扱店にて承っております。
+取扱店舗の情報はFIND A DEALER → よりご確認ください。
+海外のお客様は、下記のWORLDWIDE SHIPPING → よりご購入いただけます。
+予約締切日：2026年10月19日（月）まで`,
 
     },
 
@@ -1031,10 +1055,17 @@ DARUMA STREETの歩みを体現した一作。
 
         en: `A patch pack featuring four designs from DARUMA STREET’s history.
 The back features a heat-activated adhesive that allows the patches to be attached with an iron.
-`,
+*Pre-orders for this product are available through DARUMA STREET dealers across Japan.
+For dealer information, please visit FIND A DEALER →.
+Customers outside Japan can purchase through WORLDWIDE SHIPPING → below.
+Pre-order deadline: October 19, 2026 (Monday)`,
 
         ja: `DARUMA STREET の歴代デザイン4種類を収めたワッペンパック。
-裏面はアイロンで接着可能な仕様（熱接着）となっております。`,
+裏面はアイロンで接着可能な仕様（熱接着）となっております。
+※本商品のご予約は全国のDARUMA STREET取扱店にて承っております。
+取扱店舗の情報はFIND A DEALER → よりご確認ください。
+海外のお客様は、下記のWORLDWIDE SHIPPING → よりご購入いただけます。
+予約締切日：2026年10月19日（月）まで`,
 
     },
 
@@ -1072,10 +1103,18 @@ The back features a heat-activated adhesive that allows the patches to be attach
 
     description: {
 
-        en: `A sticker pack featuring 18 designs, from DARUMA STREET’s classic logos to original artwork.`,
+        en: `A sticker pack featuring 18 designs, from DARUMA STREET’s classic logos to original artwork.
+        *Pre-orders for this product are available through DARUMA STREET dealers across Japan.
+For dealer information, please visit FIND A DEALER →.
+Customers outside Japan can purchase through WORLDWIDE SHIPPING → below.
+Pre-order deadline: October 19, 2026 (Monday)`,
 
         ja: `DARUMA STREET の定番ロゴからオリジナルデザインまで、
-全１８種類のステッカーを収録したステッカーパックです。`,
+全１８種類のステッカーを収録したステッカーパックです。
+※本商品のご予約は全国のDARUMA STREET取扱店にて承っております。
+取扱店舗の情報はFIND A DEALER → よりご確認ください。
+海外のお客様は、下記のWORLDWIDE SHIPPING → よりご購入いただけます。
+予約締切日：2026年10月19日（月）まで`,
 
     },
 
@@ -1086,7 +1125,9 @@ The back features a heat-activated adhesive that allows the patches to be attach
         { image: "assets/products/sticker-pack/Detail1.jpg" },
 
         { image: "assets/products/sticker-pack/Detail2.jpg" },
-        { image: "assets/products/sticker-pack/Detail3.jpg" }
+        { image: "assets/products/sticker-pack/Detail3.jpg" },
+        { image: "assets/products/sticker-pack/Detail4.jpg" },
+        { image: "assets/products/sticker-pack/Detail5.jpg" },
     ],
 
     buy: "https://store.motobunka.com/collections/daruma-street"

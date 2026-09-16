@@ -72,6 +72,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 <p class="product-price">${product.price}</p>
 
+                ${product.release || product.preorder ? `
+    <div class="product-release">
+        ${product.release ? `RELEASE　${product.release}` : ""}
+        ${product.preorder ? `<br>PRE-ORDER DEADLINE　${product.preorder}` : ""}
+    </div>
+` : ""}
+
                 <div class="product-section">
 
                     <h2>COLOR</h2>

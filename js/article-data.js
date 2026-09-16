@@ -1059,5 +1059,549 @@ BMXという乗り物である以上プラスチック製品は壊れやすい�
 
 },
 
+"daruma-street-10th-anniversary": {
+
+    category: "NEWS",
+
+    date: "2026.10.5",
+
+    title: "DARUMA STREET 10th ANNIVERSARY BMX PARTS, GOODS, AND APPAREL RELEASE",
+
+    hero: "assets/news/10th/main.jpg",
+
+    content: {
+    en: `
+DARUMA STREET was founded in 2016, and thanks to everyone who has supported us along the way, we are celebrating our 10th anniversary in 2026.
+
+To celebrate this milestone, we are releasing our first-ever lineup of BMX parts, goods, and apparel from DARUMA STREET.
+
+**[ PRE-ORDER PERIOD ]** October 5 – October 19
+
+Pre-orders can be placed at DARUMA STREET dealers across Japan.
+
+For information on DARUMA STREET dealers, please check **DARUMA STREET DEALERS →** below.
+
+For full product details, please visit **DARUMA STREET ALL PRODUCTS →**.
+
+**[ RELEASE DATE ]** October 30
+
+For product inquiries, shops interested in carrying DARUMA STREET, or any other inquiries, please feel free to contact us via DM on the official DARUMA STREET Instagram.
+
+We are always open to new dealers.
+
+`,
+
+    ja: `DARUMA STREETは2016年に始動し、皆様のおかげで今年2026年で10周年を迎えることができました。
+
+そしてこの度、10周年を記念して、DARUMA STREETから初となるBMXパーツやグッズ、アパレルを販売いたします！
+
+ご予約期間は、10月5日から10月19日までとなります。
+
+ご予約は、全国のDARUMA STREET取扱店にてお願いいたします。
+
+取扱店舗の情報は、下記のDARUMA STREET DEALERS → よりご確認ください。
+
+商品の詳細は、DARUMA STREET ALL PRODUCTS → よりご確認いただけます。
+
+発売開始は、10月30日からとなります。
+
+商品に関するお問い合わせ、取扱店をご希望のショップ様、その他のお問い合わせは、DARUMA STREET InstagramのDMよりお気軽にご連絡ください。
+
+新規でのお取り扱いも歓迎しております。`
+},
+
+
+    gallery: [
+        "assets/products/bullet-peg/main.jpg",
+        "assets/products/bullet-peg/Detail3.jpg",
+        "assets/products/bullet-peg/Detail2.jpg",
+        "assets/products/bullet-peg/Detail6.jpg",
+        "assets/products/mukade-cap/main.jpg",
+        "assets/products/mukade-cap/Detail7.jpg",
+        "assets/products/mukade-cap/Detail6.jpg",
+        "assets/products/mukade-cap/Detail5.jpg",
+        "assets/products/mukade-cap/Detail8.jpg",
+        "assets/products/wappen-pack/main.jpg",
+        "assets/products/wappen-pack/Detail4.jpg",
+        "assets/products/wappen-pack/Detail5.jpg",
+        "assets/products/cube-logo-pin-badge/main.jpg",
+        "assets/products/cube-logo-pin-badge/Detail1.jpg",
+        "assets/products/cube-logo-pin-badge/Detail4.jpg",
+        "assets/products/cube-logo-pin-badge/Detail5.jpg",
+        "assets/products/sticker-pack/main.jpg",
+        "assets/products/sticker-pack/Detail1.jpg",
+        "assets/products/sticker-pack/Detail2.jpg",
+        "assets/products/sticker-pack/Detail3.jpg",
+    ],
+
+    videos: [
+        "https://youtu.be/GbAoVAMtvcs?si=PsImWCaFEANSGjmu"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET ALL PRODUCTS",
+            url: "https://darumastreet.com/products"
+        },
+
+        {
+            label: "DARUMA STREET DEALERS",
+            url: "https://darumastreet.com/dealers"
+        }
+
+    ]
+
+
+},
+
+"yu-yoshida-bike-check": {
+
+    category: "NEWS",
+
+    date: "2026.09.16",
+
+    title: "YU YOSHIDA BIKE CHECK",
+
+    hero: "assets/news/yu-bike-check/main.jpg",
+
+    content: {
+    en: `
+[ BIKE CHECK ]
+Rider : YU YOSHIDA
+Sponsor : DARUMA STREET / CellaDoors / MOTO-BUNKA STORE / 
+ALIVE INDUSTRY / Bern / TOOLATE SPORTS / TATA SKATE PARK /
+Pompslowly /
+Photographer : NATSUKI TANIGUCHI
+
+Frame:ALIVE INDUSTRY LPL FRAME 20.5
+Fork:ALIVE INDUSTRY BRAVE FORK
+Bars:ALIVE INDUSTRY Survive Bar 8.3
+Grips:eclat
+STEM:ALIVE INDUSTRY PANTHER STEM 42mm
+Headset:Odyssey
+Pedals:Eclat Juggernaut pedal
+Cranks:Animal AKINBO Cranks 160mm
+Sprocket:ALIVE INDUSTRY B.L.GUARDSPROCKET
+Bottom Bracket:-
+Chain:Shadow Interlock V2 Chain
+Seat: Animal bikes Cush Seat
+Seat Post:Nous BMX
+Tires:Eclat
+Rims:Eclat
+Front Hub:ÉCLAT Cortex TA Front Hub
+Rear Hub:skapegoat × 90east
+Hub Guards:Animal,Eclat
+Tubes:pompslowly
+Valve Caps:None
+Pegs:DARUMA STREET Bullet peg
+
+Q. What is your favorite part, and why?
+
+A. ALIVE INDUSTRY PANTHER STEM 42mm
+
+It’s a 42mm top-load stem with a really compact feel. Personally, I find it makes manuals feel very stable.
+
+Q. Do you have any particular setup preferences? If so, why?
+
+A. Not really!`,
+
+    ja: `
+Q一番気にいってるパーツは、その理由も合わせて。
+
+A.
+〈 ALIVE INDUSTRY PANTHER STEM 42mm 〉
+トップロードで42mmのステムで、すごくコンパクトな乗り味です。個人的にマニュアルがめちゃくちゃ安定します。
+
+Q.こだわりのセッティングと、その理由は？
+
+A.特にないです！`
+},
+
+
+    gallery: [
+        "assets/news/yu-bike-check/photo1.jpg",
+        "assets/news/yu-bike-check/photo2.jpg",
+        "assets/news/yu-bike-check/photo3.jpg",
+        "assets/news/yu-bike-check/photo4.jpg",
+        "assets/news/yu-bike-check/photo5.jpg",
+        "assets/news/yu-bike-check/photo6.jpg",
+        "assets/news/yu-bike-check/photo7.jpg",
+        "assets/news/yu-bike-check/photo8.jpg",
+        "assets/news/yu-bike-check/photo9.jpg",
+    ],
+
+    videos: [
+        "https://youtu.be/vfrn9b3SW5k?si=9vEZlfKhwHCWmQuM"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
+        {
+            label: "YU YOSHIDA Instagram",
+            url: "https://www.instagram.com/yu_yoshida/"
+        }
+
+    ]
+
+
+},
+
+"kazuma-sato-bike-check": {
+
+    category: "NEWS",
+
+    date: "2026.09.18",
+
+    title: "KAZUMA SATO BIKE CHECK",
+
+    hero: "assets/news/kazuma-sato-bike-check/main.jpg",
+
+    content: {
+    en: `
+[ BIKE CHECK ]
+Rider : KAZUMA SATO
+Sponsor : DARUMA STREET / NICE KUSO SPOT
+Photographer : KAZUMA SATO
+
+Frame: United AUTOPORTRAIT FRAME 20.8
+Fork: United
+Bars: Animal Foursome bar 9”Rise 
+Grips: Animal Edwin Grip V2
+Stem: Alive Industry RT STEM 40mm
+Headset: Unknow
+Pedals: Animal Hamilton Metal Pedal
+Cranks: Animal AKINBO Cranks 170mm”
+Sprocket: Alive Industry B.L SPROCKET 26T 
+Bottom Bracket: Unknow
+Chain: Unknow
+Seat: United 
+Seat Post: Unknow
+Tires: Animal ASM TIRE 2.25”
+Rims: Eclat
+Front Hub: Eclat
+Rear Hub: Skapegoat × 90east
+Hub Guards: Animal
+Tubes: Unknow
+Valve Caps: Unknow
+Pegs: DARUMA STREET Bullet Peg
+
+Q. What are your favorite parts, and why?
+A.
+< Animal Foursome Bar 9° Rise >
+The shape is perfect!
+< United AUTOPORTRAIT Frame 20.8" >
+The raw color is perfect!
+
+Q. Do you have any particular setup preferences? If so, why?
+A.Not really!`,
+
+    ja: `
+Q.一番気に入っているパーツは、その理由もあわせて。
+A.
+< Animal Foursome bar 9 Rise >
+形が最高！
+
+< United AUTOPORTRAIT FRAME 20.8>
+RAWカラーが最高！
+
+
+Q.こだわりのセッティングと、その理由は？
+A.特になし！`
+},
+
+
+    gallery: [
+        "assets/news/kazuma-sato-bike-check/photo1.jpg",
+        "assets/news/kazuma-sato-bike-check/photo2.jpg",
+        "assets/news/kazuma-sato-bike-check/photo3.jpg",
+        "assets/news/kazuma-sato-bike-check/photo4.jpg",
+        "assets/news/kazuma-sato-bike-check/photo5.jpg",
+        "assets/news/kazuma-sato-bike-check/photo6.jpg",
+        "assets/news/kazuma-sato-bike-check/photo7.jpg",
+        "assets/news/kazuma-sato-bike-check/photo8.jpg",
+    ],
+
+    videos: [
+        "https://youtu.be/BPbSgf6omM8?si=kXsbo-lqVieI4mpH"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
+        {
+            label: "KAZUMA SATO Instagram",
+            url: "https://www.instagram.com/satokazuma_/"
+        }
+
+    ]
+
+
+},
+
+"osomatsu-bike-check": {
+
+    category: "NEWS",
+
+    date: "2026.09.20",
+
+    title: "OSOMATSU BIKE CHECK",
+
+    hero: "assets/news/osomatsu-bike-check/main.jpg",
+
+    content: {
+    en: `
+[ BIKE CHECK ]
+Rider : OSOMASTU
+Sponsor : DARUMA STREET / ANIMAL BIKES / ALIVE INDUSTRY /
+MOTO-BUNKA STORE / ACTLIKEYOUKNOW / TOOLATE SPORTS /
+TATASKATEPARK / PompSlowly / Anarkeys
+Photographer : KAZUMA SATO
+
+Frame: Alive Industry  LPL FRAME 20.5
+Fork: Eclat
+Bars: Alive Industry  TG2000 9Rise 
+Grips: ODI
+Stem: Alive Industry | HIGHSIDE STEM 35mm
+Headset:Animal
+Pedals:Animal Animal Hamilton Metal Pedal
+Cranks: Animal AKINBO Cranks 160mm
+Sprocket: Alive Industry A6061 GUARD SPROCKET
+Bottom Bracket: Animal 
+Chain: Animal HODER 710 Chain
+Seat: Animal Cush Seat
+Seat Post: Animal Wedge Post
+Tires: Animal GLH Tires 2.3
+Front Hubs: Animal Javelin Hubs
+Front Rims: Animal RS Rims
+Rear Hubs: Skapegoat × 90east
+Rear Rims: Eclat
+Hub Guards: Animal
+Tubes: Pomp Slowly TPU Shit Tubes
+Valve Caps: MOTO-BUNKA Valve Caps
+Pegs: DARUMA STREET Bullet Peg
+
+Q. What are your favorite parts, and why?
+A.
+< Animal GLH Tire >
+These tires have the best durability I've ever used. Even when grinding ledges with bolts sticking out from the side, they don't tear.
+< Alive Industry LPL Frame >
+I love its addictive, compact feel.
+Quick-handling bikes are often said to feel unstable, but I don't feel any instability with this frame.
+
+Q. Do you have any particular setup preferences? If so, why?
+A.
+< Handlebar Angle & Steel Pegs >
+・I've always run my handlebars tilted slightly back from parallel.
+I find it easier to control the bike when there is less space between my body and the bars. It also makes it easier to get into a forward-leaning position when doing feebles.
+I also feel that it helps me maintain speed and stability during long grinds.
+
+・The main reason I choose steel pegs is durability. I prefer my parts to be as tough as possible.
+When it comes to sliding, I also tend to ride spots where steel pegs slide better than plastic pegs.
+I choose steel pegs so I can ride my local spots and the spots I like without any unnecessary stress.`,
+
+    ja: `Q.一番気に入っているパーツは、その理由もあわせて。
+A.
+< Animal GLH Tire > 
+側面からボルトが飛び出ているレッジでグラインドしても、割けることのない強度No.1を誇るタイヤ。
+
+< Alive Industry LPL Frame > 
+病みつきになるコンパクトな乗り味。
+クイックなバイクは不安定と言われがちですが、僕は不安定さは感じません。
+
+Q.こだわりのセッティングと、その理由は？
+A.
+< ハンドルバーの角度と鉄ペグ >
+・昔からハンドルバーの角度は、平行より内側に寝かせてます。
+体とバーのスペースが詰まってる方が取り回しやすく、フィーブルの際の前傾姿勢も入れ易く、
+長いグラインドでもスピードが落ちづらく、安定もすると思っています。
+
+・鉄ペグを選んでる理由は、まず強度ですね。パーツは頑丈な方が好みです。
+滑りに関しても、プラスチックペグより鉄ペグの方が良く滑るスポットで乗ることが多いからです。
+自分の街と、好みのスポットでストレスなく乗るために鉄ペグを選んでます。`
+},
+
+
+    gallery: [
+        "assets/news/osomatsu-bike-check/photo1.jpg",
+        "assets/news/osomatsu-bike-check/photo2.jpg",
+        "assets/news/osomatsu-bike-check/photo3.jpg",
+        "assets/news/osomatsu-bike-check/photo4.jpg",
+        "assets/news/osomatsu-bike-check/photo5.jpg",
+        "assets/news/osomatsu-bike-check/photo6.jpg",
+        "assets/news/osomatsu-bike-check/photo7.jpg",
+        "assets/news/osomatsu-bike-check/photo8.jpg",
+    ],
+
+    videos: [
+        "https://www.youtube.com/watch?v=WrgEmrNW3Gw"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET Instagram",
+            url: "https://www.instagram.com/daruma_street/"
+        },
+
+        {
+            label: "OSOMASTU Instagram",
+            url: "https://www.instagram.com/osomatsu_bmx/"
+        }
+
+    ]
+
+
+},
+
+"jp-bullet-peg": {
+
+    category: "NEWS",
+
+    date: "2026.10.5",
+
+    title: "オリジナルクロモリPEG『BULLET PEG』予約開始！！",
+
+    hero: "assets/news/bullet-peg/main.jpg",
+
+    content: {
+    en: ` `,
+
+    ja: `DARUMA STREET１０周年を記念したプロダクトとして、オリジナルクロモリPEGの発売が決定しました！
+DARUMA STREETライダーによる3年間にわたるライディングテストを経て完成した『BULLET PEG』
+スペックや、プロモ映像は下記にまとめてあります！
+ぜひご覧ください！
+
+-SPEC-
+長さ：120ｍｍ (4.7 inch)
+直径：37ｍｍ
+素材：4130 Chromoly Steel
+アクスルサイズ：14ｍｍ
+重さ：約210g
+
+- 商品詳細 -
+DARUMA STREET 10周年を記念して製作された限定モデルのクロモリペグ。
+本体は4130クロモリを鍛造で成形。さらに焼入れ処理を施し、強度と靱性を両立した仕様。
+長さは安定したグラインドを実現できる120mm。
+肉厚は中央1.5mm、エンド部2mmのテーパー設計。摩擦が集中する端部を強化しながら、重量は1本約210gに抑えています。
+DARUMA STREETライダーによる3年間にわたるライディングテストを経て完成。
+
+予約期間 ：10月5日〜10月19日
+発売開始 ：10月30日
+※数に限りがございますので、発売前にご予約いただいた方には優先的にご用意いたします。
+
+全国の取扱店舗の情報は、下記のDARUMA STREET DEALERS → よりご確認ください。
+※商品に関するお問い合わせ、取扱店をご希望のショップ様、その他のお問い合わせは、DARUMA STREET InstagramのDMよりお気軽にご連絡ください。
+新規でのお取り扱いも歓迎しております。`
+},
+
+
+    gallery: [
+        "assets/products/bullet-peg/main.jpg",
+        "assets/products/bullet-peg/Detail1.jpg",
+        "assets/products/bullet-peg/Detail2.jpg",
+        "assets/products/bullet-peg/Detail3.jpg",
+        "assets/products/bullet-peg/Detail4.jpg",
+        "assets/products/bullet-peg/Detail5.jpg",
+        "assets/products/bullet-peg/Detail6.jpg",
+        "assets/products/bullet-peg/Detail7.jpg",
+        "assets/products/bullet-peg/Detail8.jpg",
+        "assets/products/bullet-peg/Detail9.jpg",
+    ],
+
+    videos: [
+        "https://youtu.be/GbAoVAMtvcs?si=PsImWCaFEANSGjmu"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET ALL PRODUCTS",
+            url: "https://darumastreet.com/products"
+        },
+        {
+            label: "DARUMA STREET DEALERS",
+            url: "https://darumastreet.com/dealers"
+        }
+    ]
+
+},
+
+"en-bullet-peg": {
+
+    category: "NEWS",
+
+    date: "2026.10.5",
+
+    title: "original Chromoly PEG『BULLET PEG』Pre-order Now!!",
+
+    hero: "assets/news/bullet-peg/main.jpg",
+
+    content: {
+    en: `As part of DARUMA STREET's 10th Anniversary, we are proud to introduce our original Chromoly PEG, BULLET PEG.
+The BULLET PEG was developed and perfected through three years of riding tests by DARUMA STREET riders.
+Specifications and the promo video are available below.
+Check it out!
+
+-SPEC-
+Length: 120 mm (4.7 in)
+Diameter: 37 mm
+Material: 4130 Chromoly Steel
+Axle Size: 14 mm
+Weight: Approx. 210 g per peg
+
+-PRODUCT DETAILS-
+A limited-edition Chromoly peg created to celebrate DARUMA STREET's 10th Anniversary.
+The body is forged from 4130 Chromoly Steel.
+It is then heat-treated to achieve a balance of strength and toughness.
+The 120 mm length provides a stable platform for grinding.
+The body features a tapered wall thickness, measuring 1.5 mm at the center and 2 mm at the ends.
+The ends are reinforced to withstand concentrated friction while keeping the weight down to approximately 210 g per peg.
+The BULLET PEG was developed and perfected through three years of riding tests by DARUMA STREET riders.
+
+PRE-ORDER PERIOD  : October 5 – October 19
+RELEASE DATE            : October 30
+Customers who place their pre-orders before the official release will receive priority when the product is allocated.
+For information on DARUMA STREET dealers across Japan, please check DARUMA STREET DEALERS → below.
+For product inquiries, shops interested in carrying DARUMA STREET, or any other inquiries, please feel free to contact us via DM on the official DARUMA STREET Instagram.
+We are always open to new dealers.`,
+
+    ja: ``
+},
+
+
+    gallery: [
+        "assets/products/bullet-peg/main.jpg",
+        "assets/products/bullet-peg/Detail1.jpg",
+        "assets/products/bullet-peg/Detail2.jpg",
+        "assets/products/bullet-peg/Detail3.jpg",
+        "assets/products/bullet-peg/Detail4.jpg",
+        "assets/products/bullet-peg/Detail5.jpg",
+        "assets/products/bullet-peg/Detail6.jpg",
+        "assets/products/bullet-peg/Detail7.jpg",
+        "assets/products/bullet-peg/Detail8.jpg",
+        "assets/products/bullet-peg/Detail9.jpg",
+    ],
+
+    videos: [
+        "https://youtu.be/GbAoVAMtvcs?si=PsImWCaFEANSGjmu"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET ALL PRODUCTS",
+            url: "https://darumastreet.com/products"
+        },
+        {
+            label: "DARUMA STREET DEALERS",
+            url: "https://darumastreet.com/dealers"
+        }
+    ]
+
+},
 
 };

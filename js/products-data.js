@@ -93,6 +93,8 @@ const products = [
     id: "mukade-cap",
     name: "Mukade Cap",
     price: "¥6,600",
+    release: "2026.10.30",
+    preorder: "2026.10.19",
     published: false,
     image: "assets/products/mukade-cap/main.jpg",
     details: "product.html?id=mukade-cap"
@@ -144,6 +146,8 @@ const products = [
     id: "cube-logo-pin-badge",
     name: "Cube Logo Pin Badge",
     price: "¥1,800",
+    release: "2026.10.30",
+    preorder: "2026.10.19",
     published: false,
     image: "assets/products/cube-logo-pin-badge/main.jpg",
     details: "product.html?id=cube-logo-pin-badge"
@@ -153,6 +157,8 @@ const products = [
     id: "wappen-pack",
     name: "Wappen Pack",
     price: "¥2,800",
+    release: "2026.10.30",
+    preorder: "2026.10.19",
     published: false,
     image: "assets/products/wappen-pack/main.jpg",
     details: "product.html?id=wappen-pack"
@@ -162,6 +168,8 @@ const products = [
     id: "sticker-pack",
     name: "Sticker Pack",
     price: "¥1,850",
+    release: "2026.10.30",
+    preorder: "2026.10.19",
     published: false,
     image: "assets/products/sticker-pack/main.jpg",
     details: "product.html?id=sticker-pack"
@@ -227,6 +235,8 @@ const products = [
         id: "bullet-peg",
         name: "Bullet Peg",
         price: "¥3,980",
+        release: "2026.10.30",
+        preorder: "2026.10.19",
         published: false,
         image: "assets/products/bullet-peg/main.jpg",
         details: "product.html?id=bullet-peg"
