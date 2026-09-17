@@ -1,6 +1,20 @@
 const news = [
 
 {
+    id: "kazuma-sato-bike-check",
+
+    category: "NEWS",
+
+    date: "2026.09.18",
+
+    title: "KAZUMA SATO BIKE CHECK",
+
+    image: "assets/news/kazuma-sato-bike-check/main.jpg",
+
+    article: "article.html?id=kazuma-sato-bike-check"
+},
+
+{
     id: "yu-yoshida-bike-check",
 
     category: "NEWS",
