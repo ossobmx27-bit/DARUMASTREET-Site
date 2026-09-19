@@ -1,4 +1,18 @@
 const news = [
+    
+{
+    id: "osomatsu-bike-check",
+
+    category: "NEWS",
+
+    date: "2026.09.20",
+
+    title: "OSOMATSU BIKE CHECK",
+
+    image: "assets/news/osomatsu-bike-check/main.jpg",
+
+    article: "article.html?id=osomatsu-bike-check"
+},
 
 {
     id: "kazuma-sato-bike-check",

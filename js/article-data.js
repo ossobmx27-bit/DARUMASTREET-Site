@@ -1063,7 +1063,7 @@ BMXという乗り物である以上プラスチック製品は壊れやすい�
 
     category: "NEWS",
 
-    date: "2026.10.5",
+    date: "2026.10.6",
 
     title: "DARUMA STREET 10th ANNIVERSARY BMX PARTS, GOODS, AND APPAREL RELEASE",
 
