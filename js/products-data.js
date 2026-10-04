@@ -137,7 +137,7 @@ const products = [
     release: "2026.10.30",
     preorder: "2026.10.19",
     published: true,
-    image: "assets/products/cube-logo-pin-badge/main.jpg",
+    image: "assets/products/cube-logo-pin-badge/Main.jpg",
     details: "product.html?id=cube-logo-pin-badge"
 },
 
@@ -149,7 +149,7 @@ const products = [
     release: "2026.10.30",
     preorder: "2026.10.19",
     published: true,
-    image: "assets/products/wappen-pack/main.jpg",
+    image: "assets/products/wappen-pack/Main.jpg",
     details: "product.html?id=wappen-pack"
 },
 
@@ -161,7 +161,7 @@ const products = [
     release: "2026.10.30",
     preorder: "2026.10.19",
     published: true,
-    image: "assets/products/sticker-pack/main.jpg",
+    image: "assets/products/sticker-pack/Main.jpg",
     details: "product.html?id=sticker-pack"
 },
 
