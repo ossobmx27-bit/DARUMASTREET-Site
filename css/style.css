@@ -207,10 +207,6 @@ main a:hover{
     gap:12px;
 }
 
-#hero .slide img{
-    object-fit:cover;
-}
-
 /* Search */
 
 #searchOverlay{
@@ -253,6 +249,10 @@ main section{
 
 .menu-social{
     margin-top:16px;
+}
+
+#hero .slide img{
+    object-fit:cover;
 }
 
 }
