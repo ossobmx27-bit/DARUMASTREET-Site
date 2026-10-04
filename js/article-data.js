@@ -1465,7 +1465,7 @@ A.
 
     date: "2026.10.5",
 
-    title: "『BULLET PEG』予約開始",
+    title: "『BULLET PEG』予約開始！！",
 
     hero: "assets/news/bullet-peg/main.jpg",
 

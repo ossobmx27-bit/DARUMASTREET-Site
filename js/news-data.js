@@ -21,7 +21,7 @@ const news = [
 
     date: "2026.10.05",
 
-    title: "『BULLET PEG』予約開始",
+    title: "『BULLET PEG』予約開始！！",
 
     image: "assets/news/bullet-peg/main.jpg",
 
