@@ -961,7 +961,7 @@ Pre-order deadline: October 19, 2026 (Monday)`,
 
     gallery: [
 
-        { image: "assets/products/cube-logo-pin-badge/main.jpg" },
+        { image: "assets/products/cube-logo-pin-badge/Main.jpg" },
 
         { image: "assets/products/cube-logo-pin-badge/Detail1.jpg" },
 
@@ -1071,7 +1071,7 @@ Pre-order deadline: October 19, 2026 (Monday)`,
 
     gallery: [
 
-        { image: "assets/products/wappen-pack/main.jpg" },
+        { image: "assets/products/wappen-pack/Main.jpg" },
 
         { image: "assets/products/wappen-pack/Detail1.jpg" },
 
@@ -1120,7 +1120,7 @@ Pre-order deadline: October 19, 2026 (Monday)`,
 
     gallery: [
 
-        { image: "assets/products/sticker-pack/main.jpg" },
+        { image: "assets/products/sticker-pack/Main.jpg" },
 
         { image: "assets/products/sticker-pack/Detail1.jpg" },
 
