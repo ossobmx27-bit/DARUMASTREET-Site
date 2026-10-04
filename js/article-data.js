@@ -1059,13 +1059,13 @@ BMXという乗り物である以上プラスチック製品は壊れやすい�
 
 },
 
-"daruma-street-10th-anniversary": {
+"daruma-street-10years-anniversary": {
 
     category: "NEWS",
 
-    date: "2026.10.6",
+    date: "2026.10.5",
 
-    title: "DARUMA STREET 10th ANNIVERSARY BMX PARTS, GOODS, AND APPAREL RELEASE",
+    title: "DARUMA STREET 10YEARS ANNIVERSARY",
 
     hero: "assets/news/10th/main.jpg",
 
@@ -1093,7 +1093,7 @@ We are always open to new dealers.
 
     ja: `DARUMA STREETは2016年に始動し、皆様のおかげで今年2026年で10周年を迎えることができました。
 
-そしてこの度、10周年を記念して、DARUMA STREETから初となるBMXパーツやグッズ、アパレルを販売いたします！
+そしてこの度、10周年を記念して、DARUMA STREETから初となるBMXパーツや、グッズ、アパレルを販売いたします！
 
 ご予約期間は、10月5日から10月19日までとなります。
 
@@ -1450,7 +1450,7 @@ A.
         },
 
         {
-            label: "OSOMASTU Instagram",
+            label: "OSOMATSU Instagram",
             url: "https://www.instagram.com/osomatsu_bmx/"
         }
 
@@ -1465,7 +1465,7 @@ A.
 
     date: "2026.10.5",
 
-    title: "オリジナルクロモリPEG『BULLET PEG』予約開始！！",
+    title: "『BULLET PEG』予約開始",
 
     hero: "assets/news/bullet-peg/main.jpg",
 
@@ -1537,7 +1537,7 @@ DARUMA STREETライダーによる3年間にわたるライディングテスト
 
     date: "2026.10.5",
 
-    title: "original Chromoly PEG『BULLET PEG』Pre-order Now!!",
+    title: "『BULLET PEG』Pre-order Now!!",
 
     hero: "assets/news/bullet-peg/main.jpg",
 

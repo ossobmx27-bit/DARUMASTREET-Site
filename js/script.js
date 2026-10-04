@@ -110,10 +110,7 @@ const homeNewsList = document.getElementById("home-news-list");
 
 if (homeNewsList && typeof news !== "undefined") {
 
-    const latestNews =
-    window.innerWidth <= 768
-        ? news.slice(0, 2)
-        : news.slice(0, 3);
+    const latestNews = news.slice(0, 3);
 
 latestNews.forEach(item => {
 
@@ -169,7 +166,7 @@ if (homeProductsList && typeof products !== "undefined") {
 
     });
 
-    featuredProducts.slice(0, 3).forEach(item => {
+    featuredProducts.slice(0, 6).forEach(item => {
 
         const card = document.createElement("a");
 

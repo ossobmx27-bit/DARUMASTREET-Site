@@ -1,5 +1,47 @@
 const news = [
-    
+
+{
+    id: "daruma-street-10years-anniversary",
+
+    category: "NEWS",
+
+    date: "2026.10.05",
+
+    title: "DARUMA STREET 10YEARS ANNIVERSARY",
+
+    image: "assets/news/10th/main.jpg",
+
+    article: "article.html?id=daruma-street-10years-anniversary"
+},
+
+{
+    id: "jp-bullet-peg",
+
+    category: "NEWS",
+
+    date: "2026.10.05",
+
+    title: "『BULLET PEG』予約開始",
+
+    image: "assets/news/bullet-peg/main.jpg",
+
+    article: "article.html?id=jp-bullet-peg"
+},
+
+{
+    id: "en-bullet-peg",
+
+    category: "NEWS",
+
+    date: "2026.10.05",
+
+    title: "BULLET PEG』Pre-order Now!!",
+
+    image: "assets/news/bullet-peg/main.jpg",
+
+    article: "article.html?id=en-bullet-peg"
+},
+
 {
     id: "osomatsu-bike-check",
 
@@ -81,7 +123,7 @@ const news = [
 
     image: "assets/news/then/main.jpg",
 
-    article: "article.html?id=daruma-street-then"
+    article: "article.html?id=daruma-street-then-2016"
 },
 
 {

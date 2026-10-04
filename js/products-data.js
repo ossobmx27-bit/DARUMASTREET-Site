@@ -1,32 +1,20 @@
 const products = [
 
   {
-    category: "TOPS",
+    category: "PARTS",
 
     items: [
 
       {
-        id: "grind-work-shirt",
-        name: "Grind Work Shirt",
-        price: "¥8,980",
-        image: "assets/products/grind-work-shirt/main.jpg",
-        details: "product.html?id=grind-work-shirt"
-      },
-
-      {
-        id: "box-logo-sweat",
-        name: "Box Logo Sweat",
-        price: "¥11,000",
-        image: "assets/products/box-logo-sweat/main.jpg",
-        details: "product.html?id=box-logo-sweat"
-      },
-
-      {
-        id: "cube-logo-sweater",
-        name: "Cube Logo Sweater",
-        price: "¥19,800",
-        image: "assets/products/cube-logo-sweater/main.jpg",
-        details: "product.html?id=cube-logo-sweater"
+        id: "bullet-peg",
+        featured: true,
+        name: "Bullet Peg",
+        price: "¥3,980",
+        release: "2026.10.30",
+        preorder: "2026.10.19",
+        published: true,
+        image: "assets/products/bullet-peg/main.jpg",
+        details: "product.html?id=bullet-peg"
       }
 
     ]
@@ -41,7 +29,6 @@ const products = [
 
       {
         id: "logo-t-shirt",
-        featured: true,
         name: "Logo T-Shirt",
         price: "¥4,400",
         image: "assets/products/logo-t-shirt/main.webp",
@@ -91,11 +78,12 @@ const products = [
     items: [
 {
     id: "mukade-cap",
+    featured: true,
     name: "Mukade Cap",
     price: "¥6,600",
     release: "2026.10.30",
     preorder: "2026.10.19",
-    published: false,
+    published: true,
     image: "assets/products/mukade-cap/main.jpg",
     details: "product.html?id=mukade-cap"
 },
@@ -118,7 +106,6 @@ const products = [
 
 {
     id: "logo-socks",
-    featured: true,
     name: "Logo Socks",
     price: "¥1,980",
     image: "assets/products/logo-socks/main.webp",
@@ -144,33 +131,36 @@ const products = [
     items: [
 {
     id: "cube-logo-pin-badge",
+    featured: true,
     name: "Cube Logo Pin Badge",
     price: "¥1,800",
     release: "2026.10.30",
     preorder: "2026.10.19",
-    published: false,
+    published: true,
     image: "assets/products/cube-logo-pin-badge/main.jpg",
     details: "product.html?id=cube-logo-pin-badge"
 },
 
 {
     id: "wappen-pack",
+    featured: true,
     name: "Wappen Pack",
     price: "¥2,800",
     release: "2026.10.30",
     preorder: "2026.10.19",
-    published: false,
+    published: true,
     image: "assets/products/wappen-pack/main.jpg",
     details: "product.html?id=wappen-pack"
 },
 
 {
     id: "sticker-pack",
+    featured: true,
     name: "Sticker Pack",
     price: "¥1,850",
     release: "2026.10.30",
     preorder: "2026.10.19",
-    published: false,
+    published: true,
     image: "assets/products/sticker-pack/main.jpg",
     details: "product.html?id=sticker-pack"
 },
@@ -201,7 +191,6 @@ const products = [
 
 {
     id: "daruma-street-dvd",
-    featured: true,
     name: "DARUMA STREET DVD",
     price: "¥1,500",
     image: "assets/products/daruma-street-dvd/main.jpg",
@@ -227,19 +216,33 @@ const products = [
   },
 
   {
-    category: "PARTS",
+    category: "TOPS",
 
     items: [
 
       {
-        id: "bullet-peg",
-        name: "Bullet Peg",
-        price: "¥3,980",
-        release: "2026.10.30",
-        preorder: "2026.10.19",
-        published: false,
-        image: "assets/products/bullet-peg/main.jpg",
-        details: "product.html?id=bullet-peg"
+        id: "grind-work-shirt",
+        name: "Grind Work Shirt",
+        price: "¥8,980",
+        image: "assets/products/grind-work-shirt/main.jpg",
+        details: "product.html?id=grind-work-shirt"
+      },
+
+      {
+        id: "box-logo-sweat",
+        name: "Box Logo Sweat",
+        price: "¥11,000",
+        image: "assets/products/box-logo-sweat/main.jpg",
+        details: "product.html?id=box-logo-sweat"
+      },
+
+      {
+        id: "cube-logo-sweater",
+        featured: true,
+        name: "Cube Logo Sweater",
+        price: "¥19,800",
+        image: "assets/products/cube-logo-sweater/main.jpg",
+        details: "product.html?id=cube-logo-sweater"
       }
 
     ]
