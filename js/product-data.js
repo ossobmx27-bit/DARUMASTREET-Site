@@ -926,7 +926,7 @@ DARUMA STREETライダーによる3年間にわたるライディングテスト
 
 },
 
-"cube-Logo-Pin-Badge": {
+"cube-logo-pin-badge": {
 
     colors: [
         "Only"
