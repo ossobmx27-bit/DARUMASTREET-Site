@@ -1628,7 +1628,9 @@ Pre-orders for the DARUMA STREET 10th Anniversary Products close on October 19, 
 
 MBストアでは、10周年記念アイテムをはじめ、各種DARUMA STREET商品を取り扱っています。
 
-国内外からのご予約・ご購入は、下記のリンクボタンよりご利用ください。
+国内外からのご予約・ご購入は、下記のMOTO-BUNKA STOREリンクボタンよりご利用ください。
+
+その他国内の取扱店舗情報は、下記のDARUMA STREET DEALERSリンクボタンよりご確認ください。
 
 DARUMA STREET 10周年記念プロダクツのプレオーダーは、2026年10月19日締切です。
 `
