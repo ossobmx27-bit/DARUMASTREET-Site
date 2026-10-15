@@ -1,6 +1,20 @@
 const news = [
 
 {
+    id: "daruma-street-world-wide-shipping",
+
+    category: "NEWS",
+
+    date: "2026.10.15",
+
+    title: "DARUMA STREET WORLD WIDE SHIPPING",
+
+    image: "assets/news/moto-bunka-store/main.jpg",
+
+    article: "article.html?id=daruma-street-world-wide-shipping"
+},
+
+{
     id: "daruma-street-10years-anniversary",
 
     category: "NEWS",

@@ -1604,4 +1604,59 @@ We are always open to new dealers.`,
 
 },
 
+"daruma-street-world-wide-shipping": {
+
+    category: "NEWS",
+
+    date: "2026.10.15",
+
+    title: "DARUMA STREET WORLD WIDE SHIPPING",
+
+    hero: "assets/news/moto-bunka-store/main.jpg",
+
+    content: {
+    en: `DARUMA STREET 10th Anniversary Products are now available for pre-order!
+
+MB STORE carries a range of DARUMA STREET products, including our 10th Anniversary items.
+
+For pre-orders and purchases from Japan and worldwide, please use the link button below.
+
+Pre-orders for the DARUMA STREET 10th Anniversary Products close on October 19, 2026.
+`,
+
+    ja: `DARUMA STREET 10周年記念プロダクツ、現在プレオーダー受付中！
+
+MBストアでは、10周年記念アイテムをはじめ、各種DARUMA STREET商品を取り扱っています。
+
+国内外からのご予約・ご購入は、下記のリンクボタンよりご利用ください。
+
+DARUMA STREET 10周年記念プロダクツのプレオーダーは、2026年10月19日締切です。
+`
+},
+
+
+    gallery: [
+        "assets/news/moto-bunka-store/photo1.jpg",
+],
+
+    videos: [
+        "https://youtu.be/GbAoVAMtvcs?si=PsImWCaFEANSGjmu"
+    ],
+
+    links: [
+        {
+            label: "MOTO-BUNKA STORE",
+            url: "https://store.motobunka.com/collections/daruma-street"
+        },
+
+        {
+            label: "DARUMA STREET DEALERS",
+            url: "https://darumastreet.com/dealers"
+        }
+
+    ]
+
+
+},
+
 };
