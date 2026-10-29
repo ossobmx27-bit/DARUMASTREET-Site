@@ -1,6 +1,20 @@
 const news = [
 
 {
+    id: "10th-anniversary-products-now-available",
+
+    category: "NEWS",
+
+    date: "2026.10.30",
+
+    title: "10th Anniversary Products Now Available",
+
+    image: "assets/news/10th-now-available/main.jpg",
+
+    article: "article.html?id=10th-anniversary-products-now-available"
+},
+
+{
     id: "daruma-street-world-wide-shipping",
 
     category: "NEWS",

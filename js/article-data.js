@@ -1661,4 +1661,92 @@ DARUMA STREET 10周年記念プロダクツのプレオーダーは、2026年10�
 
 },
 
+"10th-anniversary-products-now-available": {
+
+    category: "NEWS",
+
+    date: "2026.10.30",
+
+    title: "10th Anniversary Products Now Available",
+
+    hero: "assets/news/10th-now-available/main.jpg",
+
+    content: {
+    en: `
+The DARUMA STREET 10th Anniversary Products are now available!
+
+To purchase our products, please visit a DARUMA STREET dealer across Japan or shop at MOTO-BUNKA STORE. MOTO-BUNKA STORE accepts orders from both Japan and overseas.
+
+For dealer information, visit **DARUMA STREET DEALERS →** below.
+For product details, check out **DARUMA STREET ALL PRODUCTS →**.
+
+For product inquiries, wholesale inquiries, or any other questions, feel free to contact us via DM on the official DARUMA STREET Instagram account.
+
+We welcome new dealers.
+
+*Note: Sales and shipping through MOTO-BUNKA STORE are scheduled to begin in early November.*`,
+
+    ja: `DARUMA STREET 10周年記念プロダクツ、各種発売開始！
+
+商品のお求めは、全国のDARUMA STREET取扱店、またはMOTO-BUNKA STOREをご利用ください。
+MOTO-BUNKA STOREでは、国内・海外からのご注文を承っております。
+※ MOTO-BUNKA STOREでの販売・発送は11月上旬を予定しております。
+
+商品の詳細は、「DARUMA STREET ALL PRODUCTS →」よりご覧ください。
+取扱店舗の情報は、下記の「DARUMA STREET DEALERS →」よりご確認いただけます。
+
+商品に関するお問い合わせ、お取り扱いをご希望のショップ様、その他のお問い合わせは、DARUMA STREET公式InstagramのDMよりお気軽にご連絡ください。
+
+新規お取り扱いも歓迎しております。`
+},
+
+
+    gallery: [
+        "assets/products/bullet-peg/main.jpg",
+        "assets/products/bullet-peg/Detail3.jpg",
+        "assets/products/bullet-peg/Detail2.jpg",
+        "assets/products/bullet-peg/Detail6.jpg",
+        "assets/products/mukade-cap/main.jpg",
+        "assets/products/mukade-cap/Detail7.jpg",
+        "assets/products/mukade-cap/Detail6.jpg",
+        "assets/products/mukade-cap/Detail5.jpg",
+        "assets/products/mukade-cap/Detail8.jpg",
+        "assets/products/wappen-pack/Main.jpg",
+        "assets/products/wappen-pack/Detail4.jpg",
+        "assets/products/wappen-pack/Detail5.jpg",
+        "assets/products/cube-logo-pin-badge/Main.jpg",
+        "assets/products/cube-logo-pin-badge/Detail1.jpg",
+        "assets/products/cube-logo-pin-badge/Detail4.jpg",
+        "assets/products/cube-logo-pin-badge/Detail5.jpg",
+        "assets/products/sticker-pack/Main.jpg",
+        "assets/products/sticker-pack/Detail1.jpg",
+        "assets/products/sticker-pack/Detail2.jpg",
+        "assets/products/sticker-pack/Detail3.jpg",
+    ],
+
+    videos: [
+        "https://youtu.be/GbAoVAMtvcs?si=PsImWCaFEANSGjmu"
+    ],
+
+    links: [
+        {
+            label: "DARUMA STREET ALL PRODUCTS",
+            url: "https://darumastreet.com/products"
+        },
+
+        {
+            label: "DARUMA STREET DEALERS",
+            url: "https://darumastreet.com/dealers"
+        },
+
+        {
+            label: "MOTO-BUNKA STORE",
+            url: "https://store.motobunka.com/collections/daruma-street"
+        },
+
+    ]
+
+
+},
+
 };
